@@ -37,11 +37,11 @@ background: '/img/bg-index.jpg'
 <!-- Posts List with Sidebar (except featured)
 ================================================== -->
 <section class="row">
-  <div class="col-sm-8">
+  <div class="col-sm-12">
     <div class="row">
       {% for post in paginator.posts %}
       {% unless post.featured == true %}
-      <div class="col-md-6 mb-5">
+      <div class="col-md-4 mb-5">
         {% include postbox.html %}
       </div>
       {% endunless %}
@@ -53,8 +53,5 @@ background: '/img/bg-index.jpg'
           {% include pagination.html %}
       </span>
     </div>
-  </div>
-  <div class="col-sm-4">
-    {% include sidebar.html %}
   </div>
 </section>

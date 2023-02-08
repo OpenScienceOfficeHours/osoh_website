@@ -14,7 +14,7 @@ post_class: post-template
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
         
-		<div class="col-sm-8">
+		<div class="col-sm-12">
             <!-- Post Featured Image -->
 			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
 			<!-- End Featured Image -->
@@ -95,7 +95,7 @@ post_class: post-template
             <div id="comments">                          
                 {% include disqus.html %} 
             </div>
-            </section>git 
+            </section>git
             End Comments
             ================================================== -->
 
@@ -110,8 +110,8 @@ post_class: post-template
 		<!-- Sidebar -->
         <div class="col-sm-4">
             {% include sidebar.html %}
-            </div>
-        
+        </div>
+
         
 
 	</div>
