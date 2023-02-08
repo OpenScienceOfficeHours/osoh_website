@@ -43,9 +43,10 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram:
+  facebook:
+  twitter:
+  github: https://github.com/OpenScienceOfficeHours
 
 # Plugins
 plugins: 
