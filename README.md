@@ -26,14 +26,14 @@ Built/Adapted from Affiliates - Free Jekyll Theme
 * These are more frequently added for Events, Theme of the Months, Other news...
 * In the backend, located in _posts
   * Everything contained in _posts that is not a "Featured: yes" post will end up here. If you want to remove posts, you may move them in _posts/archive
-* File name needs to start with a date (yyyy-mm-dd-) or it won't be displayed. The rest of the title is for you. 
+* File name needs to start with a date (yyyy-mm-dd-) or it won't be displayed. This date will be displayed on the landing page and on the Post Page. 
 * File Header:
   * Title: "The title that will be displayed"
   * Image: "The image that will be displayed"
   * Layout: pages
   * Featured: no
   * Categories: [caterogy1 caterory2] (Categories are important because you can browse posts by categories)
-  * Author: 
+  * Author: (If left empty only the date will be diplayed, if Author provided "By Author, Date" will be displayed)
 
 ### Pages listed in the top/right navigation menu
 * These are links at the top-right of all pages, and may be use for general stuff; About, Get in Touch, Contribute, ...
