@@ -1,7 +1,7 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Open Science Office Hours"
+email: open.science.office.hours@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-test-site"
+baseurl: "/osoh_website"
 permalink: "/:title/"
 logo: 'assets/images/osoh_logo.png'
 favicon: 'assets/images/favicon.ico'
