@@ -192,6 +192,21 @@ small, .small {
     padding: 1rem 5rem 5rem 5rem;
 }
 
+.about-1 {
+    background: #2bb673;
+    padding: 1rem 5rem 2rem 5rem;
+}
+
+.about-2 {
+    background: #ea6b48;
+    padding: 1rem 5rem 2rem 5rem;
+}
+
+.about-3 {
+    background: #00a9ec;
+    padding: 1rem 5rem 2rem 5rem;
+}
+
 @media only screen and (max-width: 1024px) {
     .page-header.big {
         font-size:3.5em;
@@ -256,7 +271,7 @@ small, .small {
 }
 .layout-page .section-title h2:before {top:17px;}
 .article-post ol, .article-post ul { margin-bottom:1.5rem;}
-.article-post ol ol, .article-post ul ul {   
+.article-post ol ol, .article-post ul ul {
     list-style: disc;
     margin-bottom:0rem;
 }
@@ -599,7 +614,7 @@ background-color: #fff;
 .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
     font-weight: 600;
     font-family: PT Sans;
-    margin-top: 3rem;
+    margin-top: 1rem;
 }
 
 img {max-width:100%;height: auto;}
