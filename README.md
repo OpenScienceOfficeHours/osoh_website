@@ -40,3 +40,9 @@ Built/Adapted from Affiliates - Free Jekyll Theme
 * In the backend, located in pages (but not everything in Pages has to end up in the nav menu)
 * What goes into the Nav Menu is configured in _data/menus.yml
 
+## Things to update each Month/Theme
+* This is subject to change
+* Create a Monthly theme Regular Post (to go in News an Events)
+* Change text ant link for the main page button redirecting to the monhtly theme page, in index.html
+* Edit the Office Hours Featured post to update with the current month expert. OR- do not mention the details of the Theme/Expert on this page, instead link to the Monthly theme Post. In this case the link needs to be updated.
+* 
