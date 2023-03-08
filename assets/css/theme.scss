@@ -72,6 +72,11 @@ body {
 .serif-font {
     font-family:PT Serif;
 }
+
+.text-center {
+  text-align: center;
+}
+
 @media (max-width: 1366px) {
     .container-xl, .container-lg, .container-md, .container-sm, .container {
         width:90%;
@@ -176,9 +181,15 @@ small, .small {
 
 /* Pages
 ================================================== */
-.hero {
+
+.hero-head {
     background: #fdd93d;
-    padding: 5rem 5rem;
+    padding: 4rem 5rem 0.5rem 5rem;
+}
+
+.hero-sub {
+    background: #fdd93d;
+    padding: 1rem 5rem 5rem 5rem;
 }
 
 @media only screen and (max-width: 1024px) {
