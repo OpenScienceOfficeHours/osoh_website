@@ -96,15 +96,22 @@ gtag('config', '{{site.ganalytics}}');
 ================================================== -->    
 <footer class="footer container text-center">  
 
-  <!-- CREDITS BEGIN.-->
-  <!-- If you want to support my work, please donate to remove the credits. This helps me keep it up and running: https://www.wowthemes.net/donate/ -->
-  <div class="credits mx-auto text-center mb-3">
-    <a class="hover-opacity font-weight-bold" href="https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/">
-      <img src="{{site.baseurl}}/assets/images/credits.png" alt="powered by WowThemes">
-    </a>
+  <!-- CREDIT/LOGOS-->
+  <div class="row align-items-center justify-content-center mb-2">
+    <div class="col-md-6 text-lg-right text-center pl-0 pl-lg-4 mb-3">
+      <a class="hover-opacity font-weight-bold" href="https://www.mcgill.ca/neuro">
+        <img src="{{site.baseurl}}/assets/images/neuro_logo.png" alt="Logo of The Neuro" width = 250>
+      </a>
+    </div>
+    <div class="col-md-6 text-lg-left text-center pl-0 pl-lg-4">
+      <a class="hover-opacity font-weight-bold" href="https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi">
+        <img src="{{site.baseurl}}/assets/images/tosi.png" alt="TOSI logo" width = 300>
+      </a>
+    </div>
   </div>
-  <!-- CREDITS END -->
+  <!-- CREDIT/LOGOS END-->
 
+  <!-- FOOTER MENU -->
   <ul class="p-0 mb-1 small">
     {% for item in site.data.menus.footermenu %}
     <li>
@@ -115,6 +122,7 @@ gtag('config', '{{site.ganalytics}}');
     <div class="copyright small">
        Copyright © {{site.title}}. All rights reserved.
     </div>
+  <!-- FOOTER MENU END-->
 </footer>
 
 <!-- JavaScript
