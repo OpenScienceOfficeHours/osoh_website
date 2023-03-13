@@ -4,6 +4,8 @@ Notes for developers
 Built/Adapted from Affiliates - Free Jekyll Theme
 [Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
 
+Resources page layout and underlying tagging/filtering funcitonnalities adapted from https://www.datalad.org/in-the-wild.html / https://github.com/datalad/datalad
+
 ## Notes
 * 3 types of content/pages
 
