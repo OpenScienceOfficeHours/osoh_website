@@ -7,7 +7,18 @@
         "logo": "osf.png",
         "description": "\"The Open Science Framework (OSF) is a tool that promotes open, centralized workflows by enabling capture of different aspects and products of the research lifecycle, including developing a research idea, designing a study, storing and analyzing collected data, and writing and publishing reports or papers.\"",
         "tags": [
-            "Any"
+            "Open Publishing",
+            "Open Data",
+            "Open Methods/Protocols"
+        ],
+        "modality": [
+            "MRI",
+            "EEG",
+            "Calcium Imaging"
+        ],
+        "species": [
+            "Human",
+            "Mouse"
         ]
     },
     {
@@ -18,7 +29,15 @@
         "logo": "psychopy.jpeg",
         "description": "\"PsychoPy\u00ae is a free cross-platform package allowing you to run a wide range of experiments in the behavioral sciences (neuroscience, psychology, psychophysics, linguistics...) \"",
         "tags": [
-            "Any"
+            "Open Code/Software",
+            "Open Methods/Protocols"
+        ],
+        "modality": [
+            "MRI",
+            "EEG"
+        ],
+        "species": [
+            "Human"
         ]
     },
     {
@@ -29,12 +48,16 @@
         "logo": "openneuro.png",
         "description": "\"A free and open platform for validating and sharing BIDS-compliant MRI, PET, MEG, EEG, and iEEG data\"",
         "tags": [
+            "Open Data"
+        ],
+        "modality": [
             "MRI",
-            "PET",
-            "EEG",
-            "iEEG",
-            "MEG"
+            "EEG"
+        ],
+        "species": [
+            "Human"
         ]
+
     },
     {
         "name": "C-BIG (Clinical Biospecimen Imaging and Genetic Repository)",
@@ -44,8 +67,13 @@
         "logo": "cbig.png",
         "description": "\"The Neuro C-BIG is the first Open Science biorepository for patients with neurological  disease and healthy controls and an open access resource for the global scientific community.\"",
         "tags": [
-            "MRI",
-            "Biospecimens"
+            "Open Data"
+        ],
+        "modality": [
+            "MRI"
+        ],
+        "species": [
+            "Human"
         ]
     }
 ]

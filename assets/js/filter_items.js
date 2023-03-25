@@ -15,7 +15,9 @@ var app = new Vue({
         tag_dropdown_open: false,
         tag_options: [],
         tag_options_filtered: [],
-        tag_options_available: [],
+      modality_options: [],
+      species_options: [],
+      tag_options_available: ['bla1', 'bla2'],
         popoverShow: false,
         popoverHide: true,
         radio_group_value: 'all'
@@ -112,16 +114,24 @@ var app = new Vue({
           this.search_tags = [];
           this.filterTags();
         }
-        else if (val == 'integration'){
-          this.search_tags = ['integration'];
+        else if (val == 'Open Publishing') {
+          this.search_tags = ['Open Publishing'];
           this.filterTags();
         }
-        else if (val == 'extension'){
-          this.search_tags = ['extension'];
+        else if (val == 'Open Data') {
+          this.search_tags = ['Open Data'];
           this.filterTags();
         }
-        else if (val == 'academic'){
-          this.search_tags = ['academic'];
+        else if (val == 'Open Code/Software') {
+          this.search_tags = ['Open Code/Software'];
+          this.filterTags();
+        }
+        else if (val == 'Open Methods/Protocols') {
+          this.search_tags = ['Open Methods/Protocols'];
+          this.filterTags();
+        }
+        else if (val == 'Open Hardware') {
+          this.search_tags = ['Open Hardware'];
           this.filterTags();
         }
       },

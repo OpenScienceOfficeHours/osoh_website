@@ -18,17 +18,29 @@ Search through the different aspects of Open Science to figure out what you can 
       <input type="text" id="ftag" name="ftag" placeholder="Filter by tag" v-model="tag_text" ref="tag_search_input" @input="inputTagText()" v-on:keyup.enter="clearSearchTagText()">
     </div>
     <div class="tag-filter-options">
-      <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()" v-bind:value="'all'" id="all"><label for="all">All</label>
+      <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()" v-bind:value="'All'"
+        id="All"><label for="All">All</label>
       <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()"
-        v-bind:value="'integration'" id="integrations"><label for="integrations">Open Data</label>
+        v-bind:value="'Open Publishing'" id="Open Publishing"><label for="Open Publishing">Open Publishing</label>
       <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()"
-        v-bind:value="'extension'" id="extensions"><label for="extensions">Open Code</label>
+        v-bind:value="'Open Data'" id="Open Data"><label for="Open Data">Open Data</label>
       <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()"
-        v-bind:value="'academic'" id="academic"><label for="academic">Open Publication</label>
+        v-bind:value="'Open Methods/Protocols'" id="Open Methods/Protocols"><label for="Open Methods/Protocols">Open Methods/Protocols</label>
+      <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()"
+        v-bind:value="'Open Code/Software'" id="Open Code/Software"><label for="Open Code/Software">Open Code/Software</label>
+      <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()"
+        v-bind:value="'Open Hardware'" id="Open Hardware"><label for="Open Hardware">Open Hardware</label>
       <span class="tag-anchor">Modality&nbsp;<span class="icon-down-dir"></span>
         <span class="tag-tooltip" v-bind:class="{ visible: popoverShow }" ref="tag_tooltip">
           <span v-if="tag_options_filtered.length == 0"><em>No tags found</em></span>
           <span v-else v-for="tag in tag_options_filtered"><span class="tag-button"><a @click="addSearchTag(tag)">[[tag]]</a></span>&nbsp;</span>
+        </span>
+      </span>
+      <span class="tag-anchor">Species&nbsp;<span class="icon-down-dir"></span>
+        <span class="tag-tooltip" v-bind:class="{ visible: popoverShow }" ref="tag_tooltip">
+          <span v-if="tag_options_filtered.length == 0"><em>No tags found</em></span>
+          <span v-else v-for="tag in tag_options_filtered"><span class="tag-button"><a
+                @click="addSearchTag(tag)">[[tag]]</a></span>&nbsp;</span>
         </span>
       </span>
     </div>
