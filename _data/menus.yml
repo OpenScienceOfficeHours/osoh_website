@@ -22,6 +22,10 @@ footermenu:
 - title: Contact
   url: "contact/"
 
-- title: Site made with Affiliates-Free Jekyll Theme
+- title: Site adapted from the Affiliates-Free Jekyll Theme
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+  external: true
+
+- title: Illustrations adapted from unDraw.co
+  url: https://undraw.co/
   external: true

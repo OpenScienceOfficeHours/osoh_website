@@ -5,7 +5,7 @@
         "github": "https:\/\/github.com\/CenterForOpenScience\/osf.io",
         "docs": null,
         "logo": "osf.png",
-        "description": "\"The Open Science Framework (OSF) is a tool that promotes open, centralized workflows by enabling capture of different aspects and products of the research lifecycle, including developing a research idea, designing a study, storing and analyzing collected data, and writing and publishing reports or papers.\"",
+        "description": "OSF captures \"products of the research lifecycle, including developing a research idea, designing a study, storing and analyzing collected data, and writing and publishing reports or papers.\"",
         "tags": [
             "Open Publishing",
             "Open Data",
@@ -27,7 +27,7 @@
         "github": "https:\/\/github.com\/psychopy\/psychopy",
         "docs": "https:\/\/psychopy.org\/documentation.html",
         "logo": "psychopy.jpeg",
-        "description": "\"PsychoPy\u00ae is a free cross-platform package allowing you to run a wide range of experiments in the behavioral sciences (neuroscience, psychology, psychophysics, linguistics...) \"",
+        "description": "\"PsychoPy is a free cross-platform package allowing you to run a wide range of experiments in the behavioral sciences (neuroscience, psychology, psychophysics...)\"",
         "tags": [
             "Open Code/Software",
             "Open Methods/Protocols"
@@ -60,7 +60,7 @@
 
     },
     {
-        "name": "C-BIG (Clinical Biospecimen Imaging and Genetic Repository)",
+        "name": "Clinical Biospecimen Imaging and Genetic Repository",
         "website": "https:\/\/www.mcgill.ca\/neuro\/research\/c-big-biobank\/about-c-big",
         "github": null,
         "docs": null,

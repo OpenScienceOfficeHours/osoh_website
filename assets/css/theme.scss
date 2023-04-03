@@ -2,11 +2,23 @@
 ---
 
 // start content
+$translucent-dark: rgba(51, 26, 56, 1);
+$translucent-white: rgba(255, 255, 255, .6);
+$saffron: rgba(254, 200, 89, 1);
+$french-rose: rgba(250, 68, 140, 1);
+$dark-purple: rgba(51, 26, 56, 1);
+$tekhelet: rgba(73, 29, 136, 1);
+$keppel: rgba(67, 181, 160, 1);
 
-$green:   #08a057 !default;
-$blue:    #3d61fd !default;
-$grey: #333;
-$yellow: #ffa200;
+$light-saffron: rgba(254, 200, 89, .8);
+$light-french-rose: rgba(250, 68, 140, .8);
+$light-dark-purple: rgba(51, 26, 56, .8);
+$light-tekhelet: rgba(73, 29, 136, .8);
+$light-keppel: rgba(67, 181, 160, .8);
+
+$dark-font-color: rgba(0, 0, 0, .9);
+$light-font-color: rgba(255, 255, 255, .7);
+// $light-font-color: $keppel;
 
 
 
@@ -57,46 +69,90 @@ $yellow: #ffa200;
 html {
     scroll-behavior: smooth;
   }
-  
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.bgimage {
+  background-image: url(https://img.freepik.com/free-photo/abstract-blur-supermarket-retail-store_74190-7546.jpg?w=996&t=st=1679766254~exp=1679766854~hmac=a474f7a85d663575c6ad8645dfba481f35f006b3754ab93854dd3440529a47b9);
+  // background-image: url(/images/store_blurred.jpg);
+  height: 450px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 body {
-    background:#fff;
-    font-size:17px;
+    background: linear-gradient(5deg, $dark-purple, $saffron, $keppel, $french-rose, white 7%, $white 86%, $saffron 88%, $keppel, $french-rose 90%, $dark-purple 92%);
+      // background: linear-gradient(350deg, $dark-purple 2%, $keppel 3%, $french-rose 4%, $saffron 6%, white 10%, white 80%, $saffron 87%, $french-rose 88%, $dark-purple 89%);
+      // background: linear-gradient(10deg, $light-dark-purple 2%, $light-keppel 3%, $light-french-rose 4%, $light-saffron 6%, white 10%, white 80%, $light-saffron 87%, $light-french-rose 88%, $light-dark-purple 89%);
+      // background: linear-gradient(90deg, $dark-purple 2%, $light-keppel 3%, $light-french-rose 4%, $light-saffron 6%, white 10%, white 80%, $light-saffron 87%, $light-keppel 89%, $light-french-rose 90%, $dark-purple 92%);
+      // background: linear-gradient(85deg, white 80%, $light-saffron 86%, $keppel, $light-french-rose 88%, $dark-purple 90%);
+    
+      font-size: 15px;
     transition: all 200ms linear;
     font-family: "PT Sans",sans-serif;
     line-height:1.7;
-    color: #333;
+    color: $dark-font-color;
     overflow-x:hidden;
     padding-top:116px;
     
 }
-.serif-font {
-    font-family:PT Serif;
-}
+// .serif-font {
+//     font-family:PT Serif;
+// }
 
 .text-center {
   text-align: center;
 }
 
+#fig-at-right {
+  float: right;
+  margin: 0 0 0 15px;
+}
 @media (max-width: 1366px) {
-    .container-xl, .container-lg, .container-md, .container-sm, .container {
-        width:90%;
-        max-width:90%;
-        padding:0 25px;
+  .container-xl,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container {
+      width: 90%;
+      max-width: 90%;
+      padding: 0 25px;
     }
 }
 main {min-height:500px;}
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, .navbar-light .navbar-brand, .text-dark, .dropdown-item {
-    color: #000;
+    color: $dark-purple;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-weight:600;
+    font-weight: 350;
+      color: $dark-font-color;
 }
+
 h4, .h4, h5, .h5 {
-    line-height:1.4;
+  line-height: 1.4;
+    color: $dark-font-color;
+  }
+  
+  h6,
+  .h6 {
+    color: $light-font-color;
+  }
+  
+  h1,
+  .h1,
+  {
+  font-weight: 1000;
+  color: $french-rose;
 }
 
 .font-weight-bold {
-    font-weight:600 !important;
+    font-weight: 450 !important;
 }
 a {
     color:inherit;
@@ -108,7 +164,10 @@ a {
         transition: all .4s;
     }
 }
-img, video {max-width:100%;}
+img,
+video {
+  max-width: 100%;
+}
 
 
 .item-card .categories {
@@ -118,7 +177,7 @@ img, video {max-width:100%;}
     font-size:13px;
     a {
         background:#333;
-        color:white;
+          color: white;
         padding:2px 4px;
         border-radius:4px;
     }
@@ -133,18 +192,17 @@ small, .small {
 ================================================== */
 
 .start-header {
-	opacity: 1;
-	transform: translateY(0);
-	padding: 20px 0;	
-	-webkit-transition : all 0.3s ease-out;
-	transition : all 0.3s ease-out;
-   
+  opacity: 1;
+    transform: translateY(0);
+    padding: 20px 0;
+  -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
 }
 .start-header.scroll-on {	
 	padding: 5px 0;
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
-    box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.05);
+    box-shadow: 1px 10px 10px 1px $dark-purple;
 }
 .start-header.scroll-on .navbar-brand img {	
 	-webkit-transition : all 0.3s ease-out;
@@ -158,13 +216,14 @@ small, .small {
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
     position:fixed;
-    background:#fff;
+    background: $translucent-dark;
 }
 .social-icon {
     display: inline-block !important;
     width: 20px;
     height: 20px;
     margin-left: 15px;
+      color: $french-rose;
 }
 
 /* Sidebar
@@ -183,27 +242,32 @@ small, .small {
 ================================================== */
 
 .hero-head {
-    background: #fdd93d;
-    padding: 4rem 5rem 0.5rem 5rem;
+    // background: $translucent-white;
+      // border: 8px solid rgba(255, 255, 255, .3);
+      padding: 3em 1rem 1rem 1rem;
 }
 
 .hero-sub {
-    background: #fdd93d;
-    padding: 1rem 5rem 5rem 5rem;
+  background: $translucent-dark;
+    // background: linear-gradient(350deg, $dark-purple, $dark-purple 90%, $saffron, $keppel, $french-rose);
+  
+    //   border: 8px solid rgba(255, 255, 255, .3);
+    padding: 2rem 1rem 3rem 5rem;
 }
 
 .about-1 {
-    background: #2bb673;
+  // background: $translucent-white;
+    // border: 8px solid rgba(255, 255, 255, .3);
     padding: 1rem 5rem 2rem 5rem;
 }
 
 .about-2 {
-    background: #ea6b48;
+    // background: $translucent-white;
     padding: 1rem 5rem 2rem 5rem;
 }
 
 .about-3 {
-    background: #00a9ec;
+    // background: $translucent-white;
     padding: 1rem 5rem 2rem 5rem;
 }
 
@@ -234,11 +298,11 @@ small, .small {
 }
 
 .hero h1 {
-    font-size:2.5em;
+    font-size: 2em;
 }
-.section-title h2 {
-	font-weight:700;
-	font-size:1.4rem;
+.section-title h5 {
+  font-weight: 600;
+  font-size: 1.2rem;
 	margin-bottom:27px;
     position: relative;
 }
@@ -265,12 +329,16 @@ small, .small {
     letter-spacing: 1px;
 }
 .layout-page  .section-title span {
-    font-size: 2rem;
+    font-size: 1rem;
     text-transform: none;
     letter-spacing:0;
 }
 .layout-page .section-title h2:before {top:17px;}
-.article-post ol, .article-post ul { margin-bottom:1.5rem;}
+.article-post ol,
+.article-post ul {
+  margin-bottom: 1.5rem;
+  color: red;
+}
 .article-post ol ol, .article-post ul ul {
     list-style: disc;
     margin-bottom:0rem;
@@ -279,7 +347,7 @@ small, .small {
     padding: 20px 0;
     font-size: 17px;
     display: block;
-        color: #111;
+        color: $keppel;
     font-weight: 500;
 }
 .prevnextlinks {
@@ -334,10 +402,10 @@ span.post-name,span.post-date,span.author-meta {
 
 span.post-read-more a {
 	color:rgba(0,0,0,.44);
-     align-items: center;
+  align-items: center;
     display: inline-block;
     float: right;
-     width: 30px;
+    width: 30px;
     height: 30px;
     line-height: 30px;
     text-align: center;
@@ -353,7 +421,7 @@ span.post-name a,span.post-read-more a:hover {
 	margin-right:3px;
 }
 .mainheading h1.posttitle {
-	font-weight:700;
+  font-weight: 500;
 	margin-bottom:2rem;
 }
 .link-dark {
@@ -363,19 +431,21 @@ span.post-name a,span.post-read-more a:hover {
     margin-bottom:1.5rem;
 }
 .article-post {
-    font-size: 1.18em;
+    font-size: 1em;
     line-height: 1.64;
-	color:rgba(0,0,0,.8);
+  color: rgba(0, 0, 0, .8);
+    background: $translucent-white;
+    padding: 1rem 1rem 1rem 1rem;
     code {
         font-size:15px;
     }
     a {
         color:inherit; 
-        box-shadow:inset 0 -2px 0 rgba(255, 229, 31,1), 0 2px 0 rgba(255, 229, 31,1);
+        box-shadow: inset 0 -2px 0 rgba(255, 255, 255, 0), 0 2px 0 rgba(255, 255, 255, 0);
         
     }
     a:hover {
-        box-shadow:inset 0 -30px 0 rgba(255, 229, 31,1), 0 2px 0 rgba(255, 229, 31,1);
+        box-shadow: inset 0 -30px 0 rgba(255, 255, 255, 0), 0 2px 0 rgba(255, 255, 255, 0);
         text-decoration:none;
     }
     img, iframe {
@@ -384,10 +454,10 @@ span.post-name a,span.post-read-more a:hover {
 }
 
 blockquote {
-	border-left:4px solid #222;
+  border-left: 4px solid $dark-font-color;
 	padding:0 0 0 20px;
 	font-style:italic;
-	color:rgba(0,0,0,.5);
+  color: $dark-font-color;
     margin-left:30px;
     font-size: .9em;
 }
@@ -421,6 +491,9 @@ blockquote {
 
 .card {	
     border:0;
+    background: $translucent-dark;
+      // border: 8px solid rgba(255, 255, 255, .3);
+      padding: 1rem 1rem 1rem 1rem;
 }
 .card .img-thumb {
 	border-top-right-radius:4px;
@@ -435,17 +508,19 @@ ul.tags li {
 	display:inline-block;
 	font-size:0.9rem;
 }
+/// tag buttons on the top of posts
 ul.tags li a {
     color: #333;
     padding: 3px 10px;
     border-radius: 3px;
     font-weight: 500;
-    background:#eee;
+    background: rgba(0, 0, 0, .07);
     text-transform: capitalize;    
     box-shadow: 0 6px 10px 0 rgba(169, 169, 169, 0.1);
 }
 ul.tags li a:hover {
-	background:rgba(0,0,0,.07);
+  background: $saffron;
+    color: #333;
 	text-decoration:none;
 }
 .margtop3rem {
@@ -536,8 +611,8 @@ ul.tags li a:hover {
 	margin:1rem 0;
 }
 .sociallinks a {
-	background:#666;
-	color:#fff;
+  background: #666;
+    color: #fff;
 	width:22px;
 	height:22px;
 	display:inline-block;
@@ -553,7 +628,7 @@ ul.tags li a:hover {
 .sidebar {font-size: 15px;}
 .sidebar h5 {    margin-bottom: 1rem;   text-align:center; position:relative;font-weight: 700; }
 .sidebar h5 span {
-background-color: #fff;
+background-color: $dark-purple;
     position: relative;
     z-index: 2;
     display: inline-block;
@@ -715,7 +790,7 @@ span.navigation:before {
 .icon-menu:before { content: '\f0c9'; }
 
 .integrations {
-   margin-top: 2em;
+  margin-top: 2em;
 }
 .integrations input {
   color: grey;
@@ -738,8 +813,8 @@ span.navigation:before {
 }
 .integrations input[type=radio] + label {
   border: 1px solid grey;
-  background-color: white;
-  color: grey;
+  background-color: whitesmoke;
+    color: black;
   border-radius: 6px;
   padding: 16px;
   margin: 0;
@@ -747,11 +822,13 @@ span.navigation:before {
   margin-bottom: 1em;
 }
 .integrations input[type=radio]:hover + label {
-  background-color: grey;
-  color: white;
+  background-color: whitesmoke;
+    color: grey;
 }
 .integrations input[type=radio]:checked + label {
-  border: 3px solid yellow;
+  background-color: grey;
+    color: whitesmoke;
+    // border: 2px solid;
 }
 .integrations .filter-options {
   flex: 1 1 100%;
@@ -764,7 +841,8 @@ span.navigation:before {
   break-after: always;
 }
 .tag-anchor {
-  border: 1px solid black;
+  border: 1px solid grey;
+    background-color: whitesmoke;
   padding: 5.5px;
   width: 50px;
   margin: 0;
@@ -778,20 +856,19 @@ span.navigation:before {
 }
 .tag-button {
   border: 1px solid grey;
-  border: 1px solid #8a8b8c;
-  background-color: white;
-  color: #8a8b8c;
+  background-color: whitesmoke;
+    color: grey;
   padding: 2px 8px;
   border-radius: 12px;
   margin: 0;
 }
 .tag-button:hover {
   background-color: grey;
-  color: white;
+  color: whitesmoke;
   cursor: pointer;
 }
 .tag-button:hover a {
-  color: white;
+  color: whitesmoke;
 }
 .tag-button a {
   color: inherit;
@@ -807,8 +884,8 @@ span.navigation:before {
   line-height: 2em;
   width: 60vw;
   height: auto;
-  background-color: white;
-  border: 1px solid #ced4da;
+  background-color: whitesmoke;
+    border: 1px solid grey;
   color: grey;
   text-align: left;
   padding: 5px 5px;
@@ -817,7 +894,7 @@ span.navigation:before {
   z-index: 1;
   right: 0;
   top: 0;
-  transform: translate(0, 2em);
+  transform: translate(0, 2.5em);
 }
 /* Show the tooltip text when you mouse over the tooltip container */
 .tag-anchor:hover .tag-tooltip {
@@ -861,16 +938,18 @@ span.navigation:before {
   padding-top: 0;
   padding-bottom: 0;
 }
+
 .integrations .item {
   position: relative;
   margin: 0.5em;
-  padding-top: 1em;
-  background-color: #fafafa;
+  padding: 1em;
+    background-color: #fafafa;
   border-radius: 8px;
   text-align: center;
-  height: 200px;
-  width: 190px;
+  height: 230px;
+    width: 200px;
 }
+
 .integrations .item-logo {
   margin: auto;
   width: 175px;
@@ -892,17 +971,19 @@ span.navigation:before {
   color: #3a4046;
   font-size: 16px;
   line-height: 24px;
-  padding: 0.5em 0;
+  padding: 1em 0;
   margin: auto;
   text-align: center;
   max-width: 175px;
 }
+
 .integrations .item-info h3 {
-  font-size: 22px;
-  font-weight: 700;
-  line-height: 24px;
-  margin: 0.5em auto;
-  text-align: center;
+  color: gray;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 22px;
+    margin: 0 0;
+    text-align: center;
 }
 .integrations .social-links {
   margin: auto;
@@ -924,29 +1005,27 @@ span.navigation:before {
   left: 0;
   right: 0;
   width: inherit;
-  bottom: 8px;
+  top: 0px;
 }
 .social-links li {
   display: inline-block;
 }
 .social-links a {
-  border-radius: 8px;
-  color: grey;
-  border: 1px solid grey;
+  color: $keppel;
   display: inline-block;
-  font-size: .7em;
+  font-size: 1em;
   line-height: 1.5em;
   text-align: center;
   transition: transform 0.2s linear;
-  height: 1.5em;
+  height: 0.5em;
   width: 1.5em;
 }
 .social-links a:hover {
-  color: #fff;
-  transform: translateY(-0.1em);
-  background-color: yellow;
-  border-color: yellow;
+  color: $keppel;
+    transform: translateY(-0.15em);
+    border-color: $keppel;
 }
+
 .integrations .item:hover .item-logo, .integrations .item:active .item-logo {
   display: none;
 }
@@ -971,18 +1050,27 @@ span.navigation:before {
   }
 }
 
-.social-links .icon-github::after           { border-color:     grey; }
-.social-links .icon-home::after             { border-color:     grey; }
-.social-links .icon-link-ext:after          { border-color:     grey; }
-.social-links .icon-doc-text:after          { border-color:     grey; }
+.social-links .icon-github::after {
+  border-color: grey;
+}
+
+.social-links .icon-home::after {
+  border-color: grey;
+}
+
+.social-links .icon-link-ext::after {
+  border-color: grey;
+}
+
+.social-links .icon-doc-text::after {
+  border-color: grey;
+}
 
 @media screen and (min-width: 768px) {
   .integrations .social-links {
     display: none;
   }
-  .integrations .item:hover {
-    cursor: help;
-  }
+  
   .integrations .item:hover .item-logo, .integrations .item:hover .item-info h3 {
     display: none;
   }
@@ -995,7 +1083,7 @@ span.navigation:before {
     left: 0;
     right: 0;
     width: inherit;
-    bottom: 8px;
+    top: 0px;
   }
 }
 

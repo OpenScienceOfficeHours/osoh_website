@@ -3,7 +3,7 @@ layout: page
 title:  "Open Science Resources"
 author:
 categories: [ ]
-image: assets/images/5.jpg
+image: assets/images/undraw/office_hours2.svg
 featured: yes
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->

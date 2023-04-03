@@ -3,7 +3,7 @@ layout: page
 title:  "Office Hours"
 author:
 categories: [ ]
-image: assets/images/6.jpg
+image: assets/images/icons/office_hours.svg
 featured: yes
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
