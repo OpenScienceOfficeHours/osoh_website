@@ -56,17 +56,12 @@ Search through the different aspects of Open Science to figure out what you can 
       </span>
     </div>
   </div>
-<!---->
   <div class="selected-tags">
-  <span v-for="tag in search_tags"><span class="tag-button selected"><a @click="removeSearchTag(tag)">[[tag]] <span
-          class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
-  </div>
-  <div class="selected-tags">
+    <span v-for="tag in search_tags"><span class="tag-button selected"><a @click="removeSearchTag(tag)">[[tag]] <span
+            class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
     <span v-for="modality in search_modalities"><span class="tag-button selected"><a
           @click="removeSearchModality(modality)">[[modality]] <span
             class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
-  </div>
-  <div class="selected-tags">
     <span v-for="species in search_species"><span class="tag-button selected"><a
           @click="removeSearchSpecies(species)">[[species]] <span
             class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
@@ -89,53 +84,7 @@ Search through the different aspects of Open Science to figure out what you can 
       <li v-if="itm.info"><a class='icon-link-ext' aria-label='More info' :href="itm.info"></a></li>
     </ul>
   </div>
-  <!-- <div class="selected-modalities">
-            <span v-for="modality in search_modalities"><span class="modality-button selected"><a
-                  @click="removeSearchModality(modality)">[[modality]] <span
-                    class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
-  </div>
-<div v-for="itm in modalityFilteredItems" class="item">
-  <div v-if="itm.logo" class="item-logo">
-    <img :src="'../assets/images/logo_resources/' + itm.logo" alt="">
-  </div>
-  <div v-else class="item-logo">
-    <img src="../assets/images/logo_resources/noname.png" alt="">
-  </div>
-  <div class="item-info">
-    <h3>[[itm.name]]</h3>
-    <p class="blurb">[[itm.description]]</p>
-  </div>
-  <ul class='social-links'>
-    <li v-if="itm.website"><a class='icon-home' aria-label='Website' :href="itm.website"></a></li>
-    <li v-if="itm.github"><a class='icon-github' aria-label='GitHub' :href="itm.github"></a></li>
-    <li v-if="itm.docs"><a class='icon-doc-text' aria-label='Documentation' :href="itm.docs"></a></li>
-    <li v-if="itm.info"><a class='icon-link-ext' aria-label='More info' :href="itm.info"></a></li>
-  </ul>
-  </div>
-  <div class="selected-species">
-    <span v-for="species in search_species"><span class="species-button selected"><a
-          @click="removeSearchSpecies(species)">[[species]] <span
-            class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
-  </div>
-  <div v-for="itm in speciesFilteredItems" class="item">
-    <div v-if="itm.logo" class="item-logo">
-      <img :src="'../assets/images/logo_resources/' + itm.logo" alt="">
-    </div>
-    <div v-else class="item-logo">
-      <img src="../assets/images/logo_resources/noname.png" alt="">
-    </div>
-    <div class="item-info">
-      <h3>[[itm.name]]</h3>
-      <p class="blurb">[[itm.description]]</p>
-    </div>
-    <ul class='social-links'>
-      <li v-if="itm.website"><a class='icon-home' aria-label='Website' :href="itm.website"></a></li>
-      <li v-if="itm.github"><a class='icon-github' aria-label='GitHub' :href="itm.github"></a></li>
-      <li v-if="itm.docs"><a class='icon-doc-text' aria-label='Documentation' :href="itm.docs"></a></li>
-      <li v-if="itm.info"><a class='icon-link-ext' aria-label='More info' :href="itm.info"></a></li>
-    </ul>
-  </div> -->
-  </div>
+</div>
 
 
 <!-- INCLUDE: VUEJS -->
