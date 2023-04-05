@@ -11,7 +11,7 @@
             "Open Data",
             "Open Methods/Protocols"
         ],
-        "modality": [
+        "modalities": [
             "MRI",
             "EEG",
             "Calcium Imaging"
@@ -32,7 +32,7 @@
             "Open Code/Software",
             "Open Methods/Protocols"
         ],
-        "modality": [
+        "modalities": [
             "MRI",
             "EEG"
         ],
@@ -50,7 +50,7 @@
         "tags": [
             "Open Data"
         ],
-        "modality": [
+        "modalities": [
             "MRI",
             "EEG"
         ],
@@ -69,7 +69,7 @@
         "tags": [
             "Open Data"
         ],
-        "modality": [
+        "modalities": [
             "MRI"
         ],
         "species": [
