@@ -7,16 +7,17 @@ post_class: post-template
 
 <!-- Begin Article
 ================================================== -->
-
+&nbsp
 	<div class="row">
 		
 
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
         
-		<div class="col-sm-12">
+        <div class="col-sm-12">
             <!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+            {% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}"
+                alt="{{ page.title }}" style="width:300px" id="fig-at-right">{% endif %}
 			<!-- End Featured Image -->
 			<div class="mainheading">             
                 

@@ -3,7 +3,7 @@ layout: page
 title:  "Open Science Resources"
 author:
 categories: [ ]
-image: assets/images/5.jpg
+image: /assets/images/icons/resources.svg
 featured: yes
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
@@ -13,42 +13,60 @@ Search through the different aspects of Open Science to figure out what you can 
 
 <div id="app" class="integrations">
   <div class="filter-options">
-    <div class="text-input-options">
+    <!-- <div class="text-input-options">
       <input type="text" id="fname" name="fname" placeholder="Filter by name" v-model="search_text" ref="text_search_input">
       <input type="text" id="ftag" name="ftag" placeholder="Filter by tag" v-model="tag_text" ref="tag_search_input" @input="inputTagText()" v-on:keyup.enter="clearSearchTagText()">
-    </div>
+    </div> -->
     <div class="tag-filter-options">
       <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()" v-bind:value="'All'"
         id="All"><label for="All">All</label>
+        &nbsp;
       <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()"
         v-bind:value="'Open Publishing'" id="Open Publishing"><label for="Open Publishing">Open Publishing</label>
+        &nbsp;
       <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()"
         v-bind:value="'Open Data'" id="Open Data"><label for="Open Data">Open Data</label>
+        &nbsp;
       <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()"
         v-bind:value="'Open Methods/Protocols'" id="Open Methods/Protocols"><label for="Open Methods/Protocols">Open Methods/Protocols</label>
+        &nbsp;
       <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()"
         v-bind:value="'Open Code/Software'" id="Open Code/Software"><label for="Open Code/Software">Open Code/Software</label>
+        &nbsp;
       <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()"
         v-bind:value="'Open Hardware'" id="Open Hardware"><label for="Open Hardware">Open Hardware</label>
-      <span class="tag-anchor">Modality&nbsp;<span class="icon-down-dir"></span>
-        <span class="tag-tooltip" v-bind:class="{ visible: popoverShow }" ref="tag_tooltip">
-          <span v-if="tag_options_filtered.length == 0"><em>No tags found</em></span>
-          <span v-else v-for="tag in tag_options_filtered"><span class="tag-button"><a @click="addSearchTag(tag)">[[tag]]</a></span>&nbsp;</span>
+      <br>
+      &nbsp;
+      
+      </br>
+        <span class="tag-anchor">Modalities&nbsp;<span class="icon-down-dir"></span>
+          <span class="tag-tooltip" v-bind:class="{ visible: popoverShow }" ref="tag_tooltip">
+            <span v-if="modality_options_filtered.length == 0"><em>No modalities found</em></span>
+            <span v-else v-for="modality in modality_options_filtered"><span class="tag-button"><a
+                  @click="addSearchModality(modality)">[[modality]]</a></span>&nbsp;</span>
         </span>
       </span>
+&nbsp;
       <span class="tag-anchor">Species&nbsp;<span class="icon-down-dir"></span>
         <span class="tag-tooltip" v-bind:class="{ visible: popoverShow }" ref="tag_tooltip">
-          <span v-if="tag_options_filtered.length == 0"><em>No tags found</em></span>
-          <span v-else v-for="tag in tag_options_filtered"><span class="tag-button"><a
-                @click="addSearchTag(tag)">[[tag]]</a></span>&nbsp;</span>
+          <span v-if="species_options_filtered.length == 0"><em>No species found</em></span>
+          <span v-else v-for="species in species_options_filtered"><span class="tag-button"><a
+                @click="addSearchSpecies(species)">[[species]]</a></span>&nbsp;</span>
         </span>
       </span>
     </div>
   </div>
   <div class="selected-tags">
-    <span v-for="tag in search_tags"><span class="tag-button selected"><a @click="removeSearchTag(tag)">[[tag]] <span class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
+    <span v-for="tag in search_tags"><span class="tag-button selected"><a @click="removeSearchTag(tag)">[[tag]] <span
+            class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
+    <span v-for="modality in search_modalities"><span class="tag-button selected"><a
+          @click="removeSearchModality(modality)">[[modality]] <span
+            class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
+    <span v-for="species in search_species"><span class="tag-button selected"><a
+          @click="removeSearchSpecies(species)">[[species]] <span
+            class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
   </div>
-  <div v-for="itm in tagFilteredItems" class="item">
+  <div v-for="itm in allFilteredItems" class="item">
     <div v-if="itm.logo" class="item-logo">
       <img :src="'../assets/images/logo_resources/' + itm.logo" alt="">
     </div>
@@ -67,6 +85,7 @@ Search through the different aspects of Open Science to figure out what you can 
     </ul>
   </div>
 </div>
+
 
 <!-- INCLUDE: VUEJS -->
 <script src="https://unpkg.com/vue@2.6.14/dist/vue.min.js"></script>

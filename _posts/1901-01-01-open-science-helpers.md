@@ -3,7 +3,7 @@ layout: page
 title:  "Open Science Helpers Program"
 author:
 categories:
-image: assets/images/3.jpg
+image: assets/images/undraw/helpers.svg
 featured: yes
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
