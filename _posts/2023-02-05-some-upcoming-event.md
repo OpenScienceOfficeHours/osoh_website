@@ -3,7 +3,7 @@ layout: post
 title:  "February Workshop"
 author: 
 categories: [ event, open-code ]
-image: assets/images/undraw/workshop.svg
+image: assets/images/icons/scatterplot.svg
 featured: no
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->

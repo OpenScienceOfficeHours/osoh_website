@@ -2,11 +2,13 @@
 ---
 
 // start content
-$translucent-dark: rgba(51, 26, 56, 1);
+// $translucent-dark: rgba(51, 26, 56, 1);
+$translucent-dark: rgb(20, 40, 80);
 $translucent-white: rgba(255, 255, 255, .6);
 $saffron: rgba(254, 200, 89, 1);
 $french-rose: rgba(250, 68, 140, 1);
-$dark-purple: rgba(51, 26, 56, 1);
+// $dark-purple: rgba(51, 26, 56, 1);
+$dark-purple: rgb(55, 44, 100);
 $tekhelet: rgba(73, 29, 136, 1);
 $keppel: rgba(67, 181, 160, 1);
 
@@ -16,7 +18,7 @@ $light-dark-purple: rgba(51, 26, 56, .8);
 $light-tekhelet: rgba(73, 29, 136, .8);
 $light-keppel: rgba(67, 181, 160, .8);
 
-$dark-font-color: rgba(0, 0, 0, .9);
+$dark-font-color: rgba(0, 0, 0, .8);
 $light-font-color: rgba(255, 255, 255, .7);
 // $light-font-color: $keppel;
 
@@ -87,11 +89,8 @@ html {
   background-size: cover;
 }
 body {
-    background: linear-gradient(5deg, $dark-purple, $saffron, $keppel, $french-rose, white 7%, $white 86%, $saffron 88%, $keppel, $french-rose 90%, $dark-purple 92%);
-      // background: linear-gradient(350deg, $dark-purple 2%, $keppel 3%, $french-rose 4%, $saffron 6%, white 10%, white 80%, $saffron 87%, $french-rose 88%, $dark-purple 89%);
-      // background: linear-gradient(10deg, $light-dark-purple 2%, $light-keppel 3%, $light-french-rose 4%, $light-saffron 6%, white 10%, white 80%, $light-saffron 87%, $light-french-rose 88%, $light-dark-purple 89%);
-      // background: linear-gradient(90deg, $dark-purple 2%, $light-keppel 3%, $light-french-rose 4%, $light-saffron 6%, white 10%, white 80%, $light-saffron 87%, $light-keppel 89%, $light-french-rose 90%, $dark-purple 92%);
-      // background: linear-gradient(85deg, white 80%, $light-saffron 86%, $keppel, $light-french-rose 88%, $dark-purple 90%);
+  background: white;
+    // background: linear-gradient(5deg, $dark-purple, $saffron, $keppel, $french-rose, white 7%, $white 86%, $saffron 88%, $keppel, $french-rose 90%, $dark-purple 92%);
     
       font-size: 15px;
     transition: all 200ms linear;
@@ -127,17 +126,22 @@ body {
 }
 main {min-height:500px;}
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, .navbar-light .navbar-brand, .text-dark, .dropdown-item {
-    color: $dark-purple;
+    color: $dark-font-color;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 350;
       color: $dark-font-color;
 }
 
-h4, .h4, h5, .h5 {
-  line-height: 1.4;
-    color: $dark-font-color;
-  }
+// h3,
+// .h3,
+// h4,
+// .h4,
+// h5,
+// .h5 {
+//   line-height: 1.4;
+//     color: $light-font-color;
+//   }
   
   h6,
   .h6 {
@@ -491,7 +495,7 @@ blockquote {
 
 .card {	
     border:0;
-    background: $translucent-dark;
+    background: $translucent-white;
       // border: 8px solid rgba(255, 255, 255, .3);
       padding: 1rem 1rem 1rem 1rem;
 }
@@ -857,14 +861,13 @@ span.navigation:before {
 .tag-button {
   border: 1px solid grey;
   background-color: whitesmoke;
-    color: grey;
+    color: black;
   padding: 2px 8px;
   border-radius: 12px;
   margin: 0;
 }
 .tag-button:hover {
-  background-color: grey;
-  color: whitesmoke;
+  color: grey;
   cursor: pointer;
 }
 .tag-button:hover a {
@@ -894,7 +897,7 @@ span.navigation:before {
   z-index: 1;
   right: 0;
   top: 0;
-  transform: translate(0, 2.5em);
+  transform: translate(0, 1.9em);
 }
 /* Show the tooltip text when you mouse over the tooltip container */
 .tag-anchor:hover .tag-tooltip {

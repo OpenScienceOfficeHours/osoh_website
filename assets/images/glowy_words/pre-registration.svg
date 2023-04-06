@@ -199,10 +199,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter9276"
-       x="-0.016164787"
-       y="-0.08641321"
+       x="-0.016164786"
+       y="-0.086413198"
        width="1.026675"
-       height="1.17287">
+       height="1.1728699">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.45483964"
@@ -221,6 +221,19 @@
          stdDeviation="0.38754844"
          id="feGaussianBlur4135" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4133-3"
+       x="-0.013032282"
+       width="1.0260646"
+       y="-0.1023965"
+       height="1.204793">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.38754844"
+         id="feGaussianBlur4135-6" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -230,15 +243,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="142.17897"
-     inkscape:cy="-5.3033009"
+     inkscape:cx="55.810928"
+     inkscape:cy="-4.7982246"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1842"
-     inkscape:window-height="1005"
-     inkscape:window-x="352"
-     inkscape:window-y="1478"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
@@ -298,7 +311,7 @@
        inkscape:original-d="m 44.704203,161.58557 c -0.02558,-0.62448 -0.05143,-1.24923 -0.07754,-1.87425 -1.318054,-0.89705 -2.63632,-1.79434 -3.954876,-2.69191 -2.549165,1.33089 -5.098492,2.66146 -7.648135,3.99179 -0.05638,3.16001 -0.113012,6.31964 -0.169915,9.47906 6.467806,2.7417 12.935089,5.48303 19.402236,8.22415 9.626135,-0.0593 19.251618,-0.1188 28.877028,-0.17859 11.25636,-3.37993 22.511969,-6.76 33.767569,-10.14039 8.24304,-0.31082 16.48548,-0.62188 24.72783,-0.93322" />
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:none;fill-opacity:1;stroke:#40b39f;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4133)"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:none;fill-opacity:1;stroke:#ffc463;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4133)"
        x="33.503822"
        y="144.9911"
        id="text817-7-6-5-9"><tspan
@@ -306,10 +319,10 @@
          id="tspan815-2-0-9-1"
          x="33.503822"
          y="144.9911"
-         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Oblique';letter-spacing:0px;baseline-shift:baseline;fill:none;fill-opacity:1;stroke:#40b39f;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"> Pre-Registration  </tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Oblique';letter-spacing:0px;baseline-shift:baseline;fill:none;fill-opacity:1;stroke:#ffc463;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"> Pre-Registration  </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#40b39f;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffc463;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="37.985199"
        y="144.95332"
        id="text1039-2-6-0-0"><tspan
@@ -317,6 +330,28 @@
          id="tspan1037-1-2-9-9"
          x="37.985199"
          y="144.95332"
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Oblique';letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffc463;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pre-Registration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:none;fill-opacity:1;stroke:#40b39f;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4133-3)"
+       x="-20.497717"
+       y="121.69131"
+       id="text817-7-6-5-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan815-2-0-9-1-5"
+         x="-20.497717"
+         y="121.69131"
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Oblique';letter-spacing:0px;baseline-shift:baseline;fill:none;fill-opacity:1;stroke:#40b39f;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"> Pre-Registration  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#40b39f;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-16.01634"
+       y="121.65353"
+       id="text1039-2-6-0-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan1037-1-2-9-9-5"
+         x="-16.01634"
+         y="121.65353"
          style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Oblique';letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#40b39f;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pre-Registration</tspan></text>
   </g>
 </svg>
