@@ -3,11 +3,11 @@ layout: page
 title:  "Open Science Helpers Program"
 author:
 categories:
-image: assets/images/undraw/helpers.svg
+image: assets/images/undraw/outline_helpers.svg
 featured: yes
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
-Extra Workforce for Open Science: Receive hands-on technical help from paid students.
+Receive hands-on technical help from paid students.
 
 An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
 
