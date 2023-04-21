@@ -7,7 +7,6 @@ post_class: post-template
 
 <!-- Begin Article
 ================================================== -->
-&nbsp
 	<div class="row">
 		
 
@@ -15,10 +14,6 @@ post_class: post-template
         {% assign author = site.authors[page.author] %}
         
         <div class="col-sm-12">
-            <!-- Post Featured Image -->
-            {% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}"
-                alt="{{ page.title }}" style="width:300px" id="fig-at-right">{% endif %}
-			<!-- End Featured Image -->
 			<div class="mainheading">             
                 
                 <!-- Post Categories -->
@@ -41,9 +36,10 @@ post_class: post-template
 
 			
 
-			<!-- Post Content -->
-			<div class="article-post serif-font">
-				{{content}}
+            <!-- Post Content -->
+            <div class="article-post serif-font">
+                {{content}}
+
                 <div class="clearfix"></div>
 			</div>
 
