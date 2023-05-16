@@ -2,10 +2,7 @@
 ---
 
 // start content
-$osoh-dark-blue: rgb(20, 40, 80, );
-$osoh-dark-blue: rgb(33, 46, 73);
 $osoh-dark-blue: rgb(0, 5, 43);
-$osoh-translucent-white: rgba(255, 255, 255, .07);
 $osoh-yellow: rgba(254, 200, 89, 1);
 $osoh-pink: rgb(232, 65, 132);
 $osoh-dark-purple: rgb(55, 44, 100);
@@ -14,8 +11,12 @@ $osoh-teal: rgba(67, 181, 160, 1);
 
 $dark-font-color: rgba(0, 0, 0, .8);
 $light-font-color: rgba(255, 255, 255, .7);
-$box-border-color: rgba(255, 255, 255, .1);
 
+$box-border-color: rgba(255, 255, 255, .1);
+$box-background-color: rgba(255, 255, 255, .1);
+
+$unselected-button-color: rgb(37, 39, 65);
+$selected-button-color: $osoh-teal;
 
 
 
@@ -73,15 +74,6 @@ html {
   width: 50%;
 }
 
-.bgimage {
-  background-image: url(https://img.freepik.com/free-photo/abstract-blur-supermarket-retail-store_74190-7546.jpg?w=996&t=st=1679766254~exp=1679766854~hmac=a474f7a85d663575c6ad8645dfba481f35f006b3754ab93854dd3440529a47b9);
-  // background-image: url(/images/store_blurred.jpg);
-  height: 450px;
-
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 body {
   background-color: $osoh-dark-blue;
     font-size: 16px;
@@ -90,8 +82,7 @@ body {
     line-height:1.7;
       color: $light-font-color;
     overflow-x:hidden;
-    padding-top:116px;
-    
+    padding-top: 116px;
 }
 // .serif-font {
 //     font-family:PT Serif;
@@ -254,31 +245,30 @@ small, .small {
 ================================================== */
 
 .hero-head {
-    // background: $osoh-translucent-white;
+    // background: $box-background-color;
       // border: 2px solid $box-border-color;
       padding: 1em 1rem 1rem 1rem;
 }
 
 .hero-sub {
-  background: $osoh-translucent-white;
-    // background: linear-gradient(350deg, $osoh-dark-blue, $osoh-dark-blue 90%, $osoh-yellow, $osoh-teal, $osoh-pink);
+  background: $box-background-color;
     border: 2px solid $box-border-color;
     padding: 1rem 1rem 1rem 1rem;
 }
 
 .about-1 {
-  // background: $osoh-translucent-white;
+  // background: $box-background-color;
     // border: 8px solid rgba(255, 255, 255, .3);
     padding: 1rem 5rem 2rem 5rem;
 }
 
 .about-2 {
-    // background: $osoh-translucent-white;
+    // background: $box-background-color;
     padding: 1rem 5rem 2rem 5rem;
 }
 
 .about-3 {
-    // background: $osoh-translucent-white;
+    // background: $box-background-color;
     padding: 1rem 5rem 2rem 5rem;
 }
 
@@ -310,7 +300,7 @@ small, .small {
 }
 
 .hero h1 {
-    font-size: 2em;
+    font-size: 1em;
 }
 .section-title h5 {
   font-weight: 600;
@@ -349,7 +339,7 @@ small, .small {
 .article-post ol,
 .article-post ul {
   margin-bottom: 1.5rem;
-  color: red;
+  color: $light-font-color;
 }
 .article-post ol ol, .article-post ul ul {
     list-style: disc;
@@ -445,8 +435,8 @@ span.post-name a,span.post-read-more a:hover {
 .article-post {
     font-size: 1em;
     line-height: 1.64;
-  color: rgba(0, 0, 0, .8);
-    background: $osoh-translucent-white;
+  color: $light-font-color;
+    // background: $box-background-color;
     padding: 1rem 1rem 1rem 1rem;
     code {
         font-size:15px;
@@ -503,7 +493,7 @@ blockquote {
 
 .card {	
     border:0;
-    background: $osoh-translucent-white;
+    background: $box-background-color;
       border: 2px solid $box-border-color;
       padding: 1rem 1rem 1rem 1rem;
 }
@@ -522,17 +512,17 @@ ul.tags li {
 }
 /// tag buttons on the top of posts
 ul.tags li a {
-    color: #333;
+    color: $light-font-color;
     padding: 3px 10px;
     border-radius: 3px;
     font-weight: 500;
-    background: rgba(0, 0, 0, .07);
-    text-transform: capitalize;    
-    box-shadow: 0 6px 10px 0 rgba(169, 169, 169, 0.1);
+    background: $unselected-button-color;
+      color: $light-font-color;
+      text-transform: capitalize;
 }
 ul.tags li a:hover {
-  background: $osoh-yellow;
-    color: #333;
+  background: $selected-button-color;
+    color: $dark-font-color;
 	text-decoration:none;
 }
 .margtop3rem {
@@ -547,32 +537,32 @@ ul.tags li a:hover {
 }
 
 
-.btn.follow {
-	border-color:#ccc;
-	color:#999;
-	padding:3px 10px;
-	text-align:center;
-	border-radius:999em;
-	font-size:0.85rem;
-	display:inline-block;
-        box-shadow: none;
-    font-weight:400;
-}
-.btn.subscribe {
-	background-color:#1C9963;
-	border-color:#1C9963;
-	color:rgba(255,255,255,1);
-	fill:rgba(255,255,255,1);
-	border-radius:30px;
-	font-size:0.85rem;
-	margin-left:10px;
-	font-weight:600;
-	text-transform:uppercase;
-}
-.post-top-meta .btn.follow {
-	margin-left:5px;
-	margin-top:-4px;
-}
+// .btn.follow {
+// 	border-color:#ccc;
+// 	color:#999;
+// 	padding:3px 10px;
+// 	text-align:center;
+// 	border-radius:999em;
+// 	font-size:0.85rem;
+// 	display:inline-block;
+//         box-shadow: none;
+//     font-weight:400;
+// }
+// .btn.subscribe {
+// 	background-color:#1C9963;
+// 	border-color:#1C9963;
+// 	color:rgba(255,255,255,1);
+// 	fill:rgba(255,255,255,1);
+// 	border-radius:30px;
+// 	font-size:0.85rem;
+// 	margin-left:10px;
+// 	font-weight:600;
+// 	text-transform:uppercase;
+// }
+// .post-top-meta .btn.follow {
+// 	margin-left:5px;
+// 	margin-top:-4px;
+// }
 
 .form-control::-webkit-input-placeholder {
 	color: rgba(0,0,0,.5);
@@ -824,9 +814,9 @@ span.navigation:before {
   display: none
 }
 .integrations input[type=radio] + label {
-  border: 1px solid grey;
-  background-color: whitesmoke;
-    color: black;
+  // border: 1px solid grey;
+    background-color: $unselected-button-color;
+    color: $light-font-color;
   border-radius: 6px;
   padding: 16px;
   margin: 0;
@@ -834,13 +824,13 @@ span.navigation:before {
   margin-bottom: 1em;
 }
 .integrations input[type=radio]:hover+label {
-  background-color: grey;
-  color: whitesmoke;
+  background-color: $selected-button-color;
+    color: $dark-font-color;
   cursor: pointer;
 }
 .integrations input[type=radio]:checked + label {
-  background-color: grey;
-    color: whitesmoke;
+  background-color: $selected-button-color;
+    color: $dark-font-color;
     // border: 2px solid;
 }
 .integrations .filter-options {
@@ -854,8 +844,9 @@ span.navigation:before {
   break-after: always;
 }
 .tag-anchor {
-  border: 1px solid grey;
-    background-color: whitesmoke;
+  // border: 1px solid grey;
+    background-color: $unselected-button-color;
+    color: $light-font-color;
   padding: 5.5px;
   width: 50px;
   margin: 0;
@@ -867,23 +858,39 @@ span.navigation:before {
   padding: 0;
   margin: 0;
 }
+
 .tag-button {
-  border: 1px solid grey;
-  background-color: whitesmoke;
-    color: black;
+  border: 1px solid $light-font-color;
+    background-color: $unselected-button-color;
+    color: $light-font-color;
   padding: 2px 8px;
   border-radius: 12px;
   margin: 0;
 }
 .tag-button:hover {
-  background-color: grey;
-    color: whitesmoke;
+  border: 1px solid $selected-button-color;
+    background-color: $selected-button-color;
+    color: $dark-font-color;
+    cursor: pointer;
+  }
+  
+  .tag-button-x {
+    background-color: $selected-button-color;
+    color: $dark-font-color;
+    padding: 2px 8px;
+    border-radius: 12px;
+    margin: 0;
+  }
+  
+  .tag-button-x:hover {
+    background-color: $unselected-button-color;
+    color: grey;
+    cursor: pointer;
+}
+.tag-button-x:hover a {
   cursor: pointer;
 }
-.tag-button:hover a {
-  color: whitesmoke;
-}
-.tag-button a {
+.tag-button-x a {
   color: inherit;
 }
 .tag-tooltip {
@@ -897,9 +904,9 @@ span.navigation:before {
   line-height: 2em;
   width: 60vw;
   height: auto;
-  background-color: whitesmoke;
-    border: 1px solid grey;
-  color: grey;
+  background-color: $unselected-button-color;
+    border: 1px solid $box-border-color;
+    color: $light-font-color;
   text-align: left;
   padding: 5px 5px;
   border-radius: 6px;
@@ -925,6 +932,7 @@ span.navigation:before {
   margin: 2em;
   text-align: center;
   line-height: 2em;
+    // color: $dark-font-color;
 }
 
 @media screen and (min-width: 340px) {
@@ -1100,5 +1108,6 @@ span.navigation:before {
     top: 0px;
   }
 }
+
 
 

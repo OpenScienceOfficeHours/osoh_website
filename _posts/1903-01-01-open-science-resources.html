@@ -35,10 +35,8 @@ Search through the different aspects of Open Science to figure out what you can 
         &nbsp;
       <input type="radio" name="radio_group" v-model="radio_group_value" @change="selectRadioButton()"
         v-bind:value="'Open Hardware'" id="Open Hardware"><label for="Open Hardware">Open Hardware</label>
-      <br>
-      &nbsp;
-      
-      </br>
+
+        <div>&nbsp;</div>
         <span class="tag-anchor">Modalities&nbsp;<span class="icon-down-dir"></span>
           <span class="tag-tooltip" v-bind:class="{ visible: popoverShow }" ref="tag_tooltip">
             <span v-if="modality_options_filtered.length == 0"><em>No modalities found</em></span>
@@ -57,12 +55,12 @@ Search through the different aspects of Open Science to figure out what you can 
     </div>
   </div>
   <div class="selected-tags">
-    <span v-for="tag in search_tags"><span class="tag-button selected"><a @click="removeSearchTag(tag)">[[tag]] <span
+    <span v-for="tag in search_tags"><span class="tag-button-x selected"><a @click="removeSearchTag(tag)">[[tag]] <span
             class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
-    <span v-for="modality in search_modalities"><span class="tag-button selected"><a
+    <span v-for="modality in search_modalities"><span class="tag-button-x selected"><a
           @click="removeSearchModality(modality)">[[modality]] <span
             class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
-    <span v-for="species in search_species"><span class="tag-button selected"><a
+    <span v-for="species in search_species"><span class="tag-button-x selected"><a
           @click="removeSearchSpecies(species)">[[species]] <span
             class="icon-cancel-circled inner-icon"></span></a></span>&nbsp;</span>
   </div>
