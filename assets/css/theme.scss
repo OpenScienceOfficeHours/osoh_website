@@ -1000,9 +1000,9 @@ span.navigation:before {
 
 .integrations .item-info h3 {
   color: gray;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 300;
-    line-height: 22px;
+    line-height: 30px;
     margin: 0 0;
     text-align: center;
 }
@@ -1033,7 +1033,7 @@ span.navigation:before {
   display: inline-block;
 }
 .social-links a {
-  color: $osoh-teal;
+  color: gray;
   display: inline-block;
   font-size: 1em;
   line-height: 1.5em;
@@ -1043,7 +1043,7 @@ span.navigation:before {
   width: 1.5em;
 }
 .social-links a:hover {
-  color: grey;
+  color: $osoh-teal;
     transform: translateY(-0.15em);
     border-color: $osoh-teal;
 }
