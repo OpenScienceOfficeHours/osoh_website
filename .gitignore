@@ -1,4 +1,5 @@
 assest/images/sandbox
+assets/images/icons_big/undraw_originals
 *.gem
 .bundle
 .jekyll-cache
