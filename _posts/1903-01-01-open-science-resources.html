@@ -3,7 +3,7 @@ layout: page
 title:  "Open Science Resources"
 author:
 categories: [ ]
-image: /assets/images/icons/resources.svg
+image: /assets/images/icons_big/resources.svg
 featured: yes
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
@@ -66,10 +66,10 @@ Search through the different aspects of Open Science to figure out what you can 
   </div>
   <div v-for="itm in allFilteredItems" class="item">
     <div v-if="itm.logo" class="item-logo">
-      <img :src="'../assets/images/logo_resources/' + itm.logo" alt="">
+      <img :src="'../assets/images/logos_small/' + itm.logo" alt="">
     </div>
     <div v-else class="item-logo">
-      <img src="../assets/images/logo_resources/noname.png" alt="">
+      <img src="../assets/images/logos_small/noname.png" alt="">
     </div>
     <div class="item-info">
       <h3>[[itm.name]]</h3>

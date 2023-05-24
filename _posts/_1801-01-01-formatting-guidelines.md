@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "February Theme"
+title:  "November: Large open datasets like the UKBioBank"
 author:
-categories: [ theme, open-code ]
-image: assets/images/icons/scatterplot.svg
+categories: [ theme, open-data ]
+image: assets/images/icons/outline_mri.svg
 featured: no
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->

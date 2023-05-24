@@ -2,7 +2,7 @@
 layout: page
 title: Get involved
 permalink: "/get-involved/"
-image: assets/images/undraw/outline_helpers.svg
+image: assets/images/icons_big/helpers.svg
 featured: yes
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
