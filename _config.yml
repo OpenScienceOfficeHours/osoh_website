@@ -3,7 +3,7 @@ email: open.science.office.hours@gmail.com
 timezone: UTC
 baseurl: "/osoh_website"
 permalink: "/:title/"
-logo: 'assets/images/osoh_logo__acronym_with_full_name__horizontal__no_background.svg'
+logo: 'assets/images/osoh_head_logo.png'
 favicon: 'assets/images/favicon.ico'
 author: OSOH Contriubtors
 paginate: 30
