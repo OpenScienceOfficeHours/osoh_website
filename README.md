@@ -6,6 +6,8 @@ Built/Adapted from Affiliates - Free Jekyll Theme
 
 Resources page layout and underlying tagging/filtering funcitonnalities adapted from https://www.datalad.org/in-the-wild.html / https://github.com/datalad/datalad
 
+Many of the images were adapted from [undraw](https://undraw.co).
+
 ## Notes
 * 3 types of content/pages
 
