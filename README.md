@@ -47,4 +47,15 @@ Resources page layout and underlying tagging/filtering funcitonnalities adapted 
 * Create a Monthly theme Regular Post (to go in News an Events)
 * Change text ant link for the main page button redirecting to the monhtly theme page, in index.html
 * Edit the Office Hours Featured post to update with the current month expert. OR- do not mention the details of the Theme/Expert on this page, instead link to the Monthly theme Post. In this case the link needs to be updated.
-* 
+
+## Resources page
+* Requirements to run the code to update the resources displayed on this page:
+  * Python >= 3.8
+  * pandas (`pip install pandas`)
+* To add new resources, follow these steps
+  * Download the logo for the new resources. Note that we're trying to get the simplest version of the logo (without a lot of text), since the resource name will be displayed under the logo.
+  * Fill in [this Google survey]() with the required information
+  * Download [this Google spreadsheet]() as a .csv. This contains the survey responses (i.e., the information about each resource)
+  * Delete this file: `assets/js/Collecting Open-Science Resources v3 (Responses) - Form Responses 1.csv`
+  * Move the newly-downloaded file there ^ 
+  * Run the python file that takes this .csv and turns it into a .json that the js code reads, using this command: `python3 integrations_csv_to_json.py`
