@@ -6,6 +6,8 @@ Built/Adapted from Affiliates - Free Jekyll Theme
 
 Resources page layout and underlying tagging/filtering funcitonnalities adapted from https://www.datalad.org/in-the-wild.html / https://github.com/datalad/datalad
 
+Many of the images were adapted from [undraw](https://undraw.co).
+
 ## Notes
 * 3 types of content/pages
 
@@ -22,6 +24,9 @@ Resources page layout and underlying tagging/filtering funcitonnalities adapted 
   * Categories: (not needed)
   * Author: (not needed)
 * Should be limited to 3 total with the current sizing of things
+* Images for Featured Post
+  * Should be standard size (or at least H/W ratio) so that the display is nice and consistent on the landing page.
+  * Currently 1000px wide by 600px high
 
 ### Regular Posts - News and Events
 * Displayed after the 'featured posts'
@@ -36,6 +41,9 @@ Resources page layout and underlying tagging/filtering funcitonnalities adapted 
   * Featured: no
   * Categories: [caterogy1 caterory2] (Categories are important because you can browse posts by categories)
   * Author: (If left empty only the date will be diplayed, if Author provided "By Author, Date" will be displayed)
+* Images for regular Posts (news and events)
+  * Should be standard size (or at least H/W ratio) so that the display is nice and consistent on the landing page.
+  * Currently 1000px wide by 600px high
 
 ### Pages listed in the top/right navigation menu
 * These are links at the top-right of all pages, and may be use for general stuff; About, Get in Touch, Contribute, ...
@@ -47,4 +55,15 @@ Resources page layout and underlying tagging/filtering funcitonnalities adapted 
 * Create a Monthly theme Regular Post (to go in News an Events)
 * Change text ant link for the main page button redirecting to the monhtly theme page, in index.html
 * Edit the Office Hours Featured post to update with the current month expert. OR- do not mention the details of the Theme/Expert on this page, instead link to the Monthly theme Post. In this case the link needs to be updated.
-* 
+
+## Resources page
+* Requirements to run the code to update the resources displayed on this page:
+  * Python >= 3.8
+  * pandas (`pip install pandas`)
+* To add new resources, follow these steps
+  * Download the logo for the new resources. Note that we're trying to get the simplest version of the logo (without a lot of text), since the resource name will be displayed under the logo.
+  * Fill in [this Google survey]() with the required information
+  * Download [this Google spreadsheet]() as a .csv. This contains the survey responses (i.e., the information about each resource)
+  * Delete this file: `assets/js/Collecting Open-Science Resources v3 (Responses) - Form Responses 1.csv`
+  * Move the newly-downloaded file there ^ 
+  * Run the python file that takes this .csv and turns it into a .json that the js code reads, using this command: `python3 integrations_csv_to_json.py`
