@@ -24,6 +24,9 @@ Many of the images were adapted from [undraw](https://undraw.co).
   * Categories: (not needed)
   * Author: (not needed)
 * Should be limited to 3 total with the current sizing of things
+* Images for Featured Post
+  * Should be standard size (or at least H/W ratio) so that the display is nice and consistent on the landing page.
+  * Currently 1000px wide by 600px high
 
 ### Regular Posts - News and Events
 * Displayed after the 'featured posts'
@@ -38,6 +41,9 @@ Many of the images were adapted from [undraw](https://undraw.co).
   * Featured: no
   * Categories: [caterogy1 caterory2] (Categories are important because you can browse posts by categories)
   * Author: (If left empty only the date will be diplayed, if Author provided "By Author, Date" will be displayed)
+* Images for regular Posts (news and events)
+  * Should be standard size (or at least H/W ratio) so that the display is nice and consistent on the landing page.
+  * Currently 1000px wide by 600px high
 
 ### Pages listed in the top/right navigation menu
 * These are links at the top-right of all pages, and may be use for general stuff; About, Get in Touch, Contribute, ...
