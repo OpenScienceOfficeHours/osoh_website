@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "September - Best practices for open data"
+title:  "September Theme"
 author: 
 categories: [ theme, open-data ]
-image: assets/images/logos_big/dataverse.svg
+image: assets/images/icons_big/open_data_sept.svg
 featured: no
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
-September theme: "Best practices for open data"
+Best practices for Open Data sharing, and how to get started with McGill Dataverse.
