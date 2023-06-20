@@ -7,7 +7,7 @@ post_class: post-template
 
 <!-- Begin Article
 ================================================== -->
-	<div class="row align-items-center justify-content-between">
+	<div class="row align-items-center justify-content-center">
 
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
@@ -21,8 +21,6 @@ post_class: post-template
 
         <!-- Post Tags + Title -->
         <div class="col-md-5">
-            <div class="mainheading">
-
                 <!-- Post Categories -->
                 <div class="after-post-tags">
                     <ul class="tags">
@@ -38,7 +36,7 @@ post_class: post-template
 
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1>
-            </div>
+                <p class="card-text">{{ page.subtitle }}</p>
         </div>
         <!-- End Post Tags + Title -->
         {% else %}
@@ -61,6 +59,7 @@ post_class: post-template
 
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1>
+                <p class="card-text">{{ page.subtitle }}</p>
 
 			</div>
         </div>
@@ -71,7 +70,7 @@ post_class: post-template
     <div class="row">
         <div class="col-sm-12">
             <!-- Post Content -->
-            <div class="article-post serif-font">
+            <div class="article-post">
                 {{content}}
 
                 <div class="clearfix"></div>
