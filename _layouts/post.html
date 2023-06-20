@@ -19,8 +19,9 @@ post_class: post-template
         </div>
         <!-- End Post Image -->
 
-        <!-- Post Tags + Title -->
+        <!-- Post Tags + Title/Subtitle -->
         <div class="col-md-5">
+            <div class="mainheading">
                 <!-- Post Categories -->
                 <div class="after-post-tags">
                     <ul class="tags">
@@ -34,9 +35,10 @@ post_class: post-template
                 </div>
                 <!-- End Categories -->
 
-                <!-- Post Title -->
-                <h1 class="posttitle">{{ page.title }}</h1>
-                <p class="card-text">{{ page.subtitle }}</p>
+                <!-- Post Title/Subtitle-->
+                <h1>{{ page.title }}</h1>
+                <p class="subtitle">{{ page.subtitle }}</p>
+            </div>
         </div>
         <!-- End Post Tags + Title -->
         {% else %}
@@ -58,8 +60,8 @@ post_class: post-template
                 <!-- End Categories -->
 
                 <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1>
-                <p class="card-text">{{ page.subtitle }}</p>
+				<h1>{{ page.title }}</h1>
+                <p class="subtitle">{{ page.subtitle }}</p>
 
 			</div>
         </div>
