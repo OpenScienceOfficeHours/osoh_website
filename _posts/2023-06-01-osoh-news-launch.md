@@ -4,10 +4,10 @@ title:  "OSOH is alive!"
 author: 
 categories: [ news ]
 image: assets/images/icons_big/news_osoh_launch.svg
+headimage: yes
 featured: no
+subtitle: Welcome to Open Science Office Hours, where Open Science comes alive.
 ---
-<!--- This first line will be displayed on the landing page with the Post title--->
-Welcome to Open Science Office Hours, where Open Science comes alive.
 
 ### OSOH in a nutshell
 This initative ...
