@@ -13,14 +13,8 @@ post_class: post-template
         {% assign author = site.authors[page.author] %}
 
         {% if page.headimage == true %}
-        <!-- Post Image -->
-        <div class="col-md-5">
-            <img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
-        </div>
-        <!-- End Post Image -->
-
         <!-- Post Tags + Title/Subtitle -->
-        <div class="col-md-5">
+        <div class="col-md-6">
             <div class="mainheading">
                 <!-- Post Categories -->
                 <div class="after-post-tags">
@@ -41,6 +35,11 @@ post_class: post-template
             </div>
         </div>
         <!-- End Post Tags + Title -->
+        <!-- Post Image -->
+        <div class="col-md-6">
+            <img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+        </div>
+        <!-- End Post Image -->
         {% else %}
 
         <div class="col-md-12">
