@@ -7,15 +7,22 @@ post_class: post-template
 
 <!-- Begin Article
 ================================================== -->
-	<div class="row">
-		
+	<div class="row align-items-center justify-content-between">
 
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
-        
-        <div class="col-sm-12">
-			<div class="mainheading">             
-                
+
+        {% if page.headimage == true %}
+        <!-- Post Image -->
+        <div class="col-md-5">
+            <img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+        </div>
+        <!-- End Post Image -->
+
+        <!-- Post Tags + Title -->
+        <div class="col-md-5">
+            <div class="mainheading">
+
                 <!-- Post Categories -->
                 <div class="after-post-tags">
                     <ul class="tags">
@@ -28,14 +35,41 @@ post_class: post-template
                     </ul>
                 </div>
                 <!-- End Categories -->
-                
+
                 <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1> 
-                
+                <h1 class="posttitle">{{ page.title }}</h1>
+            </div>
+        </div>
+        <!-- End Post Tags + Title -->
+        {% else %}
+
+        <div class="col-md-12">
+			<div class="mainheading">
+
+                <!-- Post Categories -->
+                <div class="after-post-tags">
+                    <ul class="tags">
+                        {% assign sortedCategories = page.categories | sort %}
+                        {% for category in sortedCategories %}
+                        <li>
+                         <a href="{{ site.baseurl }}/categories#{{ category | slugify }}">{{ category }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <!-- End Categories -->
+
+                <!-- Post Title -->
+				<h1 class="posttitle">{{ page.title }}</h1>
+
 			</div>
+        </div>
+        {% endif %}
 
-			
+    </div>
 
+    <div class="row">
+        <div class="col-sm-12">
             <!-- Post Content -->
             <div class="article-post serif-font">
                 {{content}}
@@ -96,11 +130,8 @@ post_class: post-template
             End Comments
             ================================================== -->
 
-            
-
-		</div>
 		<!-- End Post -->
-
+        </div>
 	</div>
 
 <!-- End Article

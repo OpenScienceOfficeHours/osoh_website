@@ -4,6 +4,7 @@ title:  "OSOH is alive!"
 author: 
 categories: [ news ]
 image: assets/images/icons_big/news_osoh_launch.svg
+headimage: yes
 featured: no
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
