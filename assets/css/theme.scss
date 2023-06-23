@@ -160,11 +160,11 @@ p,
 a {
     color:inherit;
     text-decoration:none;
-    transition: all .4s;
+    // transition: all .2s;
     &:hover {
         text-decoration:none;
         color:inherit;
-        transition: all .4s;
+        // transition: all .2s;
     }
 }
 img,
@@ -1068,7 +1068,7 @@ span.navigation:before {
   .use-case-text {
     width: 70%;
     margin: auto;
-    font-size: 22px;
+    font-size: .7em;
   }
 }
 
