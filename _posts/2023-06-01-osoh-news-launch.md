@@ -14,7 +14,7 @@ Hi 👋 I'm Kendra, and I'm here to announce that Open Science Office Hours is l
 
 We hold office hours at the Neuro to help researchers make their research more open. But we do more than that. 
 
-Here's a brief intro 🧵...
+{::comment} For twitter only: Here's a brief intro 🧵... {:/comment}
 
 {::comment} Tweet 2 {:/comment}
 **Our goal is to empower students and researchers to make their work more open.**
