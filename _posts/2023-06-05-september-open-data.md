@@ -8,9 +8,5 @@ headimage: no
 featured: no
 subtitle: This month, we cover the best practices for Open Data sharing, and how to get started with McGill Dataverse.
 ---
-... 
-
-... content content ..
-
-...
+More details coming soon!
 
