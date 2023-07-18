@@ -6,7 +6,8 @@ image: assets/images/icons_big/helpers.svg
 featured: yes
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
-We strive to make OSOH as dynamic and useful as possible to the Neuroscience community, and we would love to have your input. Have an idea for a theme? Want to suggest a missing Open Science resource?
+Have an idea for a theme? Want to suggest a missing Open Science resource?
+We strive to make OSOH as dynamic and useful as possible to the Neuroscience community, and we would love to have your input. 
 
 ## Suggest Resources
 If you have ideas for what to add to our **[resources page](../open_science_resources)**, please let us know:
