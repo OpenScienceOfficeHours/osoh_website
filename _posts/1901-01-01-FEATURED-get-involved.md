@@ -9,6 +9,17 @@ featured: yes
 Have an idea for a theme? Want to suggest a missing Open Science resource?
 We strive to make OSOH as dynamic and useful as possible to the Neuroscience community, and we would love to have your input. 
 
+## Community Feedback Wanted: Website beta testing July-August 2023
+Open Science Office Hours is almost ready to launch and we are requesting feedback from the community about the OSOH website to make it better, more intuitive, more useful.
+We would appreciate any comments about the website in general, but would more specifically appreciate inputs about the Open Science **[Resources page](../open_science_resources)**:
+* Are the filters intuitive?
+* Any filters that you think are missing or irrelevant?
+* Any bugs or navigation issues?
+
+Note: The website is not currently optimized for Mobile and we are working on this (all features should work, but there are visual display issues). For now please use on laptop/desktop for testing and feedback.
+Your feedback is most welcome! Please add to this Github issue **[Thread for Beta Website Testing](https://github.com/OpenScienceOfficeHours/osoh_website)** or email us using our **[contact page](../contact)**.
+
+
 ## Suggest Resources
 If you have ideas for what to add to our **[resources page](../open_science_resources)**, please let us know:
 * by opening an Issue on the website's **[Github repository](https://github.com/OpenScienceOfficeHours/osoh_website)**, making sure to select the "resource suggestion" label,
