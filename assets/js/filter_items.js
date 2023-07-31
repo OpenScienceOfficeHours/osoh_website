@@ -38,6 +38,53 @@ var app = new Vue({
   computed:
   {
     //////////////////////
+    //simplify this code
+
+    tag_options() {
+      return this.collateTags(this.all_items);
+    },
+    species_options() {
+      return this.collateSpecies(this.all_items);
+    },
+    modality_options() {
+      return this.collateModalities(this.all_items);
+    },
+    //////////////////////
+    tag_options_filtered() {
+      return this.tag_options.filter(c => {
+        return (c.toLowerCase().includes(this.tag_text.toLowerCase()));
+      })
+    },
+    species_options_filtered() {
+      return this.species_options.filter(c => {
+        return (c.toLowerCase().includes(this.species_text.toLowerCase()));
+      })
+    },
+    modality_options_filtered() {
+      return this.modality_options.filter(c => {
+        return (c.toLowerCase().includes(this.modality_text.toLowerCase()));
+      })
+    },
+    //////////////////////
+    tag_options_available() {
+      return this.tag_options.filter(c => {
+        return (!this.search_tags.includes(c));
+      })
+    },
+    species_options_available() {
+      return this.species_options.filter(c => {
+        return (!this.search_species.includes(c));
+      })
+    },
+    modality_options_available() {
+      return this.modality_options.filter(c => {
+        return (!this.search_modalities.includes(c));
+      })
+    },
+    //////////////////////
+
+
+
     tagFilteredItems() {
       items = this.all_items;
       return items.filter(c => {
@@ -64,6 +111,9 @@ var app = new Vue({
     },
   //////////////////
   },
+  mounted() {
+    this.getJSONblob(file_path);
+  },
   methods: {
     getJSONblob(file) {
       var app = this;
@@ -75,15 +125,80 @@ var app = new Vue({
             app.all_items = JSON.parse(allText);
           } else if (rawFile.status === 404) {
             router.push({ name: '404' })
-          } else {
-            // TODO: figure out what to do here
           }
         }
       }
       rawFile.open("GET", file, false);
       rawFile.send();
     },
-//////////////////
+    ////////////////////
+    filterTags() {
+      this.search_tags = this.search_tags.filter(c => {
+        return (this.tag_options.includes(c));
+      })
+    },
+    filterSpecies() {
+      this.search_species = this.search_species.filter(c => {
+        return (this.species_options.includes(c));
+      })
+    },
+    filterModalities() {
+      this.search_modalities = this.search_modalities.filter(c => {
+        return (this.modality_options.includes(c));
+      })
+    },
+    ////////////////////
+    addTag() {
+      if (this.tag_options.includes(this.tag_text)) {
+        this.search_tags.push(this.tag_text);
+        this.tag_text = '';
+      }
+    },
+    addSpecies() {
+      if (this.species_options.includes(this.species_text)) {
+        this.search_species.push(this.species_text);
+        this.species_text = '';
+      }
+    },
+    addModality() {
+      if (this.modality_options.includes(this.modality_text)) {
+        this.search_modalities.push(this.modality_text);
+        this.modality_text = '';
+      }
+    },
+    ////////////////////
+    removeTag(tag) {
+      this.search_tags = this.search_tags.filter(c => {
+        return (c != tag);
+      })
+    },
+    removeSpecies(species) {
+      this.search_species = this.search_species.filter(c => {
+        return (c != species);
+      })
+    },
+    removeModality(modality) {
+      this.search_modalities = this.search_modalities.filter(c => {
+        return (c != modality);
+      })
+    },
+    ////////////////////
+    clearTags() {
+      this.search_tags = [];
+    },
+    clearSpecies() {
+      this.search_species = [];
+    },
+    clearModalities() {
+      this.search_modalities = [];
+    },
+    ////////////////////
+    clearAll() {
+      this.search_tags = [];
+      this.search_species = [];
+      this.search_modalities = [];
+    },
+    ////////////////////
     collateTags(all_items) {
       all_tags = [];
       for (let i = 0; i < all_items.length; i++) {
@@ -120,7 +235,7 @@ var app = new Vue({
       }
       return all_modalities
     },
-//////////////////////
+    ////////////////
     addSearchTag(option) {
       this.radio_group_value = false;
       this.search_tags.push(option);
@@ -172,6 +287,7 @@ var app = new Vue({
       this.modality_options_filtered = this.modality_options_available.filter(str => str.indexOf(this.modality_text) >= 0);
     },
 //////////////////////
+
       selectRadioButton() {
         val = this.radio_group_value;
         console.log(val)
@@ -198,6 +314,10 @@ var app = new Vue({
         }
         else if (val == 'Open Hardware') {
           this.search_tags = ['Open Hardware'];
+          this.filterTags();
+        }
+        else if (val == 'Open Educational Resources') {
+          this.search_tags = ['Open Educational Resources'];
           this.filterTags();
         }
       },
