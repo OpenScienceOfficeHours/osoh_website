@@ -6,9 +6,7 @@ Built/Adapted from Affiliates - Free Jekyll Theme
 
 Resources page layout and underlying tagging/filtering funcitonnalities adapted from https://www.datalad.org/in-the-wild.html / https://github.com/datalad/datalad
 
-Many of the images were adapted from [undraw](https://undraw.co).
-
-## Notes
+## Website Stucture/Backend
 * 3 types of content/pages
 
 ### Featured "posts" - actually Pages
@@ -67,3 +65,12 @@ Many of the images were adapted from [undraw](https://undraw.co).
   * Delete this file: `assets/js/Collecting Open-Science Resources v3 (Responses) - Form Responses 1.csv`
   * Move the newly-downloaded file there ^ 
   * Run the python file that takes this .csv and turns it into a .json that the js code reads, using this command: `python3 integrations_csv_to_json.py`
+ 
+## Visual Identity
+* Many of the images/thumbnails are adapted from [undraw](https://undraw.co), free an open source.
+* The color scheme contains 5 colors:
+  * Orange #ffc463
+  * Teal #40b39f
+  * Pink #fc4889
+  * Purple #472a84
+  * Dark Purple #36213a
