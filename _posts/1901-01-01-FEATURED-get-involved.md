@@ -17,6 +17,7 @@ We would appreciate any comments about the website in general, but would more sp
 * Any bugs or navigation issues?
 
 Note: The website is not currently optimized for Mobile and we are working on this (all features should work, but there are visual display issues). For now please use on laptop/desktop for testing and feedback.
+
 Your feedback is most welcome! Please add to this Github issue **[Thread for Beta Website Testing](https://github.com/OpenScienceOfficeHours/osoh_website/issues/22)** or email us using our **[contact page](../contact)**.
 
 
