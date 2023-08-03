@@ -8,6 +8,12 @@ headimage: no
 featured: no
 subtitle: This month, we cover the best practices of Data Management and Sharing, and how to get started with McGill Dataverse.
 ---
+<style>
+red {
+  color: red;
+}
+</style>
+
 ### About
 In this first thematic month of the Fall 2023 semester of Open Data, we thought it would be good to start by covering the foundation of Open Data: Introduction to best practices in research data management and data sharing.
 
@@ -25,7 +31,7 @@ Alisa has extensive experience in providing individual consulting to campus rese
 What | This seminar will provide attendees with an overview of the best practices for efficiently managing and sharing research data. Attendees will learn how to set up folders according to a logical schema, create README documentation to map out folder hierarchies, and implement a file naming convention. Participants will also learn about making data FAIR, license options for data, and McGill’s institutional data repository.
 
 
-<span style="color:osoh-yellow"> Where </span> |
+<red>Where</red> | ok
 
 When | September, date and time TBD
 
