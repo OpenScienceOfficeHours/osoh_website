@@ -30,19 +30,23 @@ If you have questions related to the monthly theme, we invite you to arrange an 
   padding: 10px;
   height: 200px; /* Should be removed. Only for demonstration */
 }
+  
+  @media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+    
 </style>
-</head>
-<body>
 
 <h2>Two Equal Columns</h2>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
+  <div class="column">
+    <h2>General Walk-in Hours</h2>
     <p>Some text..</p>
   </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
+  <div class="column">
+    <h2>One-on-One with Theme Expert</h2>
     <p>Some text..</p>
   </div>
 </div>
