@@ -11,6 +11,7 @@ subtitle: This month, we cover the best practices of Data Management and Sharing
 <style>
 orange {
   color: rgba(254, 200, 89, 1);
+  font-weight: bold;
 }
 </style>
 
@@ -28,16 +29,16 @@ Alisa has extensive experience in providing individual consulting to campus rese
 
 
 ### Seminar/Workshop
-<orange>**When**</orange>
+<orange>When</orange>
 September, date and time TBD
 
-<orange>**Where**</orange>
+<orange>Where</orange>
 Location TBD (somewhere on McGill Campus, Montreal), In person
 
-<orange>**Abstract**</orange>
+<orange>Abstract</orange>
 This seminar will provide attendees with an overview of the best practices for efficiently managing and sharing research data. Attendees will learn how to set up folders according to a logical schema, create README documentation to map out folder hierarchies, and implement a file naming convention. Participants will also learn about making data FAIR, license options for data, and McGill’s institutional data repository.
 
-<orange>**Attendance is FREE, please register HERE**</orange>
+<orange>Attendance is FREE, please register (link available soon)</orange>
 
 
 
