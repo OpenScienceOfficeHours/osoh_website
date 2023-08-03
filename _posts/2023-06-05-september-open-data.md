@@ -24,7 +24,8 @@ Alisa has extensive experience in providing individual consulting to campus rese
 ### Seminar/Workshop
 What | This seminar will provide attendees with an overview of the best practices for efficiently managing and sharing research data. Attendees will learn how to set up folders according to a logical schema, create README documentation to map out folder hierarchies, and implement a file naming convention. Participants will also learn about making data FAIR, license options for data, and McGill’s institutional data repository.
 
- <font color=#fec859><b>Where</b></font> | Location tbd
+
+<span style="color:osoh-yellow"> Where </span> |
 
 When | September, date and time TBD
 
