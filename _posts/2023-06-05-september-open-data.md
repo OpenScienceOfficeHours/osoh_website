@@ -9,8 +9,8 @@ featured: no
 subtitle: This month, we cover the best practices of Data Management and Sharing, and how to get started with McGill Dataverse.
 ---
 <style>
-red {
-  color: red;
+orange {
+  color: rgba(254, 200, 89, 1);
 }
 </style>
 
@@ -31,7 +31,7 @@ Alisa has extensive experience in providing individual consulting to campus rese
 What | This seminar will provide attendees with an overview of the best practices for efficiently managing and sharing research data. Attendees will learn how to set up folders according to a logical schema, create README documentation to map out folder hierarchies, and implement a file naming convention. Participants will also learn about making data FAIR, license options for data, and McGill’s institutional data repository.
 
 
-<red>Where</red> | ok
+<orange>Where</orange> | TBD
 
 When | September, date and time TBD
 
