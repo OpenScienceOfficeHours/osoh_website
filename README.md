@@ -74,3 +74,7 @@ Resources page layout and underlying tagging/filtering funcitonnalities adapted 
   * Pink #fc4889
   * Purple #472a84
   * Dark Purple #36213a
+    
+  ![osoh palette](assets/images/osoh_palette.png)
+
+  
