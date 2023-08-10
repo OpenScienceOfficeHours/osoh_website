@@ -316,7 +316,7 @@ var app = new Vue({
           this.search_tags = ['Open Hardware'];
           this.filterTags();
         }
-        else if (val == 'Educational') {
+        else if (val == 'Open Science Education/Training') {
           this.search_tags = ['Educational'];
           this.filterTags();
         }
