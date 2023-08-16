@@ -31,7 +31,7 @@ Alisa has extensive experience in providing individual consulting to campus rese
 
 
 ### Seminar/Workshop
-<img align="right" width="400" src="/assets/images/osoh_poster_september.png">
+<img align="right" width="400" src="osoh_website/assets/images/osoh_poster_september.png">
 <orange>When</orange>
 September 5 2023, 4pm
 
