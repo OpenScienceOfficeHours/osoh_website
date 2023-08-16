@@ -31,7 +31,7 @@ Alisa has extensive experience in providing individual consulting to campus rese
 
 
 ### Seminar/Workshop
-<img align="right" width="400" src="https://github.com/OpenScienceOfficeHours/osoh_website/blob/main/assets/images/osoh_poster_september.png">
+<img align="right" width="400" src="/assets/images/osoh_poster_september.png">
 <orange>When</orange>
 September 5 2023, 4pm
 
