@@ -37,11 +37,12 @@ September 5 2023, 4pm
 
 <orange>Where</orange>
 Thomson House, Restaurant/Basement level
+
 3650 Mc Tavish St, Montreal, Quebec H3A 1Y2
 
 <orange>Abstract</orange>
 This seminar will provide attendees with an overview of the best practices for efficiently managing and sharing research data. Attendees will learn how to set up folders according to a logical schema, create README documentation to map out folder hierarchies, and implement a file naming convention. Participants will also learn about making data FAIR, license options for data, and McGill’s institutional data repository.
 
-<orange>Attendance is FREE, please register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd_3lWq00qqqSNXTb70lfDRgSfAZqVFcmVcJoLtEe_UA4sQ6A/viewform)</orange>
+<orange>Attendance is FREE, please register:</orange> [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd_3lWq00qqqSNXTb70lfDRgSfAZqVFcmVcJoLtEe_UA4sQ6A/viewform)
 
 
