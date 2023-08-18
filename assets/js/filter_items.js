@@ -317,7 +317,7 @@ var app = new Vue({
           this.filterTags();
         }
         else if (val == 'Educational') {
-          this.search_tags = ['Educational'];
+          this.search_tags = ['Open Science Education/Training'];
           this.filterTags();
         }
       },
