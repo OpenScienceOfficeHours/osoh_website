@@ -244,10 +244,13 @@ small, .small {
 /* Pages
 ================================================== */
 
-.hero-head {
+.hero-head-computer {
     // background: $box-background-color;
       // border: 2px solid $box-border-color;
       padding: 1em 1rem 1rem 1rem;
+}
+.hero-head-cell {
+    display: none;
 }
 
 .hero-sub {
@@ -272,10 +275,28 @@ small, .small {
     padding: 1rem 5rem 2rem 5rem;
 }
 
+.text-right-computer {
+  text-align: right;
+}
+
+.book-cell {
+  visibility: hidden;
+}
+.book-computer {
+  display: float;
+}
+
 
 @media only screen and (max-width: 1024px) {
     .page-header.big {
-        font-size:3.5em;
+        font-size: 2.5em;
+        }
+        
+    .hero-head-computer {
+        display: none;
+    }
+    .hero-head-cell {
+        display: inline;
     }
     .wrap-page-header {
         padding: 2rem 0 3rem;
@@ -286,6 +307,31 @@ small, .small {
     .layout-default .wrap-page-header {
         display:block;
     }
+    .about-1 {
+      padding: 0rem 0rem 0rem 0rem;
+    }
+
+    .about-2 {
+      padding: 0rem 0rem 0rem 0rem;
+    }
+
+    .about-3 {
+      padding: 0rem 0rem 0rem 0rem;
+    }
+    .img-on-computer {
+      display: none;
+    }
+    .text-right-computer {
+      text-align: left;
+      // padding: 0rem 0rem 0rem 0rem;
+    }
+    .book-computer {
+      display: none;
+    }  
+    .book-cell {
+      visibility: visible;
+    } 
+
 }
 @media only screen and (max-width: 767px) {
     .page-header.big {
@@ -617,7 +663,7 @@ ul.tags li a:hover {
 }
 .sociallinks a {
   background: #666;
-    color: #fff;
+  color: #fff;
 	width:22px;
 	height:22px;
 	display:inline-block;
@@ -633,7 +679,7 @@ ul.tags li a:hover {
 .sidebar {font-size: 15px;}
 .sidebar h5 {    margin-bottom: 1rem;   text-align:center; position:relative;font-weight: 700; }
 .sidebar h5 span {
-background-color: $osoh-dark-purple;
+    background-color: $osoh-dark-purple;
     position: relative;
     z-index: 2;
     display: inline-block;
@@ -1091,7 +1137,7 @@ span.navigation:before {
   border-color: grey;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1px) {
   .integrations .social-links {
     display: none;
   }
