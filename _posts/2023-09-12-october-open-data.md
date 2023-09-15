@@ -22,7 +22,7 @@ We have recruited a wonderful expert on the Braim Imaging Data Structure (BIDS) 
 
 ### Expert of the month
 <orange>Remi Gau, Phd</orange>
-
+<br>
 <orange>Research Associate, McGill University</orange>
 
 Remi is a cognitive neuroscientist interested in multisensory perception, high-resolution fMRI as well as open and reproducible science. He is part of the BIDS Maintainers group, among many other things.
