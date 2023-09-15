@@ -23,9 +23,7 @@ Good data management is the cornerstone of Open and Reproducible Science. First,
 To help us with all of this complicated stuff, we have recruited a wonderful expert on that topic to offer a **seminar** at the start of the month, and whom will be available throughout September to book **one-on-one Zoom consultations** with you.
 
 ### Expert of the month
-<orange>Alisa Rod, Phd</orange>
-
-<orange>Research Data Management Specialist at McGill University Library</orange>
+<orange>Alisa Rod, Phd<br>Research Data Management Specialist at McGill University Library</orange>
 
 Alisa has extensive experience in providing individual consulting to campus researchers and research groups on the fundamentals of research data management issues, including data management planning, funding agency requirements, data citation practices, open data, and research data lifecycle management. Alisa also helps researchers sharing data with McGill's insitutional research data repository (Dataverse).
 
