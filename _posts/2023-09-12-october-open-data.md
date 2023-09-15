@@ -21,9 +21,7 @@ After the September introduction to Data Management and Sharing, October is the 
 We have recruited a wonderful expert on the Braim Imaging Data Structure (BIDS) to offer a **seminar** at the start of the month, and whom will be available throughout October for **one-on-one consultations** and help you get started with this standard. BIDS is an fabulous example of a successuful community-driven data standard, and is applicable to a wide range of neuroscience data (NOT JUST MRI!).
 
 ### Expert of the month
-<orange>Remi Gau, Phd</orange>
-<br>
-<orange>Research Associate, McGill University</orange>
+<orange>Remi Gau, Phd<br>Research Associate, McGill University</orange>
 
 Remi is a cognitive neuroscientist interested in multisensory perception, high-resolution fMRI as well as open and reproducible science. He is part of the BIDS Maintainers group, among many other things.
 
