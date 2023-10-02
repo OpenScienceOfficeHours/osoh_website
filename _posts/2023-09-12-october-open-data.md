@@ -26,7 +26,7 @@ We have recruited a wonderful expert on the Braim Imaging Data Structure (BIDS) 
 Remi is a cognitive neuroscientist interested in multisensory perception, high-resolution fMRI as well as open and reproducible science. He is part of the BIDS Maintainers group, among many other things.
 
 ### Seminar/Workshop
-<img align="right" width="400" src="{{site.baseurl}}/assets/images/osoh_poster_october.png">
+<img align="right" width="400" src="{{site.baseurl}}/assets/images/osoh_poster_october.pdf">
 <orange>When</orange>
 October 4 2023, 4pm
 
