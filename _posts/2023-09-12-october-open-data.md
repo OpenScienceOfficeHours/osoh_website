@@ -42,6 +42,6 @@ This talk aims to reduce that frustration by:
 
 
 <orange>Attendance is FREE, please register:</orange> 
-**Registration link coming soon**
+**[HERE!](https://docs.google.com/forms/d/e/1FAIpQLSeNLMfCBI_imuTnrpSZsO2t1dfOD9NHDrrFUTf9_B3Sbp_byg/viewform)**
 
 
