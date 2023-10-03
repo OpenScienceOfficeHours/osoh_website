@@ -16,7 +16,7 @@ orange {
 </style>
 
 ### About
-After the September introduction to Data Management and Sharing, October is the month to really get our hands dirt and start using data standards to organize neuroscience data and realize how useful this is for our own in-lab efficiency, and for sharing trully re-usable data.
+After the September introduction to Data Management and Sharing, October is the month to really get our hands dirty and start using data standards to organize neuroscience data and realize how useful this is for our own in-lab efficiency, and for sharing trully re-usable data.
 
 We have recruited a wonderful expert on the Braim Imaging Data Structure (BIDS) to offer a **seminar** at the start of the month, and whom will be available throughout October for **one-on-one consultations** and help you get started with this standard. BIDS is an fabulous example of a successuful community-driven data standard, and is applicable to a wide range of neuroscience data (NOT JUST MRI!).
 
