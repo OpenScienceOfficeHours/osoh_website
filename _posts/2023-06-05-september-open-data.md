@@ -14,6 +14,9 @@ orange {
   font-weight: bold;
 }
 </style>
+![](../assets/images/video_screenshots/click-to-see-video.svg)
+
+[![](../assets/images/video_screenshots/2023-09-05_osoh_ko_sept-video-screenshot.png)](https://www.youtube.com/watch?v=Z9bNpHAA4Ms)
 
 ### About
 In this first thematic month of the Fall 2023 semester of Open Data, we thought it would be good to start by covering the foundation of Open Data: Introduction to best practices in research data management and data sharing.
@@ -41,7 +44,7 @@ Thomson House, Restaurant/Basement level
 <orange>Abstract</orange>
 This seminar will provide attendees with an overview of the best practices for efficiently managing and sharing research data. Attendees will learn how to set up folders according to a logical schema, create README documentation to map out folder hierarchies, and implement a file naming convention. Participants will also learn about making data FAIR, license options for data, and McGill’s institutional data repository.
 
-<orange>Attendance is FREE, please register:</orange> 
+<!-- <orange>Attendance is FREE, please register:</orange> 
 **[HERE!](https://docs.google.com/forms/d/e/1FAIpQLSd_3lWq00qqqSNXTb70lfDRgSfAZqVFcmVcJoLtEe_UA4sQ6A/viewform)**
-
+ -->
 
