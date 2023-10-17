@@ -14,6 +14,9 @@ orange {
   font-weight: bold;
 }
 </style>
+![](../assets/images/video_screenshots/click-to-see-video.svg)
+
+[![](../assets/images/video_screenshots/2023-10-05_osoh_ko_oct-video-screenshot.png)](https://www.youtube.com/watch?v=OHxnwzOKqHM&list=PL4IAzeXaocvx2rSfU1YCuTN3SmnOMqOz3&index=4)
 
 ### About
 After the September introduction to Data Management and Sharing, October is the month to really get our hands dirty and start using data standards to organize neuroscience data and realize how useful this is for our own in-lab efficiency, and for sharing trully re-usable data.
@@ -41,7 +44,7 @@ This talk aims to reduce that frustration by:
 * Giving pointers and tips to convert and validate your datasets. Using automated BIDS converters is recommended, but It can be hard to know which one to use. I will try to give pointers to help you choose and get started.
 
 
-<orange>Attendance is FREE, please register:</orange> 
+<!-- <orange>Attendance is FREE, please register:</orange> 
 **[HERE!](https://docs.google.com/forms/d/e/1FAIpQLSeNLMfCBI_imuTnrpSZsO2t1dfOD9NHDrrFUTf9_B3Sbp_byg/viewform)**
-
+ -->
 
