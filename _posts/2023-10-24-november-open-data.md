@@ -46,8 +46,6 @@ During this introductory lecture, Justine Hansen will walk through her path to o
 
 The workshop will include specific pointers on how to find, access, and use such open datasets and how to integrate multiple datasets into a single project. She will also share her experience collaborating with research groups whose (previously closed) data she uses, including how to reach out to these groups, how to encourage open data sharing, and how to appropriately give credit to those whose datasets they use. 
 
-Expert: Justine Hansen, PhD Candidate Background: 
-
 
 <orange>Attendance is FREE, please register:</orange> 
 **[HERE!](https://forms.gle/tqN8n8X6XVCsPnXr6)**
