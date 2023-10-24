@@ -14,7 +14,7 @@ orange {
   font-weight: bold;
 }
 </style>
-![](../assets/images/video_screenshots/click-to-see-video.svg)
+![](../assets/images/video_screenshots/click-to-see-video.png)
 
 [![](../assets/images/video_screenshots/2023-09-05_osoh_ko_sept-video-screenshot.png)](https://www.youtube.com/watch?v=Z9bNpHAA4Ms)
 
@@ -32,7 +32,7 @@ Alisa has extensive experience in providing individual consulting to campus rese
 
 
 ### Seminar/Workshop
-<img align="right" width="400" src="{{site.baseurl}}/assets/images/osoh_poster_september.png">
+<img align="right" width="400" src="{{site.baseurl}}/assets/images/monthly_posters/osoh_poster_september.png">
 <orange>When</orange>
 September 5 2023, 4pm
 

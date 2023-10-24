@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intro to BIDS"
+title:  "Big Data"
 author: 
 categories: [ theme, open-data ]
 image: assets/images/icons_big/open_data_nov.png
