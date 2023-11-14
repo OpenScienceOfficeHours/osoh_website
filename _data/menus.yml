@@ -29,6 +29,10 @@ footermenu:
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
   external: true
 
+- title: Resources page adapted from the DataLad website
+  url: https://www.datalad.org/in-the-wild.html 
+  external: true
+
 - title: Illustrations adapted from unDraw.co
   url: https://undraw.co/
   external: true
