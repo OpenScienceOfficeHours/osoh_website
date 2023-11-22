@@ -25,7 +25,7 @@ orange {
 Adina Wagner is a research associate at the Forschungszentrum Jülich and doctoral researcher at the Heinrich Heine University Düsseldorf, Germany. She is a software developer for the DataLad project, an open source data management tool built upon Git and git-annex, and a proponent of open science, open source, and reproducible research. As a coordinator for research software engineering, research data management, and AI she represents the Institute of Neuroscience and Medicine: Brain and Behavior and its open source software tools in the Helmholtz society.
 
 ### Seminar/Workshop
-<img align="right" width="400" src="{{site.baseurl}}/assets/images/monthly_posters/2023-11-14_osoh_ko_dec-poster-portrait.pdf">
+<img align="right" width="400" src="{{site.baseurl}}/assets/images/monthly_posters/2023-11-14_osoh_ko_dec-poster-portrait.png">
 <orange>When</orange>
 December 13, 2023, with pizza at 12:30PM and the talk at 1PM. 
 
