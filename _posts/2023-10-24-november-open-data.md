@@ -14,10 +14,9 @@ orange {
   font-weight: bold;
 }
 </style>
-<!-- ![](../assets/images/video_screenshots/click-to-see-video.png) -->
+![](../assets/images/video_screenshots/click-to-see-video.png)
 
-<!-- [![](../assets/images/video_screenshots/2023-10-05_osoh_ko_oct-video-screenshot.png)](https://www.youtube.com/watch?v=OHxnwzOKqHM&list=PL4IAzeXaocvx2rSfU1YCuTN3SmnOMqOz3&index=4) -->
-
+[![](../assets/images/video_screenshots/2023-11-08_osoh_ko_nov-video-screenshot.png)](https://www.youtube.com/watch?v=m9D1cJxHdEE&t=7s)
 
 
 
