@@ -37,6 +37,7 @@ Many of us are using proprietary tools to vizualize and analyze data, because th
 
 ### May 2024
 **Open Tools and Worksflows for Wet Labs**
+
 In May, we will cover great open source tools to vizualiza and analyze data, particularly in the context of "wet" labs (e.g., microscopy, genetics, immunology).
 
 
