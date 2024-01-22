@@ -17,7 +17,10 @@ orange {
 
 Ever tried to install Python, R, or git on your own? It can be so confusing! In the next few months, we will be giving workshops on open code and analysis software. So we thought we'd set aside January to help people install software in preparation for these workshops. 
 
-Come by any Tuesday from 3-5 pm for our drop-in office hours to get 1-on-1 help. It is usually held in BT100 at the Montreal Neurological Institute. On Jan 23, it will be in Room 188. Send us an email or a DM on Twitter if you want to join virtually!
+Come by any Tuesday from 3-5 pm for our drop-in office hours to get 1-on-1 help, or just install and get started with these software in good company. Send us an email or a DM on Twitter if you want to join virtually!
+* January 23: Room 188 (The Neuro)
+* January 30: Room BT100 (The Neuro)
+
 
 ### Installation resources
 Check out these installation instructions!
