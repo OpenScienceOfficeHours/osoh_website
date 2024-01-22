@@ -26,7 +26,8 @@ Check out these installation instructions!
   - [first-time git setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
   - [connecting git to GitHub](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 - R
-  - coming soon!
+  - [installing R & RStudio](https://carpentries.github.io/workshop-template/install_instructions/#r-1)
 - Python
-  - coming soon!
+  - [installing Python with Anaconda](https://carpentries.github.io/workshop-template/install_instructions/#python)
+  - [Python tutorial for Beginners - video](https://www.youtube.com/watch?v=YYXdXT2l-Gg&ab_channel=CoreySchafer)
 
