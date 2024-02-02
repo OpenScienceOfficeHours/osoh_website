@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Git/GitHub"
+title:  "Intro to Git/GitHub"
 author: 
 categories: [ theme, open-code ]
 image: assets/images/icons_big/open_analysis_feb.svg
