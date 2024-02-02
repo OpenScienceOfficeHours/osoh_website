@@ -37,6 +37,6 @@ This workshop is aimed at people who are new to git and GitHub, and those who ha
 
 
 <orange>Attendance is FREE, please register:</orange> 
-**[link coming soon!]()**
+**[HERE!](https://forms.gle/BCpaquEngL1jvZ436)**
 
 
