@@ -38,7 +38,7 @@ The Neuro, Jeanne Timmins Amphitheatre\
 And on Zoom (register for link)
 
 <orange>Abstract</orange>
-Academic is driven by publications, and so software is often undervalued and prone to error.
+Academia is driven by publications, and so software is often undervalued and prone to error.
 However, one could argue that the software and instructions behind a publication are closer to the scholarship itself. 
 Therefore, we need code that is understandable both to other scientists and to our future selves. 
 With the goal of making code more understandable, we will discuss four conventions in coding: naming, organization, documentation, and optimization.
