@@ -7,8 +7,8 @@ topmenu:
 - title: About
   url: "about/"
 
-- title: Calendar
-  url: "calendar/"
+# - title: Calendar
+#   url: "calendar/"
 
 - title: Contact
   url: "contact/"
