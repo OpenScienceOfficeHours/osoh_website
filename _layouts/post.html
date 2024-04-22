@@ -77,6 +77,7 @@ post_class: post-template
                 <div class="clearfix"></div>
 			</div>
 
+            {% if page.badge != true %}
             <!-- Post Date -->
             <p>
             <small>
@@ -87,8 +88,7 @@ post_class: post-template
                 </small>
             </p>
             
-			
-            
+
             <!-- Prev/Next -->
             <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
               {% if page.previous.url %}
@@ -103,7 +103,8 @@ post_class: post-template
               {% endif %}
             </div>
             <!-- End Prev/Next -->
-            
+
+            {% endif %}
             
              <!-- Author Box -->
                 {% if page.author %}				
