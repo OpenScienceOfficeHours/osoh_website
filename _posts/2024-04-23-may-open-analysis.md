@@ -27,10 +27,10 @@ Kendra is a PhD candidate in the lab of Jean-Baptiste Poline, where she works on
 ### Seminar/Workshop
 
 <orange>When</orange>
-Friday, May 3 at 4 pm ET
+Friday, May 10 at 4 pm ET
 
 <orange>Where</orange>
-Thompson House
+Thompson House Restaurant
 And on Zoom (register for link)
 
 <orange>Abstract</orange>
