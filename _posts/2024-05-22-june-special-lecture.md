@@ -30,7 +30,7 @@ Adam Thomas leads the Data Science and Sharing Team within the intramural progra
 Thursday, June 13 at 4 pm ET
 
 <orange>Where</orange>
-Jeanne Timmins Amphitheatre, the Neuro (Montreal Neurological Institute)
+Jeanne Timmins Amphitheatre, the Neuro (Montreal Neurological Institute-Hospital)
 
 And on Zoom (register for link)
 
