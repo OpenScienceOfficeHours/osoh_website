@@ -16,7 +16,7 @@ Program under construction - Coming soon!
       </p>
     </div>
     <div class="col-md-4 text-right pl-0 pl-lg-6 mt-4 mb-3">
-      <a href="https://www.youtube.com/watch?v=OHxnwzOKqHM&list=PL4IAzeXaocvx2rSfU1YCuTN3SmnOMqOz3&index=4E"><img width="400" src="../assets/images/video_screenshots/2023-10-05_osoh_ko_oct-video-screenshot.png" alt="IMAGE ALT TEXT" style="float: right;"></a>
+      <a href="https://www.youtube.com/watch?v=5X0kNwo9Hp8&ab_channel=MontrealNeuro"><img width="400" src="../assets/images/icons_big/news_osoh_launch.png" alt="IMAGE ALT TEXT" style="float: right;"></a>
     </div>
 </div>
 
