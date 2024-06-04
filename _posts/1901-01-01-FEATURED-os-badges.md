@@ -6,7 +6,7 @@ image: assets/images/icons_big/helpers.svg
 featured: yes
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
-Receive recognition for you Open Science accomplishments!
+Program under construction - Coming soon!
 
 <div class="row align-items-end justify-content-between">
     <div class="col-md-8">
@@ -21,7 +21,7 @@ Receive recognition for you Open Science accomplishments!
 </div>
 
 Support from Open Science Office Hours is available to help you with any Open Science practice you may be struggling with on your way to obtain the bagdes.
-Visit the [Office Hours page] (https://openscienceofficehours.github.io/osoh_website/office-hours/) to learn where, when and how to find us.
+Visit the [Office Hours page](https://openscienceofficehours.github.io/osoh_website/office-hours/) to learn where, when and how to find us.
 
 <hr>
 <hr>
