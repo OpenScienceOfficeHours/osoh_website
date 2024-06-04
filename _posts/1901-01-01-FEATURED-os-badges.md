@@ -20,10 +20,8 @@ Receive recognition for you Open Science accomplishments!
     </div>
 </div>
 
-<p class="lead text-lg-left text-left">
 Support from Open Science Office Hours is available to help you with any Open Science practice you may be struggling with on your way to obtain the bagdes.
-Visit the [Office Hours page](https://openscienceofficehours.github.io/osoh_website/office-hours/) to learn where, when and how to find us.
-</p>
+Visit the [Office Hours page] (https://openscienceofficehours.github.io/osoh_website/office-hours/) to learn where, when and how to find us.
 
 <hr>
 <hr>
