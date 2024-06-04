@@ -1,0 +1,77 @@
+---
+layout: page
+title: Open Science Badges
+permalink: "/os-badges/"
+image: assets/images/icons_big/helpers.svg
+featured: yes
+---
+<!--- This first line will be displayed on the landing page with the Post title--->
+Receive recognition for you Open Science accomplishments!
+
+<div class="row align-items-end justify-content-between">
+    <div class="col-md-8">
+      <p class="lead text-lg-left text-left">
+        The Open Science Badges program aims to recognize and reward concrete and achievable contributions to open science by McGill trainees (undergraduate, graduate students and PostDoctoral fellows).
+        This initiative provides a structured pathway for trainees to begin their open science journey or expand on the one they are already on by working towards earning badges in core areas of open science.
+      </p>
+    </div>
+    <div class="col-md-4 text-right pl-0 pl-lg-6 mt-4 mb-3">
+      <a href="https://www.youtube.com/watch?v=OHxnwzOKqHM&list=PL4IAzeXaocvx2rSfU1YCuTN3SmnOMqOz3&index=4E"><img width="400" src="../assets/images/video_screenshots/2023-10-05_osoh_ko_oct-video-screenshot.png" alt="IMAGE ALT TEXT" style="float: right;"></a>
+    </div>
+</div>
+
+<p class="lead text-lg-left text-left">
+Support from Open Science Office Hours is available to help you with any Open Science practice you may be struggling with on your way to obtain the bagdes.
+Visit the [Office Hours page](https://openscienceofficehours.github.io/osoh_website/office-hours/) to learn where, when and how to find us.
+</p>
+
+<hr>
+<hr>
+
+### Available Badges
+<!-- Featured Posts
+================================================== -->
+<section class="row justify-content-center text-center">
+  {% for post in site.posts %}
+      {% if post.badge == true %}
+          <div class="col-md-4 mb-5">
+          {% include featpostbox.html %}
+          </div>
+      {% endif %}
+  {% endfor %}
+</section>
+
+### Why join?
+* Your participation in the Open Science Badges program highlights your commitment to open science.
+* Your participation in this program can be formally recognized in your McGill co-curricular file (CCR). _Applicable only to McGill students._
+* You are eligible to receive financial incentives for your final achievements at the end of each academic year.
+* By participating, you can significantly enhance your open science skills, network, and be part of a vibrant Open Science community.
+
+### Eligibility and general requirements
+* To be eligible for the program, you must be a student currently registered McGill, or a current postdoctoral fellow at McGill. Please note that for undergraduate students it is not necessary to be currently doing research at a lab.
+* The documentation presented to request a badge must not be more than 2 years old
+* More details on requirements, and how to apply can be found on each specific Badge's page
+
+### FAQ
+#### General
+##### Why is open science important?
+Open Science implements transparency and reproducibility in scientific research, while contributing to the standardization 
+and integrity of scientific research and the creation of a highly collaborative community to ultimately advance science for the benefit of humanity.
+Implementing Open Science is also beneficial for you and your lab: it makes your research more efficient, and more likely cited.
+##### Do badges expire?
+No, they don't
+##### Can I get support to help me improve the skills needed to earn a badge? 
+Yes, support is available through the Open Science Office Hours (OSOH) drop-in sessions
+#### Application Process
+##### Who can apply for an open science badge?
+All trainees and undergraduate students currently registered at McGill.
+#### Evaluation Process
+##### Who evaluates the Badges?
+The evaluation committee is composed of members of the Trainee Council and the TOSI team.
+##### How is the documentation scored?
+A scoring rubric for each specific badge can be found on the badge's page.
+#### Recognition
+##### What are the advantages of earning an open science badge?
+This badge will allow you to participate or increase your involvement in the open science community. It will also be a great asset to your professional profiles like ResearchGate and LinkedIn, ORCID and resume.
+#### Can my participation in the program earn me school credits?
+The Open Science badges do not count towards McGill credits, but can be formally recognized through the McGill Cross-Curricular record.
