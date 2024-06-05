@@ -24,6 +24,24 @@ Support from Open Science Office Hours is available to help you with any Open Sc
 Visit the **[Office Hours page](https://openscienceofficehours.github.io/osoh_website/office-hours/)** to learn where, when and how to find us.
 
 <hr>
+
+<div class="row align-items-end justify-content-between">
+    
+    <div class="col-md-6">
+
+### Why Join?
+test test
+        
+    </div>
+    
+    <div class="col-md-6 text-left">
+
+### Elibility
+test test
+        
+    </div>
+</div>
+
 <hr>
 
 ### Available Badges
