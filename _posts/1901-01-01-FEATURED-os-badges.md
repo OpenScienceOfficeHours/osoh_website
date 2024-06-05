@@ -28,7 +28,12 @@ Visit the **[Office Hours page](https://openscienceofficehours.github.io/osoh_we
 <div class="row align-items-end justify-content-between">
     <div class="col-md-6">
         <h3>Why participate?</h3>
-        TEst test test
+        <ul>
+          <li>Highlights your commitment to Open Science</li>
+          <li>Formally recognized in your McGill co-curricular file (CCR) _(Applicable only to McGill students)_</li>
+          <li>Receive financial incentives for your achievements at the end of each academic year</li>
+          <li>Up your Open Science skills, network, and be part of a vibrant Open Science community</li>
+        </ul> 
     </div>
     
     <div class="col-md-6 text-left">
