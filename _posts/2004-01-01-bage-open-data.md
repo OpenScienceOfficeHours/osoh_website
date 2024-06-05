@@ -26,18 +26,9 @@ Even though not all data can be shared publicly due to ethical and privacy conce
 To earn the Open Data badge, participants must fulfill at least ONE of the following requirements:
 
 #### 1. Share a dataset following best practices
-* Publish Your Data: Share the dataset that supports the results in a research paper or preprint on a suitable data repository. Example
-
-AND
-
-* Adhere to F.A.I.R Principles: Ensure the dataset has a persistent identifier, is accompanied by descriptive metadata, and is organized as per community standards
-  
-AND
-
-* Cite Your Data: Link the dataset in your published paper or preprint and cite it properly to ensure traceability and recognition.
-  
-AND
-
+* Publish a dataset that supports the results containted in a research publication or preprint on a suitable data repository, AND
+* Adhere to F.A.I.R Principles: Ensure the dataset has a persistent identifier, is accompanied by descriptive metadata, and is organized as per community standards, AND
+* Cite Your Dataset: Link the dataset in your published paper or preprint and cite it properly including the persistent identigier to ensure traceability and recognition.
 * Provide Evidence: Provide links or screenshots to showcase your involvement.
   
 _Note: For data involving human participants, ensure you have the necessary consents, approvals, and that the data sharing complies with these permissions._
