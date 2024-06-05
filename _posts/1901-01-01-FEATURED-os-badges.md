@@ -39,8 +39,8 @@ Visit the **[Office Hours page](https://openscienceofficehours.github.io/osoh_we
     <div class="col-md-6 text-left">
         <h3>Eligibility</h3>
         <ul>
-          <li>To be eligible for the program, you must be a student currently registered McGill, or a current postdoctoral fellow at McGill. Please note that for undergraduate students it is not necessary to be currently doing research at a lab.</li>
-          <li>The achievements and documentation presented to request a badge must not be more than 2 years old</i></li>
+          <li>Are eligible all students currently registered McGill, or current postdoctoral fellows at McGill. Please note that for undergraduate students it is not necessary to be currently doing research at a lab.</li>
+          <li>The achievements and documentation presented to request a badge must not be more than 2 years old</li>
           <li>More details on requirements, and how to apply can be found on each specific Badge's page below</li>
         </ul>
     </div>
