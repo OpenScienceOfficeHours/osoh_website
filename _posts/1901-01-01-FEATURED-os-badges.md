@@ -51,30 +51,6 @@ Visit the **[Office Hours page](https://openscienceofficehours.github.io/osoh_we
 * More details on requirements, and how to apply can be found on each specific Badge's page
 
 ### FAQ
-#### General
-##### Why is open science important?
-Open Science implements transparency and reproducibility in scientific research, while contributing to the standardization 
-and integrity of scientific research and the creation of a highly collaborative community to ultimately advance science for the benefit of humanity.
-Implementing Open Science is also beneficial for you and your lab: it makes your research more efficient, and more likely cited.
-##### Do badges expire?
-No, they don't
-##### Can I get support to help me improve the skills needed to earn a badge? 
-Yes, support is available through the Open Science Office Hours (OSOH) drop-in sessions
-#### Application Process
-##### Who can apply for an open science badge?
-All trainees and undergraduate students currently registered at McGill.
-#### Evaluation Process
-##### Who evaluates the Badges?
-The evaluation committee is composed of members of the Trainee Council and the TOSI team.
-##### How is the documentation scored?
-A scoring rubric for each specific badge can be found on the badge's page.
-#### Recognition
-##### What are the advantages of earning an open science badge?
-This badge will allow you to participate or increase your involvement in the open science community. It will also be a great asset to your professional profiles like ResearchGate and LinkedIn, ORCID and resume.
-#### Can my participation in the program earn me school credits?
-The Open Science badges do not count towards McGill credits, but can be formally recognized through the McGill Cross-Curricular record.
-
-### FAQ
 
 <details>
 <summary>General</summary>
@@ -83,6 +59,12 @@ The Open Science badges do not count towards McGill credits, but can be formally
 Open Science implements transparency and reproducibility in scientific research, while contributing to the standardization 
 and integrity of scientific research and the creation of a highly collaborative community to ultimately advance science for the benefit of humanity.
 Implementing Open Science is also beneficial for you and your lab: it makes your research more efficient, and more likely cited.
+
+<h5>Do badges expire?</h5>
+No, they do not.
+
+<h5>Can I get support to help me improve the skills needed to earn a badge?</h5>
+Yes, support is available through the Open Science Office Hours (OSOH) drop-in sessions.
 
 </details>
 
@@ -96,6 +78,9 @@ All trainees and undergraduate students currently registered at McGill.
 
 <details>
 <summary>Evaluation Process</summary>
+
+<h5>Who evaluates the Badges?</h5>
+The evaluation committee is composed of members of the Trainee Council and the TOSI team.
 
 <h5>How is the documentation scored?</h5>
 A scoring rubric for each specific badge can be found on the badge's page.
