@@ -61,17 +61,6 @@ Visit the **[Office Hours page](https://openscienceofficehours.github.io/osoh_we
   {% endfor %}
 </section>
 
-### Why join?
-* Your participation in the Open Science Badges program highlights your commitment to open science.
-* Your participation in this program can be formally recognized in your McGill co-curricular file (CCR). _Applicable only to McGill students._
-* You are eligible to receive financial incentives for your final achievements at the end of each academic year.
-* By participating, you can significantly enhance your open science skills, network, and be part of a vibrant Open Science community.
-
-### Eligibility and general requirements
-* To be eligible for the program, you must be a student currently registered McGill, or a current postdoctoral fellow at McGill. Please note that for undergraduate students it is not necessary to be currently doing research at a lab.
-* The documentation presented to request a badge must not be more than 2 years old
-* More details on requirements, and how to apply can be found on each specific Badge's page
-
 ### FAQ
 
 <details>
