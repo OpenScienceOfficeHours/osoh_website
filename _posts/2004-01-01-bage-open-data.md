@@ -23,9 +23,9 @@ Even though not all data can be shared publicly due to ethical and privacy conce
 
 
 ### Requirements
-To earn the Open Data badge, participants must fulfill at least one of the following requirements:
+To earn the Open Data badge, participants must fulfill at least ONE of the following requirements:
 
-**1. Properly share your data** 
+#### 1. Share a dataset following best practices
 * Publish Your Data: Share the dataset that supports the results in a research paper or preprint on a suitable data repository. Example
 
 AND
@@ -42,7 +42,7 @@ AND
   
 _Note: For data involving human participants, ensure you have the necessary consents, approvals, and that the data sharing complies with these permissions._
 
-**2. Improve the F.A.I.R.ness of one or more datasets within your lab**
+#### 2. Improve the F.A.I.R.ness of one or more datasets within your lab
 
 Multiple things can be done to Improve the F.A.I.R.ness of datasets without sharing openly on an online data repository, for instance:
 
