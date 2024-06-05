@@ -29,29 +29,18 @@ To earn the Open Data badge, participants must fulfill at least ONE of the follo
 * Publish a dataset that supports the results containted in a research publication or preprint on a suitable data repository, AND
 * Adhere to F.A.I.R Principles: Ensure the dataset has a persistent identifier, is accompanied by descriptive metadata, and is organized as per community standards, AND
 * Cite Your Dataset: Link the dataset in your published paper or preprint and cite it properly including the persistent identigier to ensure traceability and recognition.
+
 * Provide Evidence: Provide links or screenshots to showcase your involvement.
   
 _Note: For data involving human participants, ensure you have the necessary consents, approvals, and that the data sharing complies with these permissions._
 
 #### 2. Improve the F.A.I.R.ness of one or more datasets within your lab
-
 Multiple things can be done to Improve the F.A.I.R.ness of datasets without sharing openly on an online data repository, for instance:
 
-* Use Data Management Tools: Implement tools like datalad for versioning and tracking data provenance.
-
-OR
-
-* Standardize Data Organization: Reorganize datasets according to community standards (e.g., BIDS, NWB) to facilitate future reuse.
-  
-OR
-
-* Enhance Metadata: Add detailed, structured metadata using standardized vocabularies to make the data more understandable and usable.
-  
-OR
-
+* Use Data Management Tools: Implement tools like datalad for versioning and tracking data provenance, OR
+* Standardize Data Organization: Reorganize datasets according to community standards (e.g., BIDS, NWB) to facilitate future reuse, OR
+* Enhance Metadata: Add detailed, structured metadata using standardized vocabularies to make the data more understandable and usable, OR
 * Convert Data Formats: Change proprietary data files into open formats, making them freely accessible for future use.
-
-AND
 
 * Provide Evidence: Provide links or screenshots to showcase your involvement.
   
@@ -60,3 +49,6 @@ _Pro Tip: If you develop code to organize, convert, or describe your data, share
 
 ### Evaluation Criteria
 List all the evaluation criteria ...
+
+### Apply now
+Link to application form?
