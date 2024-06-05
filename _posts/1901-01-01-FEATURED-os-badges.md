@@ -26,19 +26,14 @@ Visit the **[Office Hours page](https://openscienceofficehours.github.io/osoh_we
 <hr>
 
 <div class="row align-items-end justify-content-between">
-    
     <div class="col-md-6">
-
-### Why Join?
-test test
-        
+        <h3>Why participate?</h3>
+        TEst test test
     </div>
     
     <div class="col-md-6 text-left">
-
-### Elibility
-test test
-        
+        <h3>Eligibility</h3>
+        test test
     </div>
 </div>
 
