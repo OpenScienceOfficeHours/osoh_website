@@ -80,7 +80,6 @@ The Open Science badges do not count towards McGill credits, but can be formally
 <summary>General</summary>
 
 <h5>Why is open science important?</h5>
-
 Open Science implements transparency and reproducibility in scientific research, while contributing to the standardization 
 and integrity of scientific research and the creation of a highly collaborative community to ultimately advance science for the benefit of humanity.
 Implementing Open Science is also beneficial for you and your lab: it makes your research more efficient, and more likely cited.
@@ -91,7 +90,25 @@ Implementing Open Science is also beneficial for you and your lab: it makes your
 <summary>Application Process</summary>
 
 <h5>Who can apply for an open science badge?</h5>
-
 All trainees and undergraduate students currently registered at McGill.
+
+</details>
+
+<details>
+<summary>Evaluation Process</summary>
+
+<h5>How is the documentation scored?</h5>
+A scoring rubric for each specific badge can be found on the badge's page.
+
+</details>
+
+<details>
+<summary>Recognition</summary>
+
+<h5>What are the advantages of earning an open science badge?</h5>
+Badges will allow you to participate or increase your involvement in the open science community. It will also be a great asset to your professional profiles like ResearchGate and LinkedIn, ORCID and resume.
+
+<h5>Can my participation in the program earn me school credits?</h5>
+The Open Science badges do not count towards McGill credits, but can be formally recognized through the McGill Cross-Curricular record.
 
 </details>
