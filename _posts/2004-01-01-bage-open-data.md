@@ -47,8 +47,3 @@ Multiple things can be done to Improve the F.A.I.R.ness of datasets without shar
 _Pro Tip: If you develop code to organize, convert, or describe your data, share this code openly to further progress toward earning the Open Data Badge!_
 
 
-### Evaluation Criteria
-List all the evaluation criteria ...
-
-### Apply now
-Link to application form?
