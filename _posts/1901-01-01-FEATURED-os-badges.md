@@ -23,10 +23,7 @@ Program under construction - Coming soon!
 Support from Open Science Office Hours is available to help you with any Open Science practice you may be struggling with on your way to obtain the bagdes.
 Visit the **[Office Hours page](https://openscienceofficehours.github.io/osoh_website/office-hours/)** to learn where, when and how to find us.
 
-{% include youtubePlayer.html id=lDi9uFcD7XI %}
-
-[![osbadgesvideo](https://img.youtube.com/vi/lDi9uFcD7XI/0.jpg)](https://www.youtube.com/watch?v=lDi9uFcD7XI)
-
+{% include youtubePlayer.html id="lDi9uFcD7XI" %}
 
 <hr>
 
