@@ -25,6 +25,9 @@ Visit the **[Office Hours page](https://openscienceofficehours.github.io/osoh_we
 
 {% include youtubePlayer.html id=lDi9uFcD7XI %}
 
+[![osbadgesvideo](https://img.youtube.com/vi/lDi9uFcD7XI/0.jpg)](https://www.youtube.com/watch?v=lDi9uFcD7XI)
+
+
 <hr>
 
 <div class="row align-items-end justify-content-between">
