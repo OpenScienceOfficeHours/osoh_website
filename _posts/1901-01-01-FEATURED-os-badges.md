@@ -9,21 +9,19 @@ featured: yes
 Program under construction - Coming soon!
 
 <div class="row align-items-end justify-content-between">
-    <div class="col-md-8">
+    <div class="col-md-6">
       <p class="lead text-lg-left text-left">
         The Open Science Badges program aims to recognize and reward concrete and achievable contributions to open science by McGill trainees (undergraduate, graduate students and PostDoctoral fellows).
         This initiative provides a structured pathway for trainees to begin their open science journey or expand on the one they are already on by working towards earning badges in core areas of open science.
       </p>
     </div>
-    <div class="col-md-4 text-right pl-0 pl-lg-6 mt-4 mb-3">
+    <div class="col-md-6 text-right pl-0 pl-lg-6 mt-4 mb-3">
         {% include youtubePlayer.html id="5X0kNwo9Hp8" %}
     </div>
 </div>
 
 Support from Open Science Office Hours is available to help you with any Open Science practice you may be struggling with on your way to obtain the bagdes.
 Visit the **[Office Hours page](https://openscienceofficehours.github.io/osoh_website/office-hours/)** to learn where, when and how to find us.
-
-<a href="https://www.youtube.com/watch?v=5X0kNwo9Hp8&ab_channel=MontrealNeuro"><img width="400" src="../assets/images/icons_big/news_osoh_launch.png" alt="IMAGE ALT TEXT" style="float: right;"></a>
 
 <hr>
 
