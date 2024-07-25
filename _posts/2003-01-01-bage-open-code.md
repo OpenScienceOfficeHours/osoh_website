@@ -41,7 +41,7 @@ To earn the Open Code badge, participants must fulfill criteria for at least one
 1. Engage in Community Forums or Issue Trackers: Participate actively in forums or issue trackers (e.g., Stack Overflow, GitHub, Stack Exchange, Neurostars, Biostars, image.sc). Review code on GitHub and partake in discussions to improve project quality.
 2. Provide Evidence: Provide links or screenshots showcasing your involvement in these discussions.
 
-### Submission Checklist:
+### Submission Checklist
 Here is what to include in your submission form depending on which Option described above you are follow:
 
 #### For Creating and Sharing Open Source Code (Option 1):
@@ -57,4 +57,4 @@ Here is what to include in your submission form depending on which Option descri
 * Include link(s) or screenshot(s) of involvement in community forums or issue trackers
 * Include a simple summary of contributions.
 
-#### Application FORM (Link)
+ ** ~ Get the Open Code Badge: <orange>Application Form (link)</orange>Application FORM (Link) ~ **
