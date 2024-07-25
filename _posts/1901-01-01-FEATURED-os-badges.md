@@ -22,6 +22,13 @@ Program under construction - Coming soon!
 
 <hr>
 
+{% include youtubePlayer.html id="5X0kNwo9Hp8" %}
+
+ The Open Science Badges program aims to recognize and reward concrete and achievable contributions to open science by McGill trainees (undergraduate, graduate students and PostDoctoral fellows).
+ This initiative provides a structured pathway for trainees to begin their open science journey or expand on the one they are already on by working towards earning badges in core areas of open science.
+
+<hr>
+
 <div class="row align-items-end justify-content-between">
     <div class="col-md-6">
         <h3>Why participate?</h3>
