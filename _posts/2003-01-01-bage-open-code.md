@@ -48,7 +48,7 @@ Here is what to include in your submission form depending on which Option descri
 * Include link(s) to the published code.
 * Include a summary of the project’s intended use and potential for reuse.
 
-#### For Contributing to Existing Projects (Option 2):
+#### For Contributing to Existing Projects (Option 2)
 * Include link(s) or screenshot(s) of merged pull requests.
 * Include link(s) or screenshot(s) of issues you ahve engaged with.
 * Include a simple summary of contributions.
@@ -56,3 +56,5 @@ Here is what to include in your submission form depending on which Option descri
 #### For Participating in Discussions (Option 3):
 * Include link(s) or screenshot(s) of involvement in community forums or issue trackers
 * Include a simple summary of contributions.
+
+#### Application FORM (Link)
