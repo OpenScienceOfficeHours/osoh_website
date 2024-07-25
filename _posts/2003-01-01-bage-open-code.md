@@ -57,4 +57,4 @@ Here is what to include in your submission form depending on which Option descri
 * Include link(s) or screenshot(s) of involvement in community forums or issue trackers
 * Include a simple summary of contributions.
 
- ** ~ Get the Open Code Badge: <orange>Application Form (link)</orange>Application FORM (Link) ~ **
+ ** ~ Get the Open Code Badge: <orange>Application Form (link)</orange> ~ **
