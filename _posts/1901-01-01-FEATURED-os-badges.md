@@ -8,6 +8,7 @@ featured: yes
 <!--- This first line will be displayed on the landing page with the Post title--->
 Program under construction - Coming soon!
 
+<!---
 <div class="row align-items-end justify-content-between">
     <div class="col-md-6">
       <p class="lead text-lg-left text-left">
@@ -21,6 +22,7 @@ Program under construction - Coming soon!
 </div>
 
 <hr>
+--->
 
 {% include youtubePlayer.html id="5X0kNwo9Hp8" %}
 
