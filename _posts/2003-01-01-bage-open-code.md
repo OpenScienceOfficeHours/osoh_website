@@ -16,9 +16,11 @@ orange {
 }
 </style>
 
-### Description
+### About Open Code
 Implementing open code in scientific practices is crucial as it enables you to directly engage with computational methods, fostering hands-on learning experiences and skill development in programming and data analysis. 
+
 Additionally, open code promotes transparency and reproducibility in research. This means others can have a look at your code, reproduce your results more readily,  understand how conclusions were drawn, and trust the science behind them. This process demystifies complex methodologies and promotes a learning environment where knowledge is open to everyone.
+
 Moreover, open code encourages you to work together with others in the scientific community. It's about collaboration and innovation, providing you with opportunities to contribute to research projects and share your own discoveries effectively.
 
 ### Requirements
