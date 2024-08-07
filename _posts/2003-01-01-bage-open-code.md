@@ -42,9 +42,7 @@ To earn the Open Code badge, participants must fulfill criteria for at least one
 2. **Provide Evidence:** Provide links or screenshots showcasing your involvement in these discussions.
 
 ### Submission Checklist
-All submissions go through the [Open Science Bagdges Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6ut_5ADJQNBIjT-33hrU9ERUM1dWQzU4UjNBWENZVUoxUUMzNVZINU9GRC4u). Here is what to include in your applicaiton file depending on which Option described above you are follow:
-
-All submissions go through the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6ut_5ADJQNBIjT-33hrU9ERUM1dWQzU4UjNBWENZVUoxUUMzNVZINU9GRC4u" style="orange">Open Science Bagdges Submission Form</a>. Here is what to include in your applicaiton file depending on which Option described above you are follow:
+All submissions go through the [Open Science Bagdges Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6ut_5ADJQNBIjT-33hrU9ERUM1dWQzU4UjNBWENZVUoxUUMzNVZINU9GRC4u). Here is what to include in your applicaiton file depending on which Option described above you are following:
 
 #### For Creating and Sharing Open Source Code (Option 1):
 * Include link(s) to the published code.
