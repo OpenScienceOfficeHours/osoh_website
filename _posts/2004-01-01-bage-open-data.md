@@ -23,27 +23,34 @@ Even though not all data can be shared publicly due to ethical and privacy conce
 
 
 ### Requirements
-To earn the Open Data badge, participants must fulfill at least ONE of the following requirements:
+To earn the Open Data badge, participants must fulfill requirements for at least one of the following options:
 
 #### 1. Share a dataset following best practices
-* Publish a dataset that supports the results containted in a research publication or preprint on a suitable data repository, AND
-* Adhere to F.A.I.R Principles: Ensure the dataset has a persistent identifier, is accompanied by descriptive metadata, and is organized as per community standards, AND
-* Cite Your Dataset: Link the dataset in your published paper or preprint and cite it properly including the persistent identigier to ensure traceability and recognition.
-
-* Provide Evidence: Provide links or screenshots to showcase your involvement.
-  
-_Note: For data involving human participants, ensure you have the necessary consents, approvals, and that the data sharing complies with these permissions._
+1. **Publish data:** Make one or more dataset(s) underlying the results reported in one of your research publications or preprints available on a suitable data repository.
+2. **Adhere to F.A.I.R Principles:** Ensure the dataset has a persistent identifier, is accompanied by descriptive metadata, has clear license, and is organized as per community standards where possible (for instance using [BIDS](https://bids.neuroimaging.io/) or [NWB](https://www.nwb.org/)).
+3. **Cite the Dataset(s):** Cite the dataset properly in your article or preprint, including the persistent identifier to ensure traceability and recognition.
+4. Provide Evidence: Provide links to the dataset(s), and link(s) to the article or preprint which cite the dataset(s).
+_Note: For data involving human participants, ensure you have the necessary consents, Research Ethics Board approval, and that the mode of data sharing complies with these permissions._
 
 #### 2. Improve the F.A.I.R.ness of one or more datasets within your lab
 Multiple things can be done to Improve the F.A.I.R.ness of datasets without sharing openly on an online data repository, for instance:
 
-* Use Data Management Tools: Implement tools like datalad for versioning and tracking data provenance, OR
-* Standardize Data Organization: Reorganize datasets according to community standards (e.g., BIDS, NWB) to facilitate future reuse, OR
-* Enhance Metadata: Add detailed, structured metadata using standardized vocabularies to make the data more understandable and usable, OR
-* Convert Data Formats: Change proprietary data files into open formats, making them freely accessible for future use.
+1. **Implement Data Management Tools:** Implement tools like [Datalad](https://www.datalad.org/) for versioning and tracking data provenance.
+2. **Standardize Data Organization:** Reorganize datasets according to community standards (e.g., BIDS, NWB) to facilitate future reuse
+3. **Enhance Metadata:** Add detailed, structured metadata using standardized vocabularies to make the data more understandable and usable, OR
+4. **Convert Data Formats:** Change proprietary data files into open formats, making them freely accessible for future use.
+5. **Provide Evidence:** Provide links or screenshots to showcase your involvement.
 
-* Provide Evidence: Provide links or screenshots to showcase your involvement.
-  
+### Submission Checklist
+All submissions go through the [Open Science Bagdges Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6ut_5ADJQNBIjT-33hrU9ERUM1dWQzU4UjNBWENZVUoxUUMzNVZINU9GRC4u). Here is what to include in your applicaiton file depending on which Option described above you are following:
+
+#### For Sharing a dataset following best practicese (Option 1):
+* Include links to the dataset(s), and to the article or preprint which cite the dataset(s).
+* Include a brief description indicating how you fulfilled the requirements.
+
+#### For Improving the F.A.I.R.ness of one or more datasets within your lab (Option 2):
+* ...
+
 _Pro Tip: If you develop code to organize, convert, or describe your data, share this code openly to further progress toward earning the Open Data Badge!_
 
 
