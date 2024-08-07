@@ -3,12 +3,18 @@ layout: post
 title: "Open Code Badge"
 author:
 categories:
-image: assets/images/icons_big/open_data_badge.png
+image: assets/images/icons_big/open_code_badge.png
 headimage: no
 featured: no
 badge: yes
 subtitle:
 ---
+<style>
+orange {
+  color: rgba(254, 200, 89, 1);
+  font-weight: bold;
+}
+</style>
 
 ### About Open Code
 Implementing open code in scientific practices is crucial as it enables you to directly engage with computational methods, fostering hands-on learning experiences and skill development in programming and data analysis. 
