@@ -25,14 +25,14 @@ Even though not all data can be shared publicly due to ethical and privacy conce
 ### Requirements
 To earn the Open Data badge, participants must fulfill requirements for at least one of the following options:
 
-#### 1. Share a dataset following best practices
+#### Option 1: Share a dataset following best practices
 1. **Publish data:** Make one or more dataset(s) underlying the results reported in one of your research publications or preprints available on a suitable data repository.
 2. **Adhere to F.A.I.R Principles:** Ensure the dataset has a persistent identifier, is accompanied by descriptive metadata, has clear license, and is organized as per community standards where possible (for instance using [BIDS](https://bids.neuroimaging.io/) or [NWB](https://www.nwb.org/)).
 3. **Cite the Dataset(s):** Cite the dataset properly in your article or preprint, including the persistent identifier to ensure traceability and recognition.
 4. Provide Evidence: Provide links to the dataset(s), and link(s) to the article or preprint which cite the dataset(s).
 _Note: For data involving human participants, ensure you have the necessary consents, Research Ethics Board approval, and that the mode of data sharing complies with these permissions._
 
-#### 2. Improve the F.A.I.R.ness of one or more datasets within your lab
+#### Option 2: Improve the F.A.I.R.ness of one or more datasets within your lab
 Multiple things can be done to Improve the F.A.I.R.ness of datasets without sharing openly on an online data repository, for instance:
 
 1. **Implement Data Management Tools:** Implement tools like [Datalad](https://www.datalad.org/) for versioning and tracking data provenance.
