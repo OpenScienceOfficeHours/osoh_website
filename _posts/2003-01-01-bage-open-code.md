@@ -9,12 +9,6 @@ featured: no
 badge: yes
 subtitle:
 ---
-<style>
-orange {
-  color: rgba(254, 200, 89, 1);
-  font-weight: bold;
-}
-</style>
 
 ### About Open Code
 Implementing open code in scientific practices is crucial as it enables you to directly engage with computational methods, fostering hands-on learning experiences and skill development in programming and data analysis. 
@@ -56,5 +50,3 @@ All submissions go through the [Open Science Bagdges Submission Form](https://fo
 #### For Participating in Discussions (Option 3):
 * Include link(s) or screenshot(s) of involvement in community forums or issue trackers
 * Include a simple summary of contributions.
-
-Get the Open Code Badge: <orange>Application Form (link)</orange>
