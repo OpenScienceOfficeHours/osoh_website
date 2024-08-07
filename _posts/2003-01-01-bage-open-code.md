@@ -3,7 +3,7 @@ layout: post
 title: "Open Code Badge"
 author:
 categories:
-image: assets/images/icons_big/open_analysis_term.svg
+image: assets/images/icons_big/open_data_badge.png
 headimage: no
 featured: no
 badge: yes
