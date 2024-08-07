@@ -158,8 +158,8 @@ p,
     font-weight: 450 !important;
 }
 a {
-    color:inherit;
-    text-decoration:none;
+    color:$osoh-yellow;
+    text-decoration:underline;
     // transition: all .2s;
     &:hover {
         text-decoration:none;
