@@ -3,7 +3,7 @@ layout: post
 title: "Open Methods Badge"
 author:
 categories:
-image: assets/images/icons_big/open_analysis_term.svg
+image: assets/images/icons_big/badge_open_methods.png
 headimage: no
 featured: no
 badge: yes
