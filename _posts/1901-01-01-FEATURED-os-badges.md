@@ -17,7 +17,7 @@ Program under construction - Coming soon!
       </p>
     </div>
     <div class="col-md-6 text-right pl-0 pl-lg-6 mt-4 mb-3">
-        {% include youtubePlayer.html id="5X0kNwo9Hp8" %}
+        {% include youtubePlayer.html id="yCdWpluyp-8" %}
     </div>
 </div>
 
