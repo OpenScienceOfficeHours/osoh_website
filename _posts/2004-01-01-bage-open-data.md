@@ -29,6 +29,7 @@ To earn the Open Data badge, participants must fulfill requirements for at least
 1. **Publish data:** Make one or more dataset(s) underlying the results reported in one of your research publications or preprints available on a suitable data repository.
 2. **Adhere to F.A.I.R Principles:** Ensure the dataset has a persistent identifier, is accompanied by descriptive metadata, has clear license, and is organized as per community standards where possible (for instance using [BIDS](https://bids.neuroimaging.io/) or [NWB](https://www.nwb.org/)).
 3. **Cite the Dataset(s):** Cite the dataset properly in your article or preprint, including the persistent identifier to ensure traceability and recognition.
+
 _Note: For data involving human participants, ensure you have the necessary consents, Research Ethics Board approval, and that the mode of data sharing complies with these permissions._
 
 #### Option 2: Improve the F.A.I.R.ness of one or more datasets within your lab
