@@ -36,7 +36,7 @@ _Note: For data involving human participants, ensure you have the necessary cons
 Multiple things can be done to Improve the F.A.I.R.ness of datasets without sharing openly on an online data repository, for instance:
 
 1. **Implement Data Management Tools:** Implement tools like [Datalad](https://www.datalad.org/) for versioning and tracking data provenance.
-2. **Standardize Data Organization:** Reorganize datasets according to community standards (e.g., BIDS, NWB) to facilitate future reuse
+2. **Standardize Data Organization:** Reorganize a dataset according to community standards (e.g., BIDS, NWB) to facilitate future reuse.
 3. **Enhance Metadata:** Add detailed, structured metadata using standardized vocabularies to make the data more understandable and usable, OR
 4. **Convert Data Formats:** Change proprietary data files into open formats, making them freely accessible for future use.
 5. **Provide Evidence:** Provide links or screenshots to showcase your involvement.
@@ -44,12 +44,13 @@ Multiple things can be done to Improve the F.A.I.R.ness of datasets without shar
 ### Submission Checklist
 All submissions go through the [Open Science Bagdges Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6ut_5ADJQNBIjT-33hrU9ERUM1dWQzU4UjNBWENZVUoxUUMzNVZINU9GRC4u). Here is what to include in your applicaiton file depending on which Option described above you are following:
 
-#### For Sharing a dataset following best practicese (Option 1):
+#### For Sharing a dataset following best practices (Option 1):
 * Include links to the dataset(s), and to the article or preprint which cite the dataset(s).
-* Include a brief description indicating how you fulfilled the requirements.
+* Include a brief description (max. 250 words) indicating how you fulfilled the requirements.
 
 #### For Improving the F.A.I.R.ness of one or more datasets within your lab (Option 2):
-* ...
+* Include a brief description (max. 250 words) indicating how you improved datasets in line with the F.A.I.R principles.
+* Include links, screenshots, or other proof of the work done to fulfill the requirements.
 
 _Pro Tip: If you develop code to organize, convert, or describe your data, share this code openly to further progress toward earning the Open Data Badge!_
 
