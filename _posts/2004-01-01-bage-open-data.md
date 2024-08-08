@@ -39,7 +39,6 @@ Multiple things can be done to Improve the F.A.I.R.ness of datasets without shar
 2. **Standardize Data Organization:** Reorganize a dataset according to community standards (e.g., BIDS, NWB) to facilitate future reuse.
 3. **Enhance Metadata:** Add detailed, structured metadata using standardized vocabularies to make the data more understandable and usable.
 4. **Convert Data Formats:** Change proprietary data files into open formats, making them freely accessible for future use.
-5. **Provide Evidence:** Provide links or screenshots to showcase your involvement.
 
 ### Submission Checklist
 All submissions go through the [Open Science Bagdges Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6ut_5ADJQNBIjT-33hrU9ERUM1dWQzU4UjNBWENZVUoxUUMzNVZINU9GRC4u). Here is what to include in your applicaiton file depending on which Option described above you are following:
