@@ -3,7 +3,7 @@ layout: post
 title: "Science Communication Badge"
 author:
 categories:
-image: assets/images/icons_big/news_osoh_launch.svg
+image: assets/images/icons_big/badge_science_comm.png
 headimage: no
 featured: no
 badge: yes
