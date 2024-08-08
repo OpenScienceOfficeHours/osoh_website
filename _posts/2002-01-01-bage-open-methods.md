@@ -7,7 +7,7 @@ image: assets/images/icons_big/badge_open_methods.png
 headimage: no
 featured: no
 badge: yes
-subtitle:
+subtitle: no
 ---
 
 ### About Open Methods
