@@ -40,13 +40,16 @@ All submissions go through the [Open Science Bagdges Submission Form](https://fo
 #### For Presenting Your Work (Option 1):
 * Provide proof of participation in at least two science communication and/or outreach events (email, letter, event program/booklet).
 * Provide a brief description (max. 250 words) of your participation in science communications and outreach events.
+  
 #### For Creating Media Content (Option 2):
 * Provide links to the social media account or media outlet and proof of your involvement.
 * Provide links to at least two science communication pieces and proof of your involvement/authorship.
 * Provide a summary (max. 250 words) of the content created with evidence of engagement with the content created (e.g., number of posts, number of re-shares and reactions, number of reads, downloads, etc.).
+  
 #### For Creating, Leading, or Organizing an Initiative (Option 3):
 * Provide proof of participation in the organization (e..g, links to the initiative’s website, letter from the organization).
 * Provide a brief description (max. 250 words) of your involvement in the initiative.
+  
 #### For Creating, Leading, or Organizing an Initiative (Option 3):
 * Provide a certificate of completion or transcript as proof of completion in a science communication course or training program.
 * Provide a brief description (max. 250 words) of the course and what you gained from it.
