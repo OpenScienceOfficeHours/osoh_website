@@ -9,7 +9,12 @@ featured: no
 badge: yes
 subtitle:
 ---
-
+<style>
+orange {
+  color: rgba(254, 200, 89, 1);
+  font-weight: bold;
+}
+</style>
 
 ### About Open Methods
 Methods written in traditional research articles provide an overview of the experimental procedures, but are often not detailed enough to allow for full reproducibility. Moreover, publishing analysis methods and hypotheses only at the final publication stage, that is, after results are known, can lead to biases in analytical choices and other suboptimal research practices, contributing to the reproducibility crisis.
