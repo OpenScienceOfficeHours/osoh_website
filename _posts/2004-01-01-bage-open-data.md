@@ -3,7 +3,7 @@ layout: post
 title: "Open Data Badge"
 author:
 categories:
-image: assets/images/icons_big/open_data_badge.png
+image: assets/images/icons_big/badge_open_data.png
 headimage: no
 featured: no
 badge: yes
