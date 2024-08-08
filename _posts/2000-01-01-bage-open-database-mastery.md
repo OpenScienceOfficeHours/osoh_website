@@ -3,7 +3,7 @@ layout: post
 title: "Open Database Mastery Badge"
 author:
 categories:
-image: assets/images/icons_big/open_data_term.svg
+image: assets/images/icons_big/badge_open_database.png
 headimage: no
 featured: no
 badge: yes
