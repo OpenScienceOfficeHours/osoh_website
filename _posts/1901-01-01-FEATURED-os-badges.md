@@ -80,6 +80,9 @@ Open science implements transparency and reproducibility in scientific research,
 and integrity of scientific research and the creation of a highly collaborative community to advance science for the benefit of humanity.
 Implementing Open Science also benefits you and your lab: it makes your research more efficient and more likely to be cited.
 
+<h5>Where can I learn more about the open science badges?</h5>
+To learn more, click **[here](https://openscienceofficehours.github.io/osoh_website/os-badges/)**.
+
 <h5>Do badges expire?</h5>
 No, they do not expire.
 
