@@ -81,13 +81,13 @@ and integrity of scientific research and the creation of a highly collaborative 
 Implementing Open Science also benefits you and your lab: it makes your research more efficient and more likely to be cited.
 
 <h5>Where can I learn more about the open science badges?</h5>
-To learn more, click **[here](https://openscienceofficehours.github.io/osoh_website/os-badges/)**.
+To learn more, click [here](https://openscienceofficehours.github.io/osoh_website/os-badges/)
 
 <h5>Do badges expire?</h5>
 No, they do not expire.
 
 <h5>Can I get support to help me improve the skills needed to earn a badge?</h5>
-Yes, support is available through the Open Science Office Hours (OSOH) drop-in sessions. Click on the following link to learn how to get help from the OSOH team **[Office Hours page](https://openscienceofficehours.github.io/osoh_website/office-hours/)**
+Yes, support is available through the Open Science Office Hours (OSOH) drop-in sessions. Click on the following link to learn how to get help from the OSOH team [Office Hour page](https://openscienceofficehours.github.io/osoh_website/office-hours/)
 
 
 </details>
