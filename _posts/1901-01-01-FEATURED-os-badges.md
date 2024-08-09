@@ -107,8 +107,8 @@ Yes, but the main applicant must be a currently registered McGill student or pos
 <h5>How do I apply for an Open Science badge?</h5>
 Use this form to apply for an Open Science badge. The criteria for each badge can be found on their respective pages on this website. 
 
-<h5>How recent should documents submitted as part of the application process be?
-The documents provided must not be older than 2 years.</h5>
+<h5>How recent should documents submitted as part of the application process be?</h5>
+The documents provided must not be older than 2 years.
 
 
 </details>
