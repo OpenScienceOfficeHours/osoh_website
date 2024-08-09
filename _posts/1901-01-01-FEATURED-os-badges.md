@@ -105,7 +105,7 @@ All trainees (graduate students and postdoctoral fellows) and undergraduate stud
 Yes, but the main applicant must be a currently registered McGill student or postdoctoral fellow.
 
 <h5>How do I apply for an Open Science badge?</h5>
-Use [this](https://forms.office.com/r/RgvPaw12m2) form to apply for an Open Science badge. The criteria for each badge can be found in their respective pages in this website. 
+Use this form to apply for an Open Science badge. The criteria for each badge can be found in their respective pages in this website. 
 
 
 </details>
