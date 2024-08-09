@@ -80,6 +80,9 @@ Open science implements transparency and reproducibility in scientific research,
 and integrity of scientific research and the creation of a highly collaborative community to advance science for the benefit of humanity.
 Implementing Open Science also benefits you and your lab: it makes your research more efficient and more likely to be cited.
 
+<h5>Is there a hierarchy betwenn badges?</h5> 
+No, the badges are independent of each other. You can apply for and earn different badges as long as you meet the requirements for each badge. 
+
 <h5>Do badges expire?</h5>
 No, they do not expire.
 
@@ -92,8 +95,18 @@ Yes, support is available through the Open Science Office Hours (OSOH) drop-in s
 <details>
 <summary>Application Process</summary>
 
+<h5>Why should I apply for an Open Science badge?</h5>
+To support and engage in Open Science initiatives in your specific area of expertise, while being rewarded and recognized for your efforts.
+
 <h5>Who can apply for an open science badge?</h5>
 All trainees (graduate students and postdoctoral fellows) and undergraduate students currently registered at McGill.
+
+<h5>Can co-applicants come from outside the student and postdoctoral community? Can co-applicants be from an institution other than McGill?</h5>
+Yes, but the main applicant must be a currently registered McGill student or postdoctoral fellow.
+
+<h5>How do I apply for an Open Science badge?</h5>
+Use [this](https://forms.office.com/r/RgvPaw12m2) form to apply for an Open Science badge. The criteria for each badge can be found in their respective pages in this website. 
+
 
 </details>
 
