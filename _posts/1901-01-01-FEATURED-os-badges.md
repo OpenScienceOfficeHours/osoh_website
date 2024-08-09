@@ -38,7 +38,7 @@ Program under construction - Coming soon!
           <li>To highlight your commitment to Open Science</li>
           <li>To have your contributions formally recognized in your McGill co-curricular file (CCR) <i>(Applicable only to McGill students)</i></li>
           <li>To receive financial incentives for your achievements at the end of each academic year</li>
-          <li>To improve your Open Science skills, increase your network, and take part of a vibrant Open Science community</li>
+          <li>To improve your Open Science skills, increase your network, and be part of a vibrant Open Science community</li>
         </ul> 
     </div>
     
@@ -76,11 +76,11 @@ Visit the **[Office Hours page](https://openscienceofficehours.github.io/osoh_we
 <summary>General</summary>
 
 <h5>Why is Open Science important?</h5>
-Open science implements transparency and reproducibility in scientific research, while contributing to the standardization
+Open science implements transparency and reproducibility in scientific research while contributing to the standardization
 and integrity of scientific research and the creation of a highly collaborative community to advance science for the benefit of humanity.
 Implementing Open Science also benefits you and your lab: it makes your research more efficient and more likely to be cited.
 
-<h5>Is there a hierarchy betwenn badges?</h5> 
+<h5>Is there a hierarchy between badges?</h5> 
 No, the badges are independent of each other. You can apply for and earn different badges as long as you meet the requirements for each badge. 
 
 <h5>Do badges expire?</h5>
@@ -99,13 +99,13 @@ Yes, support is available through the Open Science Office Hours (OSOH) drop-in s
 To support and engage in Open Science initiatives in your specific area of expertise, while being rewarded and recognized for your efforts.
 
 <h5>Who can apply for an open science badge?</h5>
-All trainees (graduate students and postdoctoral fellows) and undergraduate students currently registered at McGill.
+All trainees (graduate students and postdoctoral fellows) and undergraduate students who are currently registered at McGill.
 
 <h5>Can co-applicants come from outside the student and postdoctoral community? Can co-applicants be from an institution other than McGill?</h5>
 Yes, but the main applicant must be a currently registered McGill student or postdoctoral fellow.
 
 <h5>How do I apply for an Open Science badge?</h5>
-Use this form to apply for an Open Science badge. The criteria for each badge can be found in their respective pages in this website. 
+Use this form to apply for an Open Science badge. The criteria for each badge can be found on their respective pages on this website. 
 
 
 </details>
@@ -113,7 +113,7 @@ Use this form to apply for an Open Science badge. The criteria for each badge ca
 <details>
 <summary>Evaluation Process</summary>
 
-<h5>Who evaluates the Badges?</h5>
+<h5>Who evaluates the badges submissions?</h5>
 The evaluation committee is composed of members of the TOSI Trainee Council and the TOSI core team.
 
 <h5>How is the documentation scored?</h5>
