@@ -139,9 +139,12 @@ A scoring rubric for each specific badge can be found on the badge's page.
 <summary>Recognition</summary>
 
 <h5>What are the advantages of earning an Open Science badge?</h5>
-Badges will allow you to participate or increase your involvement in the Open Science community. It will also be a great asset to your professional profiles like ResearchGate and LinkedIn, ORCID and resume.
+This badge will allow you to participate or increase your involvement in the Open Science community. It will also be a valuable asset for your professional profiles such as ResearchGate and LinkedIn, as well as for your CV.
 
-<h5>Can my participation in the program earn me school credits?</h5>
-The Open Science badges do not count towards McGill credits, but can be formally recognized through the McGill Cross-Curricular record.
+<h5>How will a team applying to the program receive credit?</h5>
+To ensure proper credit, the team must specify each member's contribution percentage and contribution order when submitting their application.
+
+<h5>Can my participation in the program earn me academic credits?</h5>
+The Open Science badges do not count towards McGill credits but can be officially recognized through the McGill Cross-Curricular record. 
 
 </details>
