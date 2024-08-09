@@ -69,22 +69,24 @@ Program under construction - Coming soon!
 
 ### FAQ
 
-Open Science Office Hours support is available to assist you with any Open Science practice you may be struggling with on in the process of obtaining the bagdes.
+Open Science Office Hours support is available to assist you with any Open Science practice you may be struggling with in the process of obtaining the badges.
 Visit the **[Office Hours page](https://openscienceofficehours.github.io/osoh_website/office-hours/)** to learn where, when, and how to find us.
 
 <details>
 <summary>General</summary>
 
-<h5>Why is open science important?</h5>
-Open Science implements transparency and reproducibility in scientific research, while contributing to the standardization 
-and integrity of scientific research and the creation of a highly collaborative community to ultimately advance science for the benefit of humanity.
-Implementing Open Science is also beneficial for you and your lab: it makes your research more efficient, and more likely to be cited.
+<h5>Why is Open Science important?</h5>
+Open science implements transparency and reproducibility in scientific research, while contributing to the standardization
+and integrity of scientific research and the creation of a highly collaborative community to advance science for the benefit of humanity.
+Implementing Open Science also benefits you and your lab: it makes your research more efficient and more likely to be cited.
 
 <h5>Do badges expire?</h5>
-No, they do not.
+No, they do not expire.
 
 <h5>Can I get support to help me improve the skills needed to earn a badge?</h5>
-Yes, support is available through the Open Science Office Hours (OSOH) drop-in sessions.
+Yes, support is available through the Open Science Office Hours (OSOH) drop-in sessions. Click below to learn how to get help from the OSOH team: 
+**[Office Hours page](https://openscienceofficehours.github.io/osoh_website/office-hours/)**
+
 
 </details>
 
