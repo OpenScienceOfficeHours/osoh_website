@@ -110,6 +110,17 @@ Use this form to apply for an Open Science badge. The criteria for each badge ca
 <h5>How recent should documents submitted as part of the application process be?</h5>
 The documents provided must not be older than 2 years.
 
+<h5>In which languages can I apply for a badge?</h5>
+In French or English.
+
+<h5>Can I apply for more than one badge?</h5>
+Yes! You can apply for as many badges as you want with two conditions:
+1. Be eligible for the badge(s) you are applying for
+2. Submit different documentation for each badge.
+
+<h5>How long does it take after applying to receive results?</h5>
+The evaluation process is carried out on an ongoing basis and can take anywhere from a few weeks to 4 months, depending on the number of applications we receive.
+
 
 </details>
 
