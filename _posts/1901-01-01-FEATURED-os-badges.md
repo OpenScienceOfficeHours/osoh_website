@@ -118,20 +118,21 @@ Yes! You can apply for as many badges as you want with two conditions:
 1. Be eligible for the badge(s) you are applying for
 2. Submit different documentation for each badge.
 
-<h5>How long does it take after applying to receive results?</h5>
-The evaluation process is carried out on an ongoing basis and can take anywhere from a few weeks to 4 months, depending on the number of applications we receive.
-
 
 </details>
 
 <details>
 <summary>Evaluation Process</summary>
 
+<h5>How is the documentation scored?</h5>
+A scoring rubric for each specific badge can be found on the badge's page.
+
 <h5>Who evaluates the badges submissions?</h5>
 The evaluation committee is composed of members of the TOSI Trainee Council and the TOSI core team.
 
-<h5>How is the documentation scored?</h5>
-A scoring rubric for each specific badge can be found on the badge's page.
+<h5>How long does it take after applying to receive results?</h5>
+The evaluation process is carried out on an ongoing basis and can take anywhere from a few weeks to 4 months, depending on the number of applications we receive.
+
 
 </details>
 
