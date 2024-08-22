@@ -87,7 +87,7 @@ No, the badges are independent of each other. You can apply for and earn differe
 No, they do not expire.
 
 <h5>Can I get support to help me improve the skills needed to earn a badge?</h5>
-Yes, support is available through the Open Science Office Hours (OSOH) drop-in sessions. Consult the **[Office Hours page](https://openscienceofficehours.github.io/osoh_website/office-hours/)** to learn how you can get help from the OSOH team. 
+Yes, support is available through the Open Science Office Hours (OSOH) drop-in sessions. Consult the <a href="https://openscienceofficehours.github.io/osoh_website/office-hours/">Office Hours page</a> to learn how you can get help from the OSOH team. 
 
 
 </details>
