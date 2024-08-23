@@ -67,9 +67,6 @@ Program under construction - Coming soon!
   {% endfor %}
 </section>
 
-### Apply now
-Use this <a href="https://forms.office.com/r/RgvPaw12m2">form</a> to apply for an Open Science badge. 
-
 ### FAQ
 
 Open Science Office Hours support is available to assist you with any Open Science practice you may be struggling with in the process of obtaining the badges.
