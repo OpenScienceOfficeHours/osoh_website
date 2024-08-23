@@ -76,7 +76,7 @@ Visit the **[Office Hours page](https://openscienceofficehours.github.io/osoh_we
 <summary>General</summary>
 
 <h5>Why is Open Science important?</h5>
-Open science implements transparency and reproducibility in scientific research while contributing to the standardization
+Open Science implements transparency and reproducibility in scientific research while contributing to the standardization
 and integrity of scientific research and the creation of a highly collaborative community to advance science for the benefit of humanity.
 Implementing Open Science also benefits you and your lab: it makes your research more efficient and more likely to be cited.
 
@@ -98,7 +98,7 @@ Yes, support is available through the Open Science Office Hours (OSOH) drop-in s
 <h5>Why should I apply for an Open Science badge?</h5>
 To support and engage in Open Science initiatives in your specific area of expertise, while being rewarded and recognized for your efforts.
 
-<h5>Who can apply for an open science badge?</h5>
+<h5>Who can apply for an Open Science badge?</h5>
 All trainees (graduate students and postdoctoral fellows) and undergraduate students who are currently registered at McGill.
 
 <h5>Can co-applicants come from outside the student and postdoctoral community? Can co-applicants be from an institution other than McGill?</h5>
@@ -112,6 +112,9 @@ The documents provided must not be older than 2 years.
 
 <h5>In which languages can I apply for a badge?</h5>
 In French or English.
+
+<h5>Where can I find the checklist for each badge?</h5>
+A checklist is available on each badge specific page.
 
 <h5>Can I apply for more than one badge?</h5>
 Yes! You can apply for as many badges as you want with two conditions:
