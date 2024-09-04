@@ -152,6 +152,9 @@ This badge will allow you to participate or increase your involvement in the Ope
 <h5>How will a team applying to the program receive credit?</h5>
 To ensure proper credit, the team must specify each member's contribution percentage and contribution order when submitting their application.
 
+<h5>What is the financial compensation per badge?</h5>
+It is 100$ per badge. Up to 25 badges will be distributed in the fall.
+
 <h5>Can my participation in the program earn me academic credits?</h5>
 The Open Science badges do not count towards McGill credits but can be officially recognized through the McGill Cross-Curricular record. 
 
