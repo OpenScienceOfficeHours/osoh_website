@@ -17,14 +17,14 @@ Program under construction - Coming soon!
       </p>
     </div>
     <div class="col-md-6 text-right pl-0 pl-lg-6 mt-4 mb-3">
-        {% include youtubePlayer.html id="WHjDaSCwgXE" %}
+        {% include youtubePlayer.html id="w_fhJ2312kU" %}
     </div>
 </div>
 
 <hr>
 --->
 
-{% include youtubePlayer.html id="WHjDaSCwgXE" %}
+{% include youtubePlayer.html id="w_fhJ2312kU" %}
 
  The Open Science Badges program aims to recognize and reward concrete and achievable contributions to Open Science by McGill trainees (undergraduate, graduate students, and postdoctoral fellows).
  This initiative provides a structured pathway for trainees to begin their Open Science journey or expand on the one they are already on by working towards earning badges in core areas of Open Science. This is a joint initiative by the Tanenbaum Open Science Institute (TOSI) Trainee Council and TOSI core team with support from the Open Science Office Hours team.  
