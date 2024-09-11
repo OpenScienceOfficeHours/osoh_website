@@ -6,7 +6,7 @@ image: assets/images/icons_big/helpers.svg
 featured: yes
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
-This program aims to recognize and reward concrete and achievable contributions to Open Science by McGill trainees. 
+This program recognizes and rewards concrete and achievable contributions to Open Science by McGill trainees. 
 
 <!---
 <div class="row align-items-end justify-content-between">
