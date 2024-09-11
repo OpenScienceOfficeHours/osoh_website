@@ -6,7 +6,6 @@ image: assets/images/icons_big/helpers.svg
 featured: yes
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
-Program under construction - Coming soon!
 
 <!---
 <div class="row align-items-end justify-content-between">
