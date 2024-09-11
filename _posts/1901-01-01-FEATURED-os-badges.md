@@ -6,7 +6,7 @@ image: assets/images/icons_big/helpers.svg
 featured: yes
 ---
 <!--- This first line will be displayed on the landing page with the Post title--->
-This program recognizes and rewards concrete and achievable contributions to Open Science by McGill trainees. 
+Get recognized and rewarded for your contributions to Open Science.
 
 <!---
 <div class="row align-items-end justify-content-between">
@@ -25,7 +25,7 @@ This program recognizes and rewards concrete and achievable contributions to Ope
 
 {% include youtubePlayer.html id="w_fhJ2312kU" %}
 
-The Open Science Bagdes program provides a structured pathway for trainees (undergraduate, graduate students, and postdoctoral fellows) to begin their Open Science journey or expand on the one they are already on by working towards earning badges in core areas of Open Science. This is a joint initiative by the Tanenbaum Open Science Institute (TOSI) Trainee Council and TOSI core team with support from the Open Science Office Hours team.  
+The Open Science Bagdes program recognizes and rewards concrete and achievable contributions to Open Science by McGill trainees (undergraduate, graduate students, and postdoctoral fellows). It provides a structured pathway for trainees to begin their Open Science journey or expand on the one they are already on by working towards earning badges in core areas of Open Science. This is a joint initiative by the Tanenbaum Open Science Institute (TOSI) Trainee Council and TOSI core team with support from the Open Science Office Hours team.  
 
 <hr>
 
