@@ -50,7 +50,7 @@ All submissions go through the [Open Science Bagdges Submission Form](https://fo
 * Provide proof of participation in the organization (e..g, links to the initiative’s website, letter from the organization).
 * Provide a brief description (max. 250 words) of your involvement in the initiative.
   
-#### For Creating, Leading, or Organizing an Initiative (Option 3):
+#### Take a Science Communication Course or Training (Option 4):
 * Provide a certificate of completion or transcript as proof of completion in a science communication course or training program.
 * Provide a brief description (max. 250 words) of the course and what you gained from it.
 
