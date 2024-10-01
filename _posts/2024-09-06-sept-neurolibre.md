@@ -3,7 +3,7 @@ layout: post
 title:  NeuroLibre
 author: 
 categories:
-image: assets/images/icons_big/open_publication_sept.svg
+image: assets/images/icons_big/sci_comm_sept.svg
 headimage: no
 featured: no
 subtitle: Reproducible and Executable Preprints
