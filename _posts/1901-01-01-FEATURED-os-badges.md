@@ -52,7 +52,7 @@ The Open Science Bagdes program recognizes and rewards concrete and achievable c
 
 Applications are ongoing until the maximum number of badges available is reached. Up to 25 badges will be distributed in the fall.
 
-Apply now to earn your first Open Science badge! 
+Apply <a href="https://forms.office.com/r/RgvPaw12m2">now</a> to earn your first Open Science badge! 
 
 <hr>
 
