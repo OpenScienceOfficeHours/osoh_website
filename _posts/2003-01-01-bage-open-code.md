@@ -54,4 +54,5 @@ All submissions go through the [Open Science Bagdges Submission Form](https://fo
 * Include link(s) or screenshot(s) of involvement in community forums or issue trackers
 * Include a brief summary (max. 250 words) of your contributions.
 
+### Application
 Apply now using this <b><a href="https://forms.office.com/r/RgvPaw12m2">application form</a></b> to earn your first Open Science badge! 
