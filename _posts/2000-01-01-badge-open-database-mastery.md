@@ -40,3 +40,6 @@ All submissions go through the [Open Science Bagdges Submission Form](https://fo
 * Provide link(s) and persistent identifier(s) to publication, preprint, code-repository, etc. where the tools reside.
 * Include a brief description (max. 250 words) of the tools developed, and how they are enabling to better leverage Open Databases.
 
+### Application
+Apply now using this <b><a href="https://forms.office.com/r/RgvPaw12m2">application form</a></b> to earn your first Open Science badge! 
+

@@ -53,4 +53,7 @@ All submissions go through the [Open Science Bagdges Submission Form](https://fo
 
 _Pro Tip: If you develop code to organize, convert, or describe your data, share this code openly to further progress toward earning the Open Data Badge!_
 
+### Application
+Apply now using this <b><a href="https://forms.office.com/r/RgvPaw12m2">application form</a></b> to earn your first Open Science badge! 
+
 

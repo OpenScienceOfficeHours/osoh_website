@@ -53,3 +53,6 @@ All submissions go through the [Open Science Bagdges Submission Form](https://fo
 * In the case of a Registered Report, provide the link and persistent identifier to the published or preprinted registered report.
 * Include a brief description (max. 250 words) of the project and pre-registration process.
 
+### Application
+Apply now using this <b><a href="https://forms.office.com/r/RgvPaw12m2">application form</a></b> to earn your first Open Science badge! 
+
