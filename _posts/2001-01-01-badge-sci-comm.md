@@ -54,5 +54,6 @@ All submissions go through the [Open Science Bagdges Submission Form](https://fo
 * Provide a certificate of completion or transcript as proof of completion in a science communication course or training program.
 * Provide a brief description (max. 250 words) of the course and what you gained from it.
 
+### Application
 Apply now using this <b><a href="https://forms.office.com/r/RgvPaw12m2">application form</a></b> to earn your first Open Science badge! 
 
