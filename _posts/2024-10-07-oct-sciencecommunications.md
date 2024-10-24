@@ -6,7 +6,7 @@ categories:
 image: assets/images/icons_big/sci_comm_oct.svg
 headimage: no
 featured: no
-subtitle: 
+subtitle: Practical methods for communicating science effectively
 ---
 <style>
 orange {
