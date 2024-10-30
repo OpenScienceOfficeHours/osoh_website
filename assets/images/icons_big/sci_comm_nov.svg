@@ -165,15 +165,15 @@
        inkscape:label="text18981"><tspan
          x="452.31836"
          y="306.49395"
-         id="tspan6"><tspan
+         id="tspan2"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-           id="tspan5">  
+           id="tspan1">  
 </tspan></tspan><tspan
          x="452.31836"
          y="406.49395"
-         id="tspan8"><tspan
+         id="tspan4"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-           id="tspan7">October</tspan></tspan></text><g
+           id="tspan3">October</tspan></tspan></text><g
        id="g8529-6"
        transform="matrix(0.09002433,0.00153279,-0.00153279,0.09002433,-64.559047,233.26155)"
        style="display:inline;fill:none;fill-opacity:1;stroke:#40b39f;stroke-width:5.18441;stroke-dasharray:none;stroke-opacity:1"
@@ -192,7 +192,7 @@
            r="256.08301"
            id="circle8513-9"
            style="fill:none;fill-opacity:1;stroke:#40b39f;stroke-opacity:1" /><circle
-           style="fill:#fc4889;fill-opacity:1;stroke:#fc4889;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#40b39f;fill-opacity:1;stroke:#fc4889;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="path841"
            cx="383.36615"
            cy="825.09668"
