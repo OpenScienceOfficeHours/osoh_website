@@ -17,20 +17,20 @@ orange {
 <!-- ![](../assets/images/video_screenshots/click-to-see-video.png) -->
 
 <!-- [![](../assets/images/video_screenshots/2023-10-05_osoh_ko_oct-video-screenshot.png)](https://www.youtube.com/watch?v=OHxnwzOKqHM&list=PL4IAzeXaocvx2rSfU1YCuTN3SmnOMqOz3&index=4) -->
-<img align="right" width="400" src="{{site.baseurl}}/assets/images/monthly_posters/2024-11-12_osoh_rb_nov-poster-portrait.png">
+<img align="right" width="400" src="{{site.baseurl}}/assets/images/monthly_posters/2024-10-12_osoh_rb_nov-poster-portrait.png">
 
 ### Expert of the month
 <orange>Robin Desmeules<br>Interim Coordinator of Scholarly Communications at McGill Libraries</orange>
 
-Robin Desmeules is a Cataloguing Librarian at McGill University, and works with rare and special materials. She has been a librarian since 2014 with a commitment to open scholarship. Her work focuses on critical approaches to knowledge organization, experimenting and implementing linked data for special collections, and community generated naming systems.
+Robin Desmeules is a Cataloguing Librarian at McGill University, and works with rare and special materials. She has been a librarian since 2014 with a commitment to Open Scholarship. Her work focuses on critical approaches to knowledge organization, experimenting and implementing linked data for special collections, and community generated naming systems.
 ### Seminar/Workshop
 
 <orange>When</orange>
 Tuesday, November 12, 2024 at 4 pm
 
 <orange>Where</orange>
-Thomson House, PGSS McGill University - 3650 McTavish, Montreal, Quebec
-(Limited spots for in-person attendance!)
+Thomson House, PGSS McGill University - 3650 McTavish, Montreal, Quebec (Limited spots for in-person attendance!)
+
 And on Zoom (register for link)
 
 <orange>Abstract</orange>
