@@ -6,3 +6,6 @@ assets/images/icons_big/undraw_originals
 .sass-cache
 _site
 Gemfile.lock
+.DS_Store
+assets/.DS_Store
+assets/images/monthly_posters/2024-11-12_osoh_rb_nov-poster-square.png
