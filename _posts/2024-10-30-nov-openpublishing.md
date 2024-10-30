@@ -31,7 +31,7 @@ Tuesday, November 12, 2024 at 4 pm
 <orange>Where</orange>
 Thomson House, PGSS McGill University - 3650 McTavish, Montreal, Quebec (Limited spots for in-person attendance!)
 
-And on Zoom (register for link)
+And on Zoom (register for link) 
 
 <orange>Abstract</orange>
 In this session, you will explore how to ensure that your published work is made openly accessible, prioritizing access over profit. We will dive into why making your work open matters, not just for your own visibility and impact, but also to advance knowledge-sharing globally. You will learn how to navigate the open publishing landscape in Canada, including key insights on current and upcoming funding agencies requirements for open access publishing. This workshop will focus on the importance of open science, with open access at its heart. You’ll discover how adopting open publishing practices is taking a bite out of the for-profit publishing model, helping democratize research. Open publishing is key to ensuring that research findings are shared widely, equitably, and without the barriers imposed by traditional publishing houses. Join us to learn practical steps for making your work accessible to all.
