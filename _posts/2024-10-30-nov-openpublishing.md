@@ -29,7 +29,7 @@ Robin Desmeules is a Cataloguing Librarian at McGill University, and works with 
 Tuesday, November 12, 2024 at 4 pm
 
 <orange>Where</orange>
-Thomson House, PGSS McGill University - 3650 McTavish, Montreal, Quebec (Limited spots for in-person attendance!)
+Thomson House Room 405, PGSS McGill University - 3650 McTavish, Montreal, Quebec (Limited spots for in-person attendance!)
 
 And on Zoom (register for link)
 
