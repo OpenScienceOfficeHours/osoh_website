@@ -33,7 +33,7 @@ Thank you to everyone who registered to attend and we apologize for any inconven
 Stay tuned for the next OSOH event in December!**
 
 <orange>When</orange>
-Tuesday, November 12, 2024 at 4 pm
+CANCELED: Tuesday, November 12, 2024 at 4 pm
 
 <orange>Where</orange>
 Thomson House Room 405, PGSS McGill University - 3650 McTavish, Montreal, Quebec (Limited spots for in-person attendance!)
