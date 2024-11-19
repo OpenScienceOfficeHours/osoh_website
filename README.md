@@ -60,8 +60,8 @@ Resources page layout and underlying tagging/filtering funcitonnalities adapted 
   * pandas (`pip install pandas`)
 * To add new resources, follow these steps
   * Download the logo for the new resources. Note that we're trying to get the simplest version of the logo (without a lot of text), since the resource name will be displayed under the logo.
-  * Fill in [this Google survey]() with the required information
-  * Download [this Google spreadsheet]() as a .csv. This contains the survey responses (i.e., the information about each resource)
+  * Fill in [this Google survey](https://docs.google.com/forms/d/e/1FAIpQLSc94Y6PckHO51iPIlmWFtHj2fbLHX8xV01vSLkV0FSP-ZgL2Q/viewform?usp=sf_link) with the required information
+  * Download [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1q-ujR9ORSaDh5cAt-BOMcH1vU_a4DYatabzXbar1Fwg/edit?usp=drive_link) as a .csv. This contains the survey responses (i.e., the information about each resource)
   * Delete this file: `assets/js/Collecting Open-Science Resources v3 (Responses) - Form Responses 1.csv`
   * Move the newly-downloaded file there ^ 
   * Run the python file that takes this .csv and turns it into a .json that the js code reads, using this command: `python3 integrations_csv_to_json.py`
