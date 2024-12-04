@@ -17,7 +17,7 @@ orange {
 <!-- ![](../assets/images/video_screenshots/click-to-see-video.png) -->
 
 <!-- [![](../assets/images/video_screenshots/2023-10-05_osoh_ko_oct-video-screenshot.png)](https://www.youtube.com/watch?v=OHxnwzOKqHM&list=PL4IAzeXaocvx2rSfU1YCuTN3SmnOMqOz3&index=4) -->
-<img align="right" width="400" src="{{site.baseurl}}/assets/images/monthly_posters/2024-12-3_osoh_rb_dec-poster-portrait">
+<img align="right" width="400" src="{{site.baseurl}}/assets/images/monthly_posters/2024-12-3_osoh_rb_dec-poster-portrait.png">
 
 
 ### Expert of the month
@@ -37,7 +37,7 @@ de Grandpre Communications Centre, the Neuro (Montreal Neurological Institute-Ho
 And on Zoom (register for link)
 
 <orange>Abstract</orange>
-Our project is to develop an MRI-based algorithm to be used by radiologists and clinicians to ensure prompt recognition and interpretation of white matter abnormalities in patients with HSPs to accelerate the diagnostic process. In this session we will discuss how this project progressed from a flowchart, to a real functional tool, and teach you how to make your own. You will learn the workflow to compile your own database, what mistakes to look out for, and how to refine your search and use large databases (e.g. scopus). We will discuss how the algorithm was created and implemented, and give an overview of the tools we used to help plan and create the algorithm. We will briefly touch on topics such as Anaconda environments, python, and python packages, while explaining why we used these tools speciially, and what are alternatives suitable for your project.
+Our project is to develop an MRI-based algorithm to be used by radiologists and clinicians to ensure prompt recognition and interpretation of white matter abnormalities in patients with HSPs to accelerate the diagnostic process. In this session we will discuss how this project progressed from a flowchart, to a real functional tool, and teach you how to make your own. You will learn the workflow to compile your own database, what mistakes to look out for, and how to refine your search and use large databases (e.g. scopus). We will discuss how the algorithm was created and implemented, and give an overview of the tools we used to help plan and create the algorithm. We will briefly touch on topics such as Anaconda environments, python, and python packages, while explaining why we used these tools specifically, and what are alternatives suitable for your project.
 
 
 <orange>Attendance is FREE, please register:</orange> 
