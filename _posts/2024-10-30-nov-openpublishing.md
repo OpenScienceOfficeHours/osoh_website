@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Open Publishing
+title:  Open Algorithms
 author: 
 categories:
 image: assets/images/icons_big/sci_comm_nov.svg
 headimage: no
 featured: no
-subtitle: Advancing knowledge-sharing globally
+subtitle: DIY imaging-based algorithm
 ---
 <style>
 orange {
@@ -19,30 +19,27 @@ orange {
 <!-- [![](../assets/images/video_screenshots/2023-10-05_osoh_ko_oct-video-screenshot.png)](https://www.youtube.com/watch?v=OHxnwzOKqHM&list=PL4IAzeXaocvx2rSfU1YCuTN3SmnOMqOz3&index=4) -->
 <img align="right" width="400" src="{{site.baseurl}}/assets/images/monthly_posters/2024-10-12_osoh_rb_nov-poster-portrait.png">
 
-**Please note that today's event has been canceled due to unexpected circumstances.
-Thank you to everyone who registered to attend and we apologize for any inconvenience this may have caused you.
-Stay tuned for the next OSOH event in December!**
 
 ### Expert of the month
-<orange>Robin Desmeules<br>Interim Coordinator of Scholarly Communications at McGill Libraries</orange>
+<orange>Ruwan Bedeir and Aleyeldin Hassan<br>The White Lab, McGill University</orange>
 
-Robin Desmeules is a Cataloguing Librarian at McGill University, and works with rare and special materials. She has been a librarian since 2014 with a commitment to Open Scholarship. Her work focuses on critical approaches to knowledge organization, experimenting and implementing linked data for special collections, and community generated naming systems.
+Ruwan Bedeir is a dedicated Master's candidate with two years of experience in neuroscience research. She holds a B.Sc. Honours Specialization in Genetics from Western University and works at the White Lab. Ruwan's primary research goal is to uncover the genetic factors behind white matter diseases, with a focus on developing targeted genetic therapies. She is actively involved in multiple projects that aim to differentiate between multiple sclerosis and similar conditions, investigate phenotypes and MR imaging in hereditary spastic paraplegia, and contribute to the White Matter Rounds Network. Her overarching mission is to make neuroscience more accessible to the public and advance our understanding of these complex conditions. 
+Aley is a 4th year Economics student at Concordia University. His passion for computer programming and mathematics pushed him to pursue and obtain a Diploma in Data Science alongside his undergraduate studies. In 2023, he worked part-time as a statistics study group leader at the Student Success Center in Concordia University. Through academic and personal projects, he deepened his knowledge of machine learning algorithms and how to implement them to solve real world problems. As a volunteer for the lab, he uses his programming skills for custom program development as well as writing task automation scripts for data.  
 ### Seminar/Workshop
-**Please note that today's event has been canceled due to unexpected circumstances.
-Thank you to everyone who registered to attend and we apologize for any inconvenience this may have caused you.
-Stay tuned for the next OSOH event in December!**
+
 
 <orange>When</orange>
-CANCELED: Tuesday, November 12, 2024 at 4 pm
+Wednesday, December 18, 2024 at 4 pm
 
 <orange>Where</orange>
-Thomson House Room 405, PGSS McGill University - 3650 McTavish, Montreal, Quebec (Limited spots for in-person attendance!)
+de Grandpre Communications Centre, the Neuro (Montreal Neurological Institute-Hospital)
 
 And on Zoom (register for link)
 
 <orange>Abstract</orange>
-In this session, you will explore how to ensure that your published work is made openly accessible, prioritizing access over profit. We will dive into why making your work open matters, not just for your own visibility and impact, but also to advance knowledge-sharing globally. You will learn how to navigate the open publishing landscape in Canada, including key insights on current and upcoming funding agencies requirements for open access publishing. This workshop will focus on the importance of open science, with open access at its heart. You’ll discover how adopting open publishing practices is taking a bite out of the for-profit publishing model, helping democratize research. Open publishing is key to ensuring that research findings are shared widely, equitably, and without the barriers imposed by traditional publishing houses. Join us to learn practical steps for making your work accessible to all.
+Our project is to develop an MRI-based algorithm to be used by radiologists and clinicians to ensure prompt recognition and interpretation of white matter abnormalities in patients with HSPs to accelerate the diagnostic process. In this session we will discuss how this project progressed from a flowchart, to a real functional tool, and teach you how to make your own. You will learn the workflow to compile your own database, what mistakes to look out for, and how to refine your search and use large databases (e.g. scopus). We will discuss how the algorithm was created and implemented, and give an overview of the tools we used to help plan and create the algorithm. We will briefly touch on topics such as Anaconda environments, python, and python packages, while explaining why we used these tools speciially, and what are alternatives suitable for your project.
 
 
 <orange>Attendance is FREE, please register:</orange> 
 **[Here!](https://shorturl.at/ewdQp)**
+
