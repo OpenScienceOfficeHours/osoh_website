@@ -36,7 +36,9 @@ de Grandpre Communications Centre, the Neuro (Montreal Neurological Institute-Ho
 And on Zoom (register for link)
 
 <orange>Abstract</orange>
-The Early Drug Discovery Unit (EDDU) mission is to accelerate the development of new therapies for patients living with brain disorders. The EDDU is an active participant in fostering and practising open science, and we train researchers to work with induced pluripotent stem cells (iPSCs) by offering trainings and workshops to the scientific community, as well as providing our written and video protocols that are freely available at the EDDU website. In this section I will share my experience developing the protocols and video materials showing how our team used the appropriate tools to create our virtual and interactive iPSC training.
+The Early Drug Discovery Unit (EDDU) mission is to accelerate the development of new therapies for patients living with brain disorders. The EDDU is an active participant in fostering and practising open science, and we train researchers to work with induced pluripotent stem cells (iPSCs) by offering trainings and workshops to the scientific community, as well as providing our written and video protocols that are freely available at the EDDU website. In this section, Cecilia will share her experience developing the protocols and video materials showing how the EDDU’s team used the appropriate tools to create our virtual and interactive iPSC training. 
+She will also share practical tips that can be used to create your own video or written protocol and learn how to share them openly!
+
 
 <orange>Attendance is FREE, please register:</orange> 
 **[Here!](https://shorturl.at/PFNkv)**
