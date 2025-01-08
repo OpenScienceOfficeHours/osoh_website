@@ -17,7 +17,7 @@ orange {
 <!-- ![](../assets/images/video_screenshots/click-to-see-video.png) -->
 
 <!-- [![](../assets/images/video_screenshots/2023-10-05_osoh_ko_oct-video-screenshot.png)](https://www.youtube.com/watch?v=OHxnwzOKqHM&list=PL4IAzeXaocvx2rSfU1YCuTN3SmnOMqOz3&index=4) -->
-<img align="right" width="400" src="{{site.baseurl}}/assets/images/monthly_posters/2024-12-3_osoh_rb_dec-poster-portrait.png">
+<img align="right" width="400" src="{{site.baseurl}}/assets/images/monthly_posters/2025-1-1_osoh_rb_jan-poster-portrait.png">
 
 
 ### Expert of the month
