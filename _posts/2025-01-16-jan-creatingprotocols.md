@@ -3,7 +3,7 @@ layout: post
 title:  Creating Virtual Protocols
 author: 
 categories:
-image: assets/images/icons_big/sci_comm_dec.svg
+image: image: assets/images/monthly_posters/2025-1-1_osoh_rb_jan-poster-portrait.png
 headimage: no
 featured: no
 subtitle: Creating Virtual Protocols
