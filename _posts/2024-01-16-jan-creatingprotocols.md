@@ -42,3 +42,6 @@ She will also share practical tips that can be used to create your own video or 
 
 <orange>Attendance is FREE, please register:</orange> 
 **[Here!](https://shorturl.at/PFNkv)**
+
+<orange>Book an one-on-one with our expert of the month:</orange> 
+**[Here!](https://calendly.com/open-science-expert)**
