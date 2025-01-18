@@ -31,7 +31,7 @@ Resources page layout and underlying tagging/filtering funcitonnalities adapted 
 * These are more frequently added for Events, Theme of the Months, Other news...
 * In the backend, located in _posts
   * Everything contained in _posts that is not a "Featured: yes" post will end up here. If you want to remove posts, you may move them in _posts/archive
-* File name needs to start with a date (yyyy-mm-dd-) or it won't be displayed. This date will be displayed on the landing page and on the Post Page. 
+* File name needs to start with a date (yyyy-mm-dd-) or it won't be displayed. It can't be a date in the future otherwise it won't create the post. This date will be displayed on the landing page and on the Post Page. 
 * File Header:
   * Title: "The title that will be displayed"
   * Image: "The image that will be displayed"
