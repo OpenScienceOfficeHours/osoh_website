@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Open Hardware: What it is, and everything you wanted to ask, but did not know how!
+title:  Open Hardware What it is, and everything you wanted to ask, but did not know how!
 author: 
 categories:
 image: assets/images/monthly_posters/2025-1-18_osoh_rb_feb-poster-portrait.png
