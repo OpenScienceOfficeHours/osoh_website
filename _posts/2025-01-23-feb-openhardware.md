@@ -6,7 +6,7 @@ categories:
 image: assets/images/monthly_posters/2025-1-18_osoh_rb_feb-poster-portrait.png
 headimage: no
 featured: no
-subtitle: Open Hardware: What it is, and everything you wanted to ask, but did not know how!
+subtitle: Open Hardware What it is, and everything you wanted to ask, but did not know how!
 ---
 <style>
 orange {
