@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Open Hardware What it is, and everything you wanted to ask, but did not know how!
+title:  Open Hardware
 author: 
 categories:
 image: assets/images/monthly_posters/2025-1-18_osoh_rb_feb-poster-portrait.png
 headimage: no
 featured: no
-subtitle: Open Hardware What it is, and everything you wanted to ask, but did not know how!
+subtitle: What it is, and everything you wanted to ask, but did not know how!
 ---
 <style>
 orange {
@@ -32,7 +32,7 @@ Andre is a neuroscientist, open science advocate, and innovator in the field of 
 Friday, February 7, 2025 at noon
 
 <orange>Where</orange>
-**[de Grandpre Communications Centre](https://www.mcgill.ca/neuro/about/find-us/wayfinding)**, the Neuro (Montreal Neurological Institute-Hospital)
+**[de Grandpré Communications Centre](https://www.mcgill.ca/neuro/about/find-us/wayfinding)**, the Neuro (Montreal Neurological Institute-Hospital)
 
 And on Zoom (register for link)
 
