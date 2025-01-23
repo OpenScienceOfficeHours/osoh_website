@@ -6,7 +6,7 @@ categories:
 image: assets/images/monthly_posters/2025-1-1_osoh_rb_jan-poster-portrait.png
 headimage: no
 featured: no
-subtitle: Creating Virtual Protocols
+subtitle: Pratical tips to create and openly share your own protocols
 ---
 <style>
 orange {
