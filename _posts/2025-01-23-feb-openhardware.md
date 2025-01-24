@@ -33,9 +33,7 @@ Friday, February 7, 2025 at 11:30 am ET
 
 <orange>Where</orange>
 de Grandpré Communications Centre, the Neuro (Montreal Neurological Institute-Hospital)
-
-**[Directions](https://www.mcgill.ca/neuro/about/find-us/wayfinding)**
-
+**Click [here] for directions (https://www.mcgill.ca/neuro/about/find-us/wayfinding)**
 And on Zoom (register for link)
 
 <orange>Abstract</orange>
