@@ -32,7 +32,8 @@ Andre is a neuroscientist, open science advocate, and innovator in the field of 
 Friday, February 7, 2025 at 11:30 am ET
 
 <orange>Where</orange>
-**[de Grandpré Communications Centre](https://www.mcgill.ca/neuro/about/find-us/wayfinding)**, the Neuro (Montreal Neurological Institute-Hospital)
+de Grandpré Communications Centre, the Neuro (Montreal Neurological Institute-Hospital)
+**[Directions](https://www.mcgill.ca/neuro/about/find-us/wayfinding)**
 
 And on Zoom (register for link)
 
