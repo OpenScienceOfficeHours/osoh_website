@@ -45,3 +45,6 @@ In this Office Hours Session we will have an overview of What Open Hardware is, 
 <orange>Attendance is FREE, please register:</orange> 
 **[Here!](https://www.eventbrite.com/e/open-science-office-hours-special-lecture-tickets-1123667452599?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp)**
 
+<orange>Book a one-on-one with our expert of the month:</orange> 
+**[Here!](https://calendly.com/open-science-expert)**
+
