@@ -3,7 +3,7 @@ layout: post
 title:  Open Hardware
 author: 
 categories:
-image: assets/images/monthly_posters/2025-1-18_osoh_rb_feb-poster-portrait.png
+image: assets/images/icons_big/wet_labs_feb.svg
 headimage: no
 featured: no
 subtitle: What it is, and everything you wanted to ask, but did not know how!
