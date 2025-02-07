@@ -3,7 +3,7 @@ layout: post
 title:  Creating Virtual Protocols
 author: 
 categories:
-image: assets/images/monthly_posters/2025-1-1_osoh_rb_jan-poster-portrait.png
+image: assets/images/icons_big/wet_labs_jan.svg
 headimage: no
 featured: no
 subtitle: Pratical tips to create and openly share your own protocols
