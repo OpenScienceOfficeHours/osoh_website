@@ -158,3 +158,30 @@ It is 100$ per badge. Up to 25 badges will be distributed in the fall.
 The Open Science badges do not count towards McGill credits but can be officially recognized through the McGill Cross-Curricular record. 
 
 </details>
+
+
+<hr>
+
+### Past Awardees
+<section class="row justify-content-center text-center">
+  
+{% for person in site.data.badgeawardees %}
+<div class="col-md-4 mb-5">
+    <div class="card">
+      <a href="{{person.link}}">
+          <img class="rounded mb-4" src="/osoh_website/assets/images/badge_awardees/{{person.img}}" alt=""> 
+      </a>
+      <div class="card-block">
+          <h3 class="card-title h5 serif-font"><a href="{{person.link}}">{{person.name}}</a></h3>
+          <h3 class="card-title h4 serif-font"><a href="/osoh_website/{{person.badgeLink}}">{{person.badge}}</a></h3>
+          {% if person.project_link %}
+          <p><a href="{{person.project_link}}">{{person.desc}}</a></p>
+          {% else %}
+          <p>{{person.desc}}</p>
+          {% endif %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+
+</section>
