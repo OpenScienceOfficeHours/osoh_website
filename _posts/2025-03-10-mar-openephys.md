@@ -6,7 +6,7 @@ categories:
 image: assets/images/icons_big/wet_labs_mar.svg
 headimage: no
 featured: no
-subtitle: Open Source tools for Data Acquisition
+subtitle: Miniscope Acquisition Systems
 ---
 <style>
 orange {
@@ -21,7 +21,7 @@ orange {
 
 
 ### Expert of the month
-<orange>Cecilia Herbert<br> Training, Support, Outreach Scientific Team Lead
+<orange>Cecilia Herbert<br> Training, Support, Outreach Scientific Team Lead  at the
 Open Ephys Production Site, Lisbon, Portugal</orange>
 
 Cecilia is a neuroscientist dedicated to disseminating open source technology. She leads the Training, Support and Outreach Scientific Team at Open Ephys, a company that develops, produces and distributes open-source tools for neuroscience. Since getting involved in this field in 2020, she has participated in numerous workshops, outreach events, and advanced training courses, and has organized the Electrophysiology Acquisition NeuroKit Course. Her talks and course modules highlight open source hardware and software for electrophysiology, neuronal imaging, and behavioral acquisition and control in freely moving animals. Acting as a link between developers and users, Cecilia strives to demystify technical concepts and listen to community needs to contribute back to open-source projects. She focuses on spreading knowledge inclusively and accessibly—particularly to new users and across language barriers—through hands-on, interactive activities, in the hope of empowering researchers with the flexibility and independence to tackle their scientific questions.
