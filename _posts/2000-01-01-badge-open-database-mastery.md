@@ -27,7 +27,7 @@ To earn the Open Database Mastery badge, participants must fulfill requirements 
 
 #### Option 2: Augment the potential of Open Databases and the Open Data Ecosystem
 1. **Build software tools to:** query, scrape, annotate or harmonize data across multiple open databases, or
-2. Tools that integrate machine learning algorithms for predictive modeling using big open data.
+2. Tools that integrate machine learning algorithms for predictive modeling using big open data, such as combining multiple datasets and using extracted features to predict attributes.
 
 ### Submission Checklist
 All submissions go through the [Open Science Bagdges Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=cZYxzedSaEqvqfz4-J8J6ut_5ADJQNBIjT-33hrU9ERUM1dWQzU4UjNBWENZVUoxUUMzNVZINU9GRC4u). Here is what to include in your applicaiton file depending on which Option described above you are following:

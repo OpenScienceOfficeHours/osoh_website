@@ -29,9 +29,9 @@ To earn the Open Methods badge, participants must fulfill requirements for at le
 
 #### Option 2: Support and Training for Research Methods
 1. **Produce and share tutorials openly:** Create and share video, written/text-based, or other kinds of tutorials (e.g., [Neuro-Eddu Portal](https://www.neuro-edduportal.com/english-protocol-videos)) for a method/protocol/technique, OR
-2. **Train others:** Lead or participate in organizing a workshop or course to train others on how to use a method/protocol you developed or participated in developing.
+2. **Train others:** Lead or participate in organizing a workshop or course to teach others how to use a method or protocol you developed, adapted, or are proficient in.
 
-**Note:** The material produced should be as inclusive and accessible as possible. For instance tutorials should be made available in multiple languages, videos should have subtitles in English and/or French, etc.
+**Note:** The material produced should be as inclusive and accessible as possible, tailored to the target audience. For example, a video aimed at a Canadian audience could include subtitles in English and/or French, or a blog post originally in English could be translated into Spanish to explain how to use a method.
 
 #### Option 3: Pre-registration
 1. **Pre-register an experiment:** Pre-register a study prospectively (prior to data collection or analysis) on an appropriate platform (e.g., [OSF.io](https://help.osf.io/article/330-welcome-to-registrations)), and cite/refer to the pre-registration in a published article or preprint reporting the results of that experiment, OR
