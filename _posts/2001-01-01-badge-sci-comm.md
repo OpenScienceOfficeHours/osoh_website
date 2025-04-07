@@ -44,7 +44,7 @@ All submissions go through the [Open Science Bagdges Submission Form](https://fo
 #### For Creating Media Content (Option 2):
 * Provide links to the social media account or media outlet and proof of your involvement.
 * Provide links to at least two science communication pieces and proof of your involvement/authorship.
-* Provide a summary (max. 250 words) of the content created with evidence of engagement with the content created (e.g., number of posts, number of re-shares and reactions, number of reads, downloads, etc.).
+* Provide a summary (max. 250 words) of the content created with evidence of engagement with the content created (e.g., number of posts, number of re-shares and reactions, number of reads, downloads, comments, likes, mentions, etc.).
   
 #### For Creating, Leading, or Organizing an Initiative (Option 3):
 * Provide proof of participation in the organization (e..g, links to the initiative’s website, letter from the organization).
