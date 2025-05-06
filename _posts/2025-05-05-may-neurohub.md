@@ -32,8 +32,7 @@ Bryan Caron is leader of the CBRAIN platform and Co-Principal Investigator and D
 Wednesday, May 14, 2025 at 4 pm EST
 
 <orange>Where</orange>
-Thompson House Restaurant
-3650 McTavish St, Montreal, QC 
+Thompson House Restaurant, 3650 McTavish St, Montreal, QC <br>
 And on Zoom (register for link)
 
 <orange>Abstract</orange>
