@@ -12,3 +12,45 @@
   link: https://www.linkedin.com/in/kaile-fang-28a7a226b/
   desc: For directing the TOSI open science journal club - 7 sessions so far, initiating ReproducibiliTea, and giving talks on open science.
   project_link: https://osf.io/45xuw/
+
+- name: Laura Marsal Garcia
+  badge: Open Code
+  badgeLink: bage-open-code/
+  img: LauraMarsalGarcia-OC.png
+  link: https://www.linkedin.com/in/laura-marsal-garcia/
+  desc: For developing a Python tool to efficiently process and analyze mouse ultrasonic vocalizations (USVs), accelerating neuroscience research while saving researchers valuable time.
+  project_link: https://github.com/Laura3-13/usv-utils
+
+- name: Gilberto Rojas Vite
+  badge: Science Communication
+  badgeLink: badge-sci-comm/
+  img: gilbertoRojasVite-OSC.png
+  link: https://www.linkedin.com/in/gilberto-r-vite-444ab0258
+  desc: For introducing and organizing, alongside Dr. Quinn Lee, the very first Power Pitch Sessions at the CAN 2024 meeting. This new presentation format that allowed trainees to highlight their research in 3 minutes talks.
+  project_link: https://can-acn.org/meeting-2024/trainee-power-pitch-session/
+
+- name: Dominique Lumley
+  badge: Science Communication
+  badgeLink: badge-sci-comm/
+  img: NikkiLumley-OSC.png
+  link: https://www.linkedin.com/in/dominique-lumley-88363a2ab/
+  desc: For effectively communicating the importance (and difficulty) of conducting research in mental health to the general public. 
+  project_link: https://www.linkedin.com/in/dominique-lumley-88363a2ab/
+
+- name: Gabriel Blanco Gomez
+  badge: Science Communication
+  badgeLink: badge-sci-comm/
+  img: gabrielBlanco-OSC.png
+  link: https://www.linkedin.com/in/gabriel-blanco-gomez-7b4806186/
+  desc: For winning the provincial SciencePop Knowledge Translation Competition and participating in McGill’s Three Minute Thesis, where he communicated complex neuroscience research to broad audiences in engaging, accessible ways.
+  project_link: https://www.linkedin.com/in/gabriel-blanco-gomez-7b4806186/
+
+- name: Gabriel Blanco Gomez
+  badge: Open Code
+  badgeLink: bage-open-code/
+  img: gabrielBlanco-OC.png
+  link: https://github.com/gabrielblancogomez/infant_neurosubs/
+  desc: For developing a fully documented and openly licensed pipeline that allows researchers to replicate and extend EEG-based analyses of early brain and language development in infants.
+  project_link: https://github.com/gabrielblancogomez/infant_neurosubs/
+
+
