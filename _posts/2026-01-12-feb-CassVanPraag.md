@@ -3,7 +3,7 @@ layout: post
 title: Git Good
 author: 
 categories:
-image: assets/images/icons_big/wet_labs_sept.svg
+image: assets/images/icons_big/open_analysis_jan.svg
 headimage: no
 featured: no
 subtitle: An Introduction to GitHub for Collaboration
