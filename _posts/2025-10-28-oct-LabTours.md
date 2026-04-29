@@ -39,16 +39,16 @@ Our goal is twofold: (1) help open‑science contributors have their work recogn
 
 Format: a lab‑tour style event at the Neuro. Presenters walk visitors through the tool in the lab, show a real use-case, then host a short Q&A. We will be hosting a social hour follows the tour to allow for networking between attendees and presenters.
 
-Tools Showcased:
-The White Matter Rounds Network - The WHITE Lab
-Brain Imaging Essentials - The WHITE Lab
-Nipopy - NeuroDataScience - ORIGAMI
-RetInaBox - Trenholm Lab
-50 mT Low Field MRI Halbach Array Scanner - MiND Lab
-OpenHCS - Fournier Lab
-OMEGA - NeuroSPEED
-Brainstorm - NeuroSPEED
-NeuroBagel - Origami
+Tools Showcased: <br>
+The White Matter Rounds Network - The WHITE Lab<br>
+Brain Imaging Essentials - The WHITE Lab<br>
+Nipopy - NeuroDataScience - ORIGAMI<br>
+RetInaBox - Trenholm Lab<br>
+50 mT Low Field MRI Halbach Array Scanner - MiND Lab<br>
+OpenHCS - Fournier Lab<br>
+OMEGA - NeuroSPEED<br>
+Brainstorm - NeuroSPEED<br>
+NeuroBagel - Origami<br>
 
 <orange>Attendance is FREE, please register:</orange> 
 **[Here!](https://www.eventbrite.com/e/open-science-office-hours-special-lecture-tickets-1123667452599?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp)**
