@@ -37,7 +37,7 @@ de Grandpré Communications Centre, the Neuro (Montreal Neurological Institute-H
 <br>
 
 <orange>Abstract</orange>
-
+In this interactive workshop, participants will learn the basics of 3D printing, including different types of printers, materials, software, and the main steps of the printing workflow. The session will be led by Dr. Joshua M. Pearce, the John M. Thompson Chair in Information Technology and Innovation at Western University, a Fellow of the Canadian Academy of Engineering, and a leading expert in open hardware, additive manufacturing, and sustainable technology. This is a great opportunity to explore how 3D printing can support research, especially as many community members already have access to printers through McGill libraries, maker spaces, and individual labs. No prior experience is required.
 
 <orange>Attendance is FREE, please register:</orange> 
 **[Here!](https://www.eventbrite.com/e/open-science-office-hours-special-lecture-tickets-1123667452599?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp)**
