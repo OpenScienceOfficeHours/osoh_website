@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Git Good
+title: Git Good: An Introduction to GitHub for Collaboration
 author: 
 categories:
-image: assets/images/icons_big/wet_labs_sept.svg
+image: assets/images/icons_big/workshop_feb.svg
 headimage: no
 featured: no
-subtitle: An Introduction to GitHub for Collaboration
+subtitle: A hands-on workshop
 ---
 <style>
 orange {
@@ -23,7 +23,7 @@ orange {
 ### Expert of the month
 <orange>Cassandra Gould van Praag<br> Co-Founder and Executive Director of RCM Cooperative</orange>
 
-Cassandra Gould van Praag is Co-Founder and Executive Director of RCM Cooperative (http://rcmcooperative.com/). She has a PhD in Neuroscience (2014) and 6 years experience building data science communities at the Alan Turing Institute and University of Oxford, with a particular focus on embedding open research practices. With both qualitative and quantitative research expertise, she is a skilled analyst, strategist and creative problem solver. She aims for maximum transparency and reproducibility in her work, and prioritises inclusive and joyful participation. At RCM Cooperative, she is developing Research Community Management (RCM) training materials, mentoring RCMs, and facilitating research funding and performing organisations through professional community management practices. Cass is a contributor to The Turing Way handbook on reproducible, ethical and collaborative data science (https://book.the-turing-way.org), Co-Founder of Open Research Calendar (http://openresearchcalendar.org/), Co-Chair of the OHBM Open Science Room 2020 (https://ohbm.github.io/osr2020/), and a Fellow of the Software Sustainability Institute (http://software.ac.uk/).
+Cassandra Gould van Praag is Co-Founder and Executive Director of **[RCM Cooperative](http://rcmcooperative.com/)**. She has a PhD in Neuroscience (2014) and 6 years experience building data science communities at the Alan Turing Institute and University of Oxford, with a particular focus on embedding open research practices. With both qualitative and quantitative research expertise, she is a skilled analyst, strategist and creative problem solver. She aims for maximum transparency and reproducibility in her work, and prioritises inclusive and joyful participation. At RCM Cooperative, she is developing Research Community Management (RCM) training materials, mentoring RCMs, and facilitating research funding and performing organisations through professional community management practices. Cass is a contributor to The Turing Way handbook on reproducible, ethical and collaborative data science (https://book.the-turing-way.org), Co-Founder of **[Open Research Calendar](http://openresearchcalendar.org/)**, Co-Chair of the **[OHBM Open Science Room 2020](https://ohbm.github.io/osr2020/)**, and a Fellow of the **[Software Sustainability Institute](http://software.ac.uk/)**.
 
 ### Seminar/Workshop
 
