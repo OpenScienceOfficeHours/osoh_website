@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Science Tools Showcase: Lab Tours
+title: Open Science Tools Showcase, Lab Tours
 author: 
 categories:
 image: assets/images/icons_big/workshop_oct.svg

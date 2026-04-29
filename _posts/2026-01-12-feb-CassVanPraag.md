@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git Good: An Introduction to GitHub for Collaboration
+title: Git Good, An Introduction to GitHub for Collaboration
 author: 
 categories:
 image: assets/images/icons_big/workshop_feb.svg
